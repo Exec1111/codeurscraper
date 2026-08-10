@@ -1,0 +1,41 @@
+name: Daily mission search
+
+on:
+  schedule:
+    # 05:00 UTC = 07:00 Paris (CEST, summer). During winter (CET) this runs
+    # at 06:00 Paris instead — shift by ±1h here if you want it pinned exactly.
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-score:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper + scorer
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/main.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "codeurscraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily mission scan $(date -u +%Y-%m-%d)"
+            git push
+          fi

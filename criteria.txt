@@ -1,0 +1,33 @@
+# Critères de recherche pour codeurscraper
+#
+# Écris ici, en langage naturel, ce que tu cherches sur codeur.com.
+# Ce texte est envoyé tel quel au LLM qui note chaque mission.
+# Modifie ce fichier librement : il est relu à chaque exécution, pas besoin
+# de toucher au code.
+#
+# Exemple ci-dessous à remplacer par tes vrais critères :
+
+Je suis développeur freelance, je cherche des missions de développement
+logiciel (backend, API, automatisation, IA/LLM, scripts, intégrations).
+
+Je veux :
+- des missions techniques où le client sait à peu près ce qu'il veut
+  (brief un minimum clair, pas juste "je veux une app comme Uber")
+- un budget cohérent avec le travail demandé (je préfère largement les
+  missions "budget à discuter" ou supérieures à 1000€ aux missions à
+  "moins de 500€" sauf si le scope est vraiment petit)
+- de préférence du Python, du Node.js/TypeScript, des projets liés à
+  l'IA/LLM (agents, RAG, intégration API type OpenAI/Anthropic), ou de
+  l'automatisation/scraping
+
+Je ne veux PAS :
+- de la simple création de site vitrine WordPress/Wix/Webflow sans code
+- du community management, du graphisme pur, de la rédaction de contenu
+- des missions avec un nombre d'offres déjà très élevé (> 20) où la
+  concurrence est trop forte
+- des projets qui sentent l'arnaque ou le travail non rémunéré déguisé
+  ("partenariat", "en échange de visibilité", etc.)
+
+Pour chaque mission retenue, donne une note de pertinence sur 100 et une
+justification courte (1-2 phrases) expliquant pourquoi elle correspond
+(ou pas complètement) à ces critères.
