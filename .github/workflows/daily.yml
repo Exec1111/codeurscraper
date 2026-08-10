@@ -1,5 +1,6 @@
 name: Daily mission search
 
+# (Trigger commit to force GitHub to register/index this workflow.)
 on:
   schedule:
     # 05:00 UTC = 07:00 Paris (CEST, summer). During winter (CET) this runs
