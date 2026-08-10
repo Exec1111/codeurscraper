@@ -4,30 +4,53 @@
 # Ce texte est envoyé tel quel au LLM qui note chaque mission.
 # Modifie ce fichier librement : il est relu à chaque exécution, pas besoin
 # de toucher au code.
-#
-# Exemple ci-dessous à remplacer par tes vrais critères :
 
-Je suis développeur freelance, je cherche des missions de développement
-logiciel (backend, API, automatisation, IA/LLM, scripts, intégrations).
+Profil : chef de projet généraliste en informatique, avec 15 ans d'expérience
+de développeur et 8 ans de gestion de projet dans le secteur bancassurance.
+Je code aujourd'hui principalement avec l'aide de l'IA plutôt qu'en expert
+d'une techno précise. Je suis en revanche spécialisé en IA générative :
+je connais bien les outils et technologies du marché (LLM, agents, RAG,
+prompt engineering...) et j'enseigne les bases de ces sujets à des
+informaticiens.
+
+Cette activité de freelance est un complément de salaire, pas mon activité
+principale : je peux me permettre d'être exigeant et de ne retenir que les
+missions qui me plaisent vraiment.
 
 Je veux :
-- des missions techniques où le client sait à peu près ce qu'il veut
-  (brief un minimum clair, pas juste "je veux une app comme Uber")
-- un budget cohérent avec le travail demandé (je préfère largement les
-  missions "budget à discuter" ou supérieures à 1000€ aux missions à
-  "moins de 500€" sauf si le scope est vraiment petit)
-- de préférence du Python, du Node.js/TypeScript, des projets liés à
-  l'IA/LLM (agents, RAG, intégration API type OpenAI/Anthropic), ou de
-  l'automatisation/scraping
+- des POC / POW (preuves de concept), du maquettage et du prototypage
+  (Figma, no-code, prototype cliquable...) pour valider une idée avant de
+  développer "en vrai"
+- la construction de features de taille petite à moyenne, bien délimitées,
+  avec un début et une fin clairs
+- de l'automatisation (scripts, intégrations, workflows)
+- en priorité des missions liées à l'IA générative : agents, RAG,
+  intégration d'API LLM (OpenAI, Anthropic, etc.), prompt engineering
+- des missions de formation/pédagogie sur l'IA générative (initier une
+  équipe, un atelier, un accompagnement ponctuel)
+- des missions courtes ou de durée moyenne (de quelques jours à 1-2 mois),
+  avec une charge de travail compatible avec une activité menée à côté d'un
+  emploi principal
+- le scope compte plus que le budget affiché : une petite mission bien
+  cadrée et rapide à livrer (quelques jours) peut être intéressante même
+  avec un budget modeste, du moment que le rapport temps/rémunération reste
+  correct
+- le télétravail à 100 % (pas de présentiel récurrent exigé)
+- peu importe que la mission vienne d'un client direct ou passe par un
+  intermédiaire/une agence, seul le contenu de la mission compte
 
 Je ne veux PAS :
+- des missions qui demandent une expertise technique pointue sur une techno
+  précise (je code avec l'aide de l'IA, je ne suis pas un spécialiste d'un
+  langage ou d'un framework en particulier)
+- du déploiement complexe, de la gestion de scaling ou de la maîtrise fine
+  d'infrastructure (Kubernetes, architecture cloud avancée, SRE...)
+- des missions longues (plusieurs mois) avec un engagement de temps plein ou
+  quasi temps plein
+- des missions qui exigent du présentiel régulier
 - de la simple création de site vitrine WordPress/Wix/Webflow sans code
 - du community management, du graphisme pur, de la rédaction de contenu
 - des missions avec un nombre d'offres déjà très élevé (> 20) où la
   concurrence est trop forte
 - des projets qui sentent l'arnaque ou le travail non rémunéré déguisé
   ("partenariat", "en échange de visibilité", etc.)
-
-Pour chaque mission retenue, donne une note de pertinence sur 100 et une
-justification courte (1-2 phrases) expliquant pourquoi elle correspond
-(ou pas complètement) à ces critères.
