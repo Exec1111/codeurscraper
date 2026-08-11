@@ -1,185 +1,345 @@
 {
-  "generated_at": "2026-08-11T14:43:38.813485+00:00",
-  "new_listings_scanned": 12,
+  "generated_at": "2026-08-11T14:52:18.317536+00:00",
+  "new_listings_scanned": 99,
   "missions": [
     {
-      "id": 488080,
-      "title": "Développement d'une plateforme web de création de CV",
-      "url": "https://www.codeur.com/projects/488080-developpement-d-une-plateforme-web-de-creation-de-cv",
-      "budget": "500 € à 1 000 €",
-      "offers": 47,
-      "views": "616 Vues",
+      "id": "free_work:/fr/tech-it/job-mission/data-engineer/data-ai-engineer-senior-data-office-sur-bois-colombes",
+      "source": "free_work",
+      "title": "Data & AI Engineer Senior – Data Office sur Bois-Colombes",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-engineer/data-ai-engineer-senior-data-office-sur-bois-colombes",
+      "budget": null,
+      "offers": null,
+      "views": null,
       "tags": [
-        "Développement spécifique",
-        "SaaS",
-        "Full-stack"
+        "AI",
+        "API REST",
+        "Data Warehouse",
+        "AI",
+        "API REST",
+        "Data Warehouse",
+        "Large Language Model (LLM)",
+        "Machine Learning",
+        "MCP",
+        "Pandas",
+        "Python",
+        "SQL"
+      ],
+      "score": 98,
+      "reason": "Mission presque parfaitement alignée avec les critères : Python, APIs REST, MCP, RAG, Text-to-SQL, agents LLM et industrialisation. Le périmètre est très détaillé et techniquement sérieux, malgré l’absence de budget indiqué."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/data-engineer/data-ai-engineer-senior-h-f",
+      "source": "free_work",
+      "title": "Data & AI Engineer Senior (H/F)",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-engineer/data-ai-engineer-senior-h-f",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agent IA",
+        "IA Générative"
+      ],
+      "score": 95,
+      "reason": "Très forte adéquation avec Python, les APIs, l’automatisation, la gouvernance des données et l’IA générative/agentique. Le brief est particulièrement clair et décrit une mission longue, même si le budget et les modalités freelance ne sont pas précisés."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/data-scientist/data-scientist-specialise-dans-levaluation-des-llms",
+      "source": "free_work",
+      "title": "Data Scientist spécialisé dans l’évaluation des LLMs",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-scientist/data-scientist-specialise-dans-levaluation-des-llms",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data science",
+        "IA Générative",
+        "MLOps"
+      ],
+      "score": 94,
+      "reason": "Excellent alignement sur l’IA/LLM avec évaluation, benchmarks, red teaming, pipelines automatisés et gouvernance. Le brief et les livrables sont très précis, mais la mission est davantage orientée data science et sécurité des modèles que développement backend pur."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/expert-seo-consultant-referencement/expert-methode-ia",
+      "source": "free_work",
+      "title": "Expert Méthode & IA",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/expert-seo-consultant-referencement/expert-methode-ia",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agent IA"
+      ],
+      "score": 90,
+      "reason": "Très forte pertinence sur les agents IA, l’orchestration, les outils, les prompts structurés et l’intégration dans des systèmes IT. Le poste comporte toutefois une importante dimension méthode, documentation et accompagnement, avec peu de détails sur la stack ou les livrables techniques concrets."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/lead-developer/tech-lead-qualite-logiciel-et-plateforme-h-f-2",
+      "source": "free_work",
+      "title": "Tech lead Qualité Logiciel et Plateforme H/F",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/lead-developer/tech-lead-qualite-logiciel-et-plateforme-h-f-2",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [],
+      "score": 88,
+      "reason": "Mission de développement et d’architecture transverse couvrant Node.js, Python, CI/CD, qualité, observabilité et outils internes. Elle est techniquement intéressante et bien cadrée, mais vise un profil Tech Lead très senior avec une forte composante gouvernance et coaching."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/developpeur-python/developpeur-fullstack-python-angular-15",
+      "source": "free_work",
+      "title": "Developpeur Fullstack Python / Angular",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-python/developpeur-fullstack-python-angular-15",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Angular",
+        "Python"
+      ],
+      "score": 85,
+      "reason": "Bonne adéquation avec le développement logiciel et Python, sur un périmètre applicatif clairement défini incluant conception, tests, maintenance et documentation. Angular est central et l’IA, les APIs ou l’automatisation ne sont pas mentionnées."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/lead-developer/tech-lead-data-76",
+      "source": "free_work",
+      "title": "Tech Lead Data",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/lead-developer/tech-lead-data-76",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Composer",
+        "Confluence",
+        "DBT",
+        "Composer",
+        "Confluence",
+        "DBT",
+        "Google Cloud Platform (GCP)",
+        "JIRA",
+        "Python",
+        "SQL"
+      ],
+      "score": 82,
+      "reason": "Bon alignement avec Python, SQL, ingestion, transformation et industrialisation de pipelines sur GCP. Le rôle est pertinent pour du développement data, mais demande une expertise GCP/dbt/BigQuery et comporte une forte dimension de lead."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/developpeur-autre-langage-cobol-perl-vba-ruby-shell/developpeur-backend-go-8",
+      "source": "free_work",
+      "title": "Développeur Backend Go",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-autre-langage-cobol-perl-vba-ruby-shell/developpeur-backend-go-8",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Apache Kafka",
+        "Go (langage)",
+        "Kubernetes"
+      ],
+      "score": 80,
+      "reason": "Mission de développement backend clairement cadrée autour de Go, APIs REST, microservices, bases de données, Kafka et Kubernetes. Go n’est pas la préférence principale, mais le recours à l’IA générative et la nature logicielle du projet renforcent l’intérêt."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/data-scientist/data-scientist-h-f-231",
+      "source": "free_work",
+      "title": "Data Scientist H/F",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-scientist/data-scientist-h-f-231",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Warehouse",
+        "Logistique",
+        "Microsoft Power BI",
+        "Data Warehouse",
+        "Logistique",
+        "Microsoft Power BI",
+        "Snowflake",
+        "WMS (Warehouse Management System)"
+      ],
+      "score": 80,
+      "reason": "Très bon socle Python, SQL et data engineering, avec Snowflake, APIs et automatisation de traitements sur des volumes importants. La mission est cependant fortement spécialisée en data science, BI et supply chain, sans composante LLM."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-devops-cloud/senior-cloud-data-platform-engineer-1",
+      "source": "free_work",
+      "title": "Senior Cloud Data Platform Engineer",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/senior-cloud-data-platform-engineer-1",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon S3",
+        "Anaconda",
+        "Apache Airflow",
+        "Amazon S3",
+        "Anaconda",
+        "Apache Airflow",
+        "AWS CloudFormation",
+        "AWS Cloudwatch",
+        "AWS Glue",
+        "AWS Lambda",
+        "Jenkins",
+        "PySpark",
+        "Python",
+        "Sonarqube"
+      ],
+      "score": 78,
+      "reason": "Mission technique solide combinant Python, AWS, automatisation, IaC et plateformes data. Elle est néanmoins davantage orientée cloud/data platform et infrastructure que développement backend ou IA/LLM."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/data-engineer/software-engineer-backend-go",
+      "source": "free_work",
+      "title": "Software Engineer Backend Go",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-engineer/software-engineer-backend-go",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API REST",
+        "Go (langage)"
+      ],
+      "score": 78,
+      "reason": "Bon périmètre backend avec Go, APIs REST, microservices, Linux, CI/CD et cloud, clairement décrit. Le langage principal n’est pas Python ou TypeScript et aucune composante IA/automatisation avancée n’est précisée."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/developpeur-python/developpeur-python-pester-salt",
+      "source": "free_work",
+      "title": "Developpeur - Python/Pester/SALT",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-python/developpeur-python-pester-salt",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [],
+      "score": 75,
+      "reason": "La mission implique du développement Python, des modules, des tests et de l’automatisation CI/CD. Elle reste toutefois très spécialisée sur PowerShell, Pester, Salt et SCOM, avec peu d’informations sur le budget ou les modalités."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/consultant-erp-ms-dynamics-oracle-sage-sap/analyste-developeur-talend-integration-sap-si-industriel-h-f",
+      "source": "free_work",
+      "title": "ANALYSTE / DÉVELOPEUR TALEND | INTEGRATION SAP / SI INDUSTRIEL H/F",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/consultant-erp-ms-dynamics-oracle-sage-sap/analyste-developeur-talend-integration-sap-si-industriel-h-f",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Développement",
+        "ETL (Extract-transform-load)",
+        "SAP",
+        "Développement",
+        "ETL (Extract-transform-load)",
+        "SAP",
+        "SAP ABAP",
+        "Talend"
       ],
       "score": 72,
-      "reason": "Projet très aligné avec le développement logiciel, le full-stack et l’intégration IA/LLM, avec un cahier des charges particulièrement détaillé. Toutefois, le budget cible de 1 000 USD paraît très insuffisant pour l’ampleur du SaaS et la concurrence est déjà forte avec 47 offres."
+      "reason": "Mission bien cadrée, à distance, longue et avec un TJM explicite de 500 à 550 € par jour, sur du développement d’interfaces et de l’intégration de données. Talend/SAP est éloigné des préférences Python, Node.js et IA, mais l’aspect ETL et intégration reste pertinent."
     },
     {
-      "id": 483136,
-      "title": "Mise en place d'une application Python (Ğ1 Origin Tracker)",
-      "url": "https://www.codeur.com/projects/483136-mise-en-place-d-une-application-python-g1-origin-tracker",
-      "budget": "Moins de 500 €",
-      "offers": 26,
-      "views": "5072 Vues",
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-devops-cloud/expert-e-devops-automatisation",
+      "source": "free_work",
+      "title": "Expert.e DevOps & Automatisation",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/expert-e-devops-automatisation",
+      "budget": null,
+      "offers": null,
+      "views": null,
       "tags": [
-        "Python",
-        "Android",
-        "Installation de Script"
+        "Argo CD",
+        "DevOps",
+        "Docker",
+        "Argo CD",
+        "DevOps",
+        "Docker",
+        "Helm",
+        "Kubernetes",
+        "Openshift"
+      ],
+      "score": 70,
+      "reason": "L’automatisation et l’industrialisation DevOps correspondent aux critères techniques, dans un contexte Cloud/Kubernetes sérieux. Le développement logiciel est secondaire et la stack proposée est surtout Ansible/Argo CD, sans Python ou LLM explicite."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-devops-cloud/expert-devsecops-cloud-kubernetes",
+      "source": "free_work",
+      "title": "Expert DevSecOps / Cloud Kubernetes",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/expert-devsecops-cloud-kubernetes",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "DevOps",
+        "Kubernetes"
+      ],
+      "score": 68,
+      "reason": "Mission très technique en Kubernetes, Docker, Terraform, AWS/GCP et CI/CD, avec une dimension d’industrialisation et de sécurité. Elle est cependant principalement orientée exploitation de plateformes et DevSecOps, plutôt que développement logiciel."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-devops-cloud/expertise-devsecops-kubernetes-cloud-aws-et-gcp",
+      "source": "free_work",
+      "title": "Expertise DevSecOps Kubernetes Cloud AWS et GCP",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/expertise-devsecops-kubernetes-cloud-aws-et-gcp",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "DevSecOps",
+        "Kubernetes"
+      ],
+      "score": 65,
+      "reason": "Le contexte Cloud/Kubernetes, Terraform et CI/CD est sérieux et cohérent avec l’automatisation. La mission est fortement centrée sur le MCO, le support et la présence sur site, avec peu de développement applicatif et aucun budget indiqué."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-securite/ingenieur-devsecops-f-h-4",
+      "source": "free_work",
+      "title": "Ingénieur DevSecOps (F/H)",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-securite/ingenieur-devsecops-f-h-4",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [],
+      "score": 65,
+      "reason": "Bon intérêt technique sur les pipelines CI/CD, l’automatisation, la sécurité du code et Kubernetes/OpenShift. Le poste reste toutefois orienté DevSecOps transverse et accompagnement des équipes, sans stack de développement privilégiée ni budget précisé."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/ingenieur-devops-cloud/consultant-devsecops-cloud-h-f",
+      "source": "free_work",
+      "title": "Consultant DevSecOps / Cloud (h/f)",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/consultant-devsecops-cloud-h-f",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [],
+      "score": 63,
+      "reason": "Bonne adéquation avec Cloud, Kubernetes, Terraform, GitLab CI/CD et automatisation des plateformes. Le périmètre est surtout du support et du maintien en condition opérationnelle, et le brief ne fournit ni budget ni détails sur les réalisations attendues."
+    },
+    {
+      "id": "free_work:/fr/tech-it/job-mission/administrateur-applicatif-erp-crm-sirh/staff-software-engineer-h-f",
+      "source": "free_work",
+      "title": "Staff Software Engineer H/F",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/administrateur-applicatif-erp-crm-sirh/staff-software-engineer-h-f",
+      "budget": null,
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Azure",
+        "TypeScript"
       ],
       "score": 62,
-      "reason": "Mission techniquement pertinente en Python, API GraphQL, Android/Termux et automatisation, avec un brief relativement clair et un code déjà existant. La note est réduite par le budget inférieur à 500 € et les 26 offres déjà déposées."
+      "reason": "Mission longue et correctement décrite, avec architecture, gouvernance et accompagnement technique, ainsi qu’une mention de TypeScript. Elle reste cependant très orientée Staff/architecture et coaching, avec peu d’éléments sur les développements concrets, les APIs ou l’automatisation."
     },
     {
-      "id": 488082,
-      "title": "Création de PWA pour une application de fidélité numérique",
-      "url": "https://www.codeur.com/projects/488082-creation-de-pwa-pour-une-application-de-fidelite-numerique",
-      "budget": "500 € à 1 000 €",
-      "offers": 67,
-      "views": "602 Vues",
+      "id": "free_work:/fr/tech-it/job-mission/data-engineer/staff-software-engineer-h-f-1",
+      "source": "free_work",
+      "title": "Staff Software Engineer H/F",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-engineer/staff-software-engineer-h-f-1",
+      "budget": null,
+      "offers": null,
+      "views": null,
       "tags": [
-        "Développement spécifique",
-        "Application mobile",
-        "Full-stack"
+        "Azure DevOps",
+        "Javascript",
+        "Terraform"
       ],
-      "score": 25,
-      "reason": "Le développement d’une PWA de fidélité peut correspondre à une mission logicielle, mais le brief est extrêmement succinct et ne précise ni stack, ni fonctionnalités de gamification, ni architecture. Le budget limité et les 67 offres rendent l’opportunité peu intéressante."
-    },
-    {
-      "id": 488068,
-      "title": "Application Iphone",
-      "url": "https://www.codeur.com/projects/488068-application-iphone",
-      "budget": "500 € à 1 000 €",
-      "offers": 53,
-      "views": "1410 Vues",
-      "tags": [
-        "iOS",
-        "Application mobile"
-      ],
-      "score": 22,
-      "reason": "Il s’agit bien d’un développement applicatif avec géolocalisation et alertes, mais la plateforme iOS ne correspond pas aux technologies privilégiées et le besoin reste peu détaillé. Le petit budget, l’urgence et les 53 offres sont également défavorables."
-    },
-    {
-      "id": 488076,
-      "title": "Création de sites vitrines pour cabinets dentaires (récurrent)",
-      "url": "https://www.codeur.com/projects/488076-creation-de-sites-vitrines-pour-cabinets-dentaires-recurrent",
-      "budget": "500 € à 1 000 €",
-      "offers": 78,
-      "views": "636 Vues",
-      "tags": [
-        "Création de site internet",
-        "WordPress",
-        "Webflow"
-      ],
-      "score": 3,
-      "reason": "Mission exclusivement orientée création de sites vitrines WordPress/Webflow, explicitement exclue des critères de recherche. La forte concurrence de 78 offres renforce son inadéquation."
-    },
-    {
-      "id": 488075,
-      "title": "Je cherche un spécialiste wordpress pour ameliorer mon site wordpress",
-      "url": "https://www.codeur.com/projects/488075-je-cherche-un-specialiste-wordpress-pour-ameliorer-mon-site-wordpress",
-      "budget": "Moins de 500 €",
-      "offers": 55,
-      "views": "765 Vues",
-      "tags": [
-        "WordPress",
-        "Gestion site web",
-        "Web design"
-      ],
-      "score": 2,
-      "reason": "La mission concerne une amélioration WordPress très vague, sans composante backend, API, automatisation ou IA identifiable. Le budget inférieur à 500 € et les 55 offres sont incompatibles avec les critères."
-    },
-    {
-      "id": 488067,
-      "title": "Vendre sur amazon une saga de 4 tomes",
-      "url": "https://www.codeur.com/projects/488067-vendre-sur-amazon-une-saga-de-4-tomes",
-      "budget": "500 € à 1 000 €",
-      "offers": 13,
-      "views": "1129 Vues",
-      "tags": [
-        "Marketing",
-        "Marketplace",
-        "Publicité"
-      ],
-      "score": 2,
-      "reason": "Il s’agit d’une mission de marketing et de vente sur Amazon, sans développement logiciel ni automatisation technique décrite. Elle ne correspond donc pas au positionnement recherché malgré un nombre d’offres raisonnable."
-    },
-    {
-      "id": 488070,
-      "title": "Site internet",
-      "url": "https://www.codeur.com/projects/488070-site-internet",
-      "budget": "Moins de 500 €",
-      "offers": 96,
-      "views": "919 Vues",
-      "tags": [
-        "Création de site internet",
-        "Site clé en main",
-        "Web design"
-      ],
-      "score": 2,
-      "reason": "La demande porte sur un site vitrine classique pour un artisan, sans besoin de développement applicatif ou d’intégration technique avancée. Elle est explicitement proche des missions exclues et le budget est inférieur à 500 € avec 96 offres."
-    },
-    {
-      "id": 488065,
-      "title": "Je suis musicien, je cherche à faire des concerts, trouver des clients",
-      "url": "https://www.codeur.com/projects/488065-je-suis-musicien-je-cherche-a-faire-des-concerts-trouver-des-clients",
-      "budget": "Moins de 500 €",
-      "offers": 12,
-      "views": "1420 Vues",
-      "tags": [
-        "Prospection commerciale",
-        "Marketing",
-        "Communication"
-      ],
-      "score": 1,
-      "reason": "Mission de prospection commerciale et de marketing pour un musicien, sans développement, API, IA ou automatisation technique. Elle ne correspond pas aux critères recherchés."
-    },
-    {
-      "id": 486411,
-      "title": "Partenaire communication créatif pour duo électropop français",
-      "url": "https://www.codeur.com/projects/486411-partenaire-communication-creatif-pour-duo-electropop-francais",
-      "budget": "1 000 € à 10 000 €",
-      "offers": 23,
-      "views": "17184 Vues",
-      "tags": [
-        "Community management",
-        "Communication",
-        "Marketing"
-      ],
-      "score": 1,
-      "reason": "Cette mission relève principalement du community management, de la stratégie de communication et de la création de contenu, domaines explicitement exclus. La notion de partenariat et les 23 offres ajoutent des signaux défavorables."
-    },
-    {
-      "id": 488085,
-      "title": "Studio de pilates",
-      "url": "https://www.codeur.com/projects/488085-studio-de-pilates",
-      "budget": "500 € à 1 000 €",
-      "offers": 4,
-      "views": "185 Vues",
-      "tags": [
-        "Community management",
-        "Communication",
-        "Audio, Video, Multimedia"
-      ],
-      "score": 1,
-      "reason": "La mission porte sur la création de contenus photo/vidéo et la gestion de réseaux sociaux, sans composante de développement logiciel. Elle est donc hors cible malgré un brief clair et seulement 4 offres."
-    },
-    {
-      "id": 488072,
-      "title": "Refonte Logo agence d'acquisition (SEO, GEO, Ads)",
-      "url": "https://www.codeur.com/projects/488072",
-      "budget": "Moins de 500 €",
-      "offers": 11,
-      "views": "669 Vues",
-      "tags": [
-        "Logo",
-        "Charte graphique",
-        "Web design"
-      ],
-      "score": 0,
-      "reason": "Il s’agit exclusivement d’une refonte de logo et de livrables graphiques, sans aucun développement, automatisation ou intégration technique. Cette mission ne correspond pas aux critères."
+      "score": 60,
+      "reason": "Le rôle couvre architecture logicielle, arbitrages techniques, gouvernance et résolution de problèmes complexes, ce qui peut convenir à un profil expérimenté. Le brief ne précise toutefois presque pas la stack de développement et privilégie le leadership transverse au code."
     }
   ]
 }
