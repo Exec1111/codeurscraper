@@ -1,7 +1,7 @@
 # codeurscraper
 
 Recherche automatisée de missions freelance sur plusieurs sites
-([codeur.com](https://www.codeur.com), [free-work.com](https://www.free-work.com)),
+([codeur.com](https://www.codeur.com), [freelancer.com](https://www.freelancer.com)),
 avec des critères exprimés en langage naturel plutôt que les filtres par
 défaut de chaque site. Chaque matin, un workflow GitHub Actions scrape les
 nouvelles missions, les fait noter par un LLM par rapport à tes critères, et
@@ -10,14 +10,13 @@ publie les 5 à 20 meilleures sur une page GitHub Pages.
 ## Fonctionnement
 
 1. Chaque source vit dans `scripts/sources/<nom>.py` (`codeur.py`,
-   `free_work.py`) et expose la même interface : `crawl_new_listings(seen_ids,
+   `freelancer.py`) et expose la même interface : `crawl_new_listings(seen_ids,
    max_pages, delay)` qui parcourt les pages de listing par ordre de
    récence et s'arrête dès qu'une page ne contient plus rien de nouveau par
    rapport à la veille (`docs/data/seen_ids.json`), et `fetch` /
    `parse_detail_description` pour aller chercher la description complète
    d'une mission. Les ids sont préfixés par source (`codeur:488057`,
-   `free_work:/fr/tech-it/job-mission/...`) pour rester uniques une fois
-   agrégés.
+   `freelancer:/projects/...`) pour rester uniques une fois agrégés.
 2. `scripts/score.py` note les nouvelles missions (toutes sources
    confondues) en deux passes :
    - une passe rapide sur titre + extrait + tags (bon marché, élimine le
@@ -38,8 +37,8 @@ Créer `scripts/sources/<nom>.py` avec :
 - `crawl_new_listings(seen_ids: set[str], max_pages: int, delay: float) -> tuple[list[dict], set[str]]`
   — renvoie les nouvelles missions pertinentes à noter, et l'ensemble des ids
   vus pendant le run (peut être plus large que les missions renvoyées, par
-  exemple si le site mélange missions freelance et offres CDI sur le même
-  flux : voir `free_work.py`)
+  exemple si le site mélange projets à prix fixe et à l'heure sur le même
+  flux : voir `freelancer.py`, qui ne garde que les prix fixes)
 - `fetch(url)` et `parse_detail_description(html)` pour la description
   complète
 

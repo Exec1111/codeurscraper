@@ -6,9 +6,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import score
-from sources import codeur, free_work
+from sources import codeur, freelancer
 
-SOURCES = [codeur, free_work]
+SOURCES = [codeur, freelancer]
 SOURCE_BY_ID = {source.SOURCE_ID: source for source in SOURCES}
 
 ROOT = Path(__file__).resolve().parent.parent
