@@ -1,50 +1,185 @@
 {
-  "generated_at": "2026-08-11T05:49:24.316859+00:00",
-  "new_listings_scanned": 3,
+  "generated_at": "2026-08-11T14:43:38.813485+00:00",
+  "new_listings_scanned": 12,
   "missions": [
     {
-      "id": 488057,
-      "title": "VPS OVH PLESK",
-      "url": "https://www.codeur.com/projects/488057-vps-ovh-plesk",
-      "budget": "Moins de 500 €",
-      "offers": 10,
-      "views": "396 Vues",
+      "id": 488080,
+      "title": "Développement d'une plateforme web de création de CV",
+      "url": "https://www.codeur.com/projects/488080-developpement-d-une-plateforme-web-de-creation-de-cv",
+      "budget": "500 € à 1 000 €",
+      "offers": 47,
+      "views": "616 Vues",
       "tags": [
-        "Admin système, sécurité",
-        "Infogérance",
-        "Sécurité"
+        "Développement spécifique",
+        "SaaS",
+        "Full-stack"
       ],
-      "score": 68,
-      "reason": "Mission technique et très bien détaillée, portant sur la sécurisation, la configuration et la migration d’un VPS de production, avec seulement 10 offres. La pertinence est toutefois limitée par un budget inférieur à 500 € manifestement faible pour l’ampleur et la criticité du périmètre."
+      "score": 72,
+      "reason": "Projet très aligné avec le développement logiciel, le full-stack et l’intégration IA/LLM, avec un cahier des charges particulièrement détaillé. Toutefois, le budget cible de 1 000 USD paraît très insuffisant pour l’ampleur du SaaS et la concurrence est déjà forte avec 47 offres."
     },
     {
-      "id": 488063,
-      "title": "Création de site internet",
-      "url": "https://www.codeur.com/projects/488063-creation-de-site-internet",
+      "id": 483136,
+      "title": "Mise en place d'une application Python (Ğ1 Origin Tracker)",
+      "url": "https://www.codeur.com/projects/483136-mise-en-place-d-une-application-python-g1-origin-tracker",
       "budget": "Moins de 500 €",
-      "offers": 27,
-      "views": "389 Vues",
+      "offers": 26,
+      "views": "5072 Vues",
       "tags": [
-        "Migration ou refonte de site",
+        "Python",
+        "Android",
+        "Installation de Script"
+      ],
+      "score": 62,
+      "reason": "Mission techniquement pertinente en Python, API GraphQL, Android/Termux et automatisation, avec un brief relativement clair et un code déjà existant. La note est réduite par le budget inférieur à 500 € et les 26 offres déjà déposées."
+    },
+    {
+      "id": 488082,
+      "title": "Création de PWA pour une application de fidélité numérique",
+      "url": "https://www.codeur.com/projects/488082-creation-de-pwa-pour-une-application-de-fidelite-numerique",
+      "budget": "500 € à 1 000 €",
+      "offers": 67,
+      "views": "602 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Application mobile",
+        "Full-stack"
+      ],
+      "score": 25,
+      "reason": "Le développement d’une PWA de fidélité peut correspondre à une mission logicielle, mais le brief est extrêmement succinct et ne précise ni stack, ni fonctionnalités de gamification, ni architecture. Le budget limité et les 67 offres rendent l’opportunité peu intéressante."
+    },
+    {
+      "id": 488068,
+      "title": "Application Iphone",
+      "url": "https://www.codeur.com/projects/488068-application-iphone",
+      "budget": "500 € à 1 000 €",
+      "offers": 53,
+      "views": "1410 Vues",
+      "tags": [
+        "iOS",
+        "Application mobile"
+      ],
+      "score": 22,
+      "reason": "Il s’agit bien d’un développement applicatif avec géolocalisation et alertes, mais la plateforme iOS ne correspond pas aux technologies privilégiées et le besoin reste peu détaillé. Le petit budget, l’urgence et les 53 offres sont également défavorables."
+    },
+    {
+      "id": 488076,
+      "title": "Création de sites vitrines pour cabinets dentaires (récurrent)",
+      "url": "https://www.codeur.com/projects/488076-creation-de-sites-vitrines-pour-cabinets-dentaires-recurrent",
+      "budget": "500 € à 1 000 €",
+      "offers": 78,
+      "views": "636 Vues",
+      "tags": [
+        "Création de site internet",
         "WordPress",
-        "Joomla"
-      ],
-      "score": 8,
-      "reason": "La mission concerne principalement une migration et une refonte WordPress/Joomla, sans développement backend, automatisation ou IA, avec un brief très vague et un budget faible. Les 27 offres dépassent en outre le seuil de concurrence souhaité."
-    },
-    {
-      "id": 488061,
-      "title": "Faires des maquettes",
-      "url": "https://www.codeur.com/projects/488061-faires-des-maquettes",
-      "budget": "Moins de 500 €",
-      "offers": 16,
-      "views": "298 Vues",
-      "tags": [
-        "Web design",
-        "Création de site internet"
+        "Webflow"
       ],
       "score": 3,
-      "reason": "Il s’agit d’une mission de maquettage et de web design pur, éloignée des compétences recherchées en développement logiciel, automatisation ou IA. Le budget est faible et le brief manque de précisions sur le périmètre."
+      "reason": "Mission exclusivement orientée création de sites vitrines WordPress/Webflow, explicitement exclue des critères de recherche. La forte concurrence de 78 offres renforce son inadéquation."
+    },
+    {
+      "id": 488075,
+      "title": "Je cherche un spécialiste wordpress pour ameliorer mon site wordpress",
+      "url": "https://www.codeur.com/projects/488075-je-cherche-un-specialiste-wordpress-pour-ameliorer-mon-site-wordpress",
+      "budget": "Moins de 500 €",
+      "offers": 55,
+      "views": "765 Vues",
+      "tags": [
+        "WordPress",
+        "Gestion site web",
+        "Web design"
+      ],
+      "score": 2,
+      "reason": "La mission concerne une amélioration WordPress très vague, sans composante backend, API, automatisation ou IA identifiable. Le budget inférieur à 500 € et les 55 offres sont incompatibles avec les critères."
+    },
+    {
+      "id": 488067,
+      "title": "Vendre sur amazon une saga de 4 tomes",
+      "url": "https://www.codeur.com/projects/488067-vendre-sur-amazon-une-saga-de-4-tomes",
+      "budget": "500 € à 1 000 €",
+      "offers": 13,
+      "views": "1129 Vues",
+      "tags": [
+        "Marketing",
+        "Marketplace",
+        "Publicité"
+      ],
+      "score": 2,
+      "reason": "Il s’agit d’une mission de marketing et de vente sur Amazon, sans développement logiciel ni automatisation technique décrite. Elle ne correspond donc pas au positionnement recherché malgré un nombre d’offres raisonnable."
+    },
+    {
+      "id": 488070,
+      "title": "Site internet",
+      "url": "https://www.codeur.com/projects/488070-site-internet",
+      "budget": "Moins de 500 €",
+      "offers": 96,
+      "views": "919 Vues",
+      "tags": [
+        "Création de site internet",
+        "Site clé en main",
+        "Web design"
+      ],
+      "score": 2,
+      "reason": "La demande porte sur un site vitrine classique pour un artisan, sans besoin de développement applicatif ou d’intégration technique avancée. Elle est explicitement proche des missions exclues et le budget est inférieur à 500 € avec 96 offres."
+    },
+    {
+      "id": 488065,
+      "title": "Je suis musicien, je cherche à faire des concerts, trouver des clients",
+      "url": "https://www.codeur.com/projects/488065-je-suis-musicien-je-cherche-a-faire-des-concerts-trouver-des-clients",
+      "budget": "Moins de 500 €",
+      "offers": 12,
+      "views": "1420 Vues",
+      "tags": [
+        "Prospection commerciale",
+        "Marketing",
+        "Communication"
+      ],
+      "score": 1,
+      "reason": "Mission de prospection commerciale et de marketing pour un musicien, sans développement, API, IA ou automatisation technique. Elle ne correspond pas aux critères recherchés."
+    },
+    {
+      "id": 486411,
+      "title": "Partenaire communication créatif pour duo électropop français",
+      "url": "https://www.codeur.com/projects/486411-partenaire-communication-creatif-pour-duo-electropop-francais",
+      "budget": "1 000 € à 10 000 €",
+      "offers": 23,
+      "views": "17184 Vues",
+      "tags": [
+        "Community management",
+        "Communication",
+        "Marketing"
+      ],
+      "score": 1,
+      "reason": "Cette mission relève principalement du community management, de la stratégie de communication et de la création de contenu, domaines explicitement exclus. La notion de partenariat et les 23 offres ajoutent des signaux défavorables."
+    },
+    {
+      "id": 488085,
+      "title": "Studio de pilates",
+      "url": "https://www.codeur.com/projects/488085-studio-de-pilates",
+      "budget": "500 € à 1 000 €",
+      "offers": 4,
+      "views": "185 Vues",
+      "tags": [
+        "Community management",
+        "Communication",
+        "Audio, Video, Multimedia"
+      ],
+      "score": 1,
+      "reason": "La mission porte sur la création de contenus photo/vidéo et la gestion de réseaux sociaux, sans composante de développement logiciel. Elle est donc hors cible malgré un brief clair et seulement 4 offres."
+    },
+    {
+      "id": 488072,
+      "title": "Refonte Logo agence d'acquisition (SEO, GEO, Ads)",
+      "url": "https://www.codeur.com/projects/488072",
+      "budget": "Moins de 500 €",
+      "offers": 11,
+      "views": "669 Vues",
+      "tags": [
+        "Logo",
+        "Charte graphique",
+        "Web design"
+      ],
+      "score": 0,
+      "reason": "Il s’agit exclusivement d’une refonte de logo et de livrables graphiques, sans aucun développement, automatisation ou intégration technique. Cette mission ne correspond pas aux critères."
     }
   ]
 }
