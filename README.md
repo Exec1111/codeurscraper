@@ -1,18 +1,25 @@
 # codeurscraper
 
-Recherche automatisée de missions sur [codeur.com](https://www.codeur.com), avec
-des critères exprimés en langage naturel plutôt que les filtres par défaut du
-site. Chaque matin, un workflow GitHub Actions scrape les nouvelles missions,
-les fait noter par un LLM par rapport à tes critères, et publie les 5 à 20
-meilleures sur une page GitHub Pages.
+Recherche automatisée de missions freelance sur plusieurs sites
+([codeur.com](https://www.codeur.com), [free-work.com](https://www.free-work.com)),
+avec des critères exprimés en langage naturel plutôt que les filtres par
+défaut de chaque site. Chaque matin, un workflow GitHub Actions scrape les
+nouvelles missions, les fait noter par un LLM par rapport à tes critères, et
+publie les 5 à 20 meilleures sur une page GitHub Pages.
 
 ## Fonctionnement
 
-1. `scripts/scrape.py` parcourt `codeur.com/projects` (pagination `?page=N`,
-   le seul paramètre autorisé par `robots.txt`) et s'arrête dès qu'une page ne
-   contient plus aucune mission nouvelle par rapport à la veille
-   (`docs/data/seen_ids.json`).
-2. `scripts/score.py` note les nouvelles missions en deux passes :
+1. Chaque source vit dans `scripts/sources/<nom>.py` (`codeur.py`,
+   `free_work.py`) et expose la même interface : `crawl_new_listings(seen_ids,
+   max_pages, delay)` qui parcourt les pages de listing par ordre de
+   récence et s'arrête dès qu'une page ne contient plus rien de nouveau par
+   rapport à la veille (`docs/data/seen_ids.json`), et `fetch` /
+   `parse_detail_description` pour aller chercher la description complète
+   d'une mission. Les ids sont préfixés par source (`codeur:488057`,
+   `free_work:/fr/tech-it/job-mission/...`) pour rester uniques une fois
+   agrégés.
+2. `scripts/score.py` note les nouvelles missions (toutes sources
+   confondues) en deux passes :
    - une passe rapide sur titre + extrait + tags (bon marché, élimine le
      bruit) ;
    - une passe précise sur la description complète, pour les ~25 meilleures
@@ -21,7 +28,25 @@ meilleures sur une page GitHub Pages.
    - `docs/data/latest.json` : le résultat du jour ;
    - `docs/data/history/YYYY-MM-DD.json` : l'archive ;
    - `docs/data/seen_ids.json` : mémoire des missions déjà vues.
-4. `docs/index.html` affiche `latest.json`, à consulter quand tu veux.
+4. `docs/index.html` affiche `latest.json`, à consulter quand tu veux (avec
+   le site d'origine de chaque mission).
+
+## Ajouter un nouveau site
+
+Créer `scripts/sources/<nom>.py` avec :
+- `SOURCE_ID` (str, unique)
+- `crawl_new_listings(seen_ids: set[str], max_pages: int, delay: float) -> tuple[list[dict], set[str]]`
+  — renvoie les nouvelles missions pertinentes à noter, et l'ensemble des ids
+  vus pendant le run (peut être plus large que les missions renvoyées, par
+  exemple si le site mélange missions freelance et offres CDI sur le même
+  flux : voir `free_work.py`)
+- `fetch(url)` et `parse_detail_description(html)` pour la description
+  complète
+
+Chaque item retourné doit avoir au minimum : `id` (préfixé `SOURCE_ID:`),
+`source`, `url`, `title`, `snippet`, `tags`, `budget`, `offers`, `views`
+(mettre `None` pour les champs sans équivalent sur le site). Puis ajouter le
+module à la liste `SOURCES` dans `scripts/main.py`.
 
 ## Mise en route
 

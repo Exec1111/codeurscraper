@@ -3,23 +3,12 @@
 import re
 import time
 
-import requests
 from bs4 import BeautifulSoup
 
+from .common import fetch
+
+SOURCE_ID = "codeur"
 BASE_URL = "https://www.codeur.com"
-HEADERS = {
-    "User-Agent": (
-        "codeurscraper/1.0 (+https://github.com/exec1111/codeurscraper; "
-        "personal daily digest script)"
-    )
-}
-REQUEST_TIMEOUT = 20
-
-
-def fetch(url: str) -> str:
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
-    return resp.text
 
 
 def parse_listing_page(html: str) -> list[dict]:
@@ -34,7 +23,7 @@ def parse_listing_page(html: str) -> list[dict]:
         match = re.match(r"^/projects/(\d+)", href)
         if not match:
             continue
-        project_id = int(match.group(1))
+        native_id = match.group(1)
 
         h3 = a.select_one("h3")
         title = h3.get_text(strip=True) if h3 else a.get("aria-label", "").strip()
@@ -58,7 +47,8 @@ def parse_listing_page(html: str) -> list[dict]:
 
         listings.append(
             {
-                "id": project_id,
+                "id": f"{SOURCE_ID}:{native_id}",
+                "source": SOURCE_ID,
                 "url": BASE_URL + href,
                 "title": title,
                 "status": status_span.get_text(strip=True) if status_span else None,
@@ -81,14 +71,17 @@ def parse_detail_description(html: str) -> str:
 
 
 def crawl_new_listings(
-    seen_ids: set[int], max_pages: int = 8, delay: float = 1.2
-) -> list[dict]:
+    seen_ids: set[str], max_pages: int = 8, delay: float = 1.2
+) -> tuple[list[dict], set[str]]:
     """Walk /projects pages (most recent first) and collect listings not in seen_ids.
 
     Stops once a full page contributes no new listing, since pages are
     ordered by recency and everything beyond is presumably already seen.
+    Returns (new_listings, scanned_ids) -- here scanned_ids is just the ids
+    of new_listings, since every codeur.com listing is a freelance mission.
     """
     new_listings: list[dict] = []
+    scanned_ids: set[str] = set()
     for page in range(1, max_pages + 1):
         url = f"{BASE_URL}/projects?page={page}" if page > 1 else f"{BASE_URL}/projects"
         html = fetch(url)
@@ -98,10 +91,11 @@ def crawl_new_listings(
 
         page_new = [item for item in listings if item["id"] not in seen_ids]
         new_listings.extend(page_new)
+        scanned_ids.update(item["id"] for item in page_new)
 
         if not page_new:
             break
 
         time.sleep(delay)
 
-    return new_listings
+    return new_listings, scanned_ids
