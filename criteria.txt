@@ -23,6 +23,14 @@ Je veux :
 Je ne veux PAS :
 - de la simple création de site vitrine WordPress/Wix/Webflow sans code
 - du community management, du graphisme pur, de la rédaction de contenu
+- du DevOps/administration système pur : configuration de serveur, mise en
+  prod, CI/CD, infra cloud, durcissement sécurité, sans code applicatif à
+  écrire. Même avec un brief technique clair et bien structuré, ce n'est
+  pas du développement logiciel et je n'en veux pas. Si la mission mélange
+  vraiment du dev applicatif ET un peu d'infra (ex: "développe cette
+  feature ET configure le déploiement"), c'est acceptable, mais si c'est
+  principalement de la configuration/administration, note-la bas (< 30)
+  même si le brief est bon.
 - des missions avec un nombre d'offres déjà très élevé (> 20) où la
   concurrence est trop forte
 - des projets qui sentent l'arnaque ou le travail non rémunéré déguisé
