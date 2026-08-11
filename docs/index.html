@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Missions codeur.com</title>
+<title>Missions freelance</title>
 <style>
   :root {
     color-scheme: light dark;
@@ -71,12 +71,20 @@
     border-radius: 6px;
     color: var(--muted);
   }
+  .source {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-right: 0.5rem;
+  }
   .empty { color: var(--muted); text-align: center; padding: 3rem 1rem; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Missions codeur.com</h1>
+  <h1>Missions freelance</h1>
   <div id="meta">Chargement…</div>
 </header>
 <main id="results"></main>
@@ -92,6 +100,15 @@ function formatDate(iso) {
   if (!iso) return "jamais";
   const d = new Date(iso);
   return d.toLocaleString("fr-FR", { dateStyle: "medium", timeStyle: "short" });
+}
+
+const SOURCE_LABELS = {
+  codeur: "Codeur.com",
+  free_work: "Free-Work",
+};
+
+function sourceLabel(source) {
+  return SOURCE_LABELS[source] || source || "";
 }
 
 fetch("./data/latest.json", { cache: "no-store" })
@@ -113,17 +130,23 @@ fetch("./data/latest.json", { cache: "no-store" })
       const tags = (m.tags || [])
         .map((t) => `<span class="tag">${t}</span>`)
         .join("");
+      const facts = [
+        m.budget || "Budget non précisé",
+        m.offers != null ? `${m.offers} offres` : null,
+        m.views || null,
+      ]
+        .filter(Boolean)
+        .map((f) => `<span>${f}</span>`)
+        .join("");
       card.innerHTML = `
         <div class="card-top">
-          <a href="${m.url}" target="_blank" rel="noopener">${m.title}</a>
+          <a href="${m.url}" target="_blank" rel="noopener">
+            <span class="source">${sourceLabel(m.source)}</span>${m.title}
+          </a>
           <span class="score" style="background:${scoreColor(m.score)}">${m.score}/100</span>
         </div>
         <p class="reason">${m.reason || ""}</p>
-        <div class="facts">
-          <span>${m.budget || "Budget non précisé"}</span>
-          <span>${m.offers ?? "?"} offres</span>
-          <span>${m.views || ""}</span>
-        </div>
+        <div class="facts">${facts}</div>
         <div class="tags">${tags}</div>
       `;
       results.appendChild(card);
