@@ -1,0 +1,414 @@
+{
+  "generated_at": "2026-10-12T12:39:18.778618+00:00",
+  "new_listings_scanned": 313,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-developmet/whatsapp-messenger-reply-automation",
+      "source": "freelancer",
+      "title": "WhatsApp & Messenger Reply Automation",
+      "url": "https://www.freelancer.com/projects/api-developmet/whatsapp-messenger-reply-automation",
+      "budget": "$1034",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Chatbot Development",
+        "Facebook API",
+        "JavaScript",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 90,
+      "reason": "Mission très alignée avec le développement d’API, Python/Node.js, automatisation et intégration LLM, avec un brief particulièrement clair et des critères d’acceptation concrets. Le budget de 1 034 $ est cohérent pour un premier périmètre, même si l’intégration Meta et le dashboard peuvent être conséquents."
+    },
+    {
+      "id": "freelancer:/projects/stripe/meta-api-stripe-escrow-integration",
+      "source": "freelancer",
+      "title": "Meta API & Stripe Escrow Integration",
+      "url": "https://www.freelancer.com/projects/stripe/meta-api-stripe-escrow-integration",
+      "budget": "$1433",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "JavaScript",
+        "MySQL",
+        "Next.js",
+        "Node.js",
+        "PHP",
+        "Stripe",
+        "Typescript"
+      ],
+      "score": 88,
+      "reason": "Mission très pertinente en développement backend/API Node.js, avec des intégrations Stripe et Meta complexes, sécurisées et précisément spécifiées. Le budget de 1 433 $ paraît plutôt bas au regard des deux scopes, de l’App Review et de la logique d’escrow."
+    },
+    {
+      "id": "freelancer:/projects/microsoft-word/implement-google-gemini-application",
+      "source": "freelancer",
+      "title": "Implement Google Gemini Application",
+      "url": "https://www.freelancer.com/projects/microsoft-word/implement-google-gemini-application",
+      "budget": "$206",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Microsoft",
+        "Microsoft Access",
+        "Microsoft Word"
+      ],
+      "score": 86,
+      "reason": "Très bon sujet d’intégration LLM en Python ou Node.js, avec API REST, réponses structurées, Postgres, Docker et tests clairement demandés. Le budget de 206 $ est néanmoins très faible pour un service conteneurisé avec deux endpoints multimodaux."
+    },
+    {
+      "id": "freelancer:/projects/javascript/crypto-trading-bot-strategy-developer",
+      "source": "freelancer",
+      "title": "Crypto Trading Bot: Strategy Developer (Python/React)",
+      "url": "https://www.freelancer.com/projects/javascript/crypto-trading-bot-strategy-developer",
+      "budget": "$1993",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backtesting",
+        "Data Analysis",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "Software Architecture",
+        "Statistical Analysis",
+        "Statistics"
+      ],
+      "score": 83,
+      "reason": "Mission technique exigeante et bien cadrée, combinant Python, analyse quantitative, backtesting robuste et amélioration d’un bot existant. Le budget de 1 993 $ est intéressant, mais le domaine crypto et les exigences de validation demandent une expertise spécialisée."
+    },
+    {
+      "id": "freelancer:/projects/woocommerce/driving-lesson-timesheet-integrated-with",
+      "source": "freelancer",
+      "title": "Driving Lesson TimeSheet integrated with WooCommerce",
+      "url": "https://www.freelancer.com/projects/woocommerce/driving-lesson-timesheet-integrated-with",
+      "budget": "$1935",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "WooCommerce",
+        "WordPress Plugin"
+      ],
+      "score": 81,
+      "reason": "Brief très détaillé, orienté développement applicatif, avec rôles, authentification, workflow, historique, signatures, calculs et génération PDF, pour un budget de 1 935 $. La forte dépendance à WordPress/WooCommerce et la taille du périmètre réduisent légèrement l’adéquation avec les préférences Python/Node."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/indian-speech-text-model-customization",
+      "source": "freelancer",
+      "title": "Indian Speech-to-Text Model Customization",
+      "url": "https://www.freelancer.com/projects/machine-learning/indian-speech-text-model-customization",
+      "budget": "$239",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Hindi Translator",
+        "Machine Learning (ML)",
+        "Natural Language Processing",
+        "Python",
+        "Pytorch",
+        "Speech Recognition",
+        "Tamil Translator",
+        "Translation"
+      ],
+      "score": 78,
+      "reason": "Sujet très pertinent en Python, PyTorch, optimisation de modèles et déploiement applicatif on-premise, avec des critères de performance mesurables. La complexité de sept langues, du fine-tuning et de l’optimisation GPU rend le budget de 239 $ totalement disproportionné."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/advanced-personal-business-assistant",
+      "source": "freelancer",
+      "title": "Advanced Personal Business AI Assistant Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/advanced-personal-business-assistant",
+      "budget": "$454",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "Conversational AI",
+        "Graphic Design",
+        "PHP",
+        "Website Design"
+      ],
+      "score": 78,
+      "reason": "Très bon alignement avec les agents IA, LLM, mémoire persistante, automatisation n8n et intégration WhatsApp, avec une première étape raisonnablement définie. Le budget de 454 $ reste faible et les ambitions à moyen terme sont très larges, notamment pour la création de contenu et l’action sur les réseaux sociaux."
+    },
+    {
+      "id": "freelancer:/projects/data-extraction/website-phone-number-scraper",
+      "source": "freelancer",
+      "title": "Website Phone Number Scraper",
+      "url": "https://www.freelancer.com/projects/data-extraction/website-phone-number-scraper",
+      "budget": "$211",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Extraction",
+        "Data Management",
+        "Data Processing",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 75,
+      "reason": "Excellent alignement avec le scraping et l’automatisation Python, avec un périmètre et des livrables bien définis. Le budget de 211 $ est toutefois faible et la demande d’éviter les blocages peut soulever des contraintes techniques ou légales."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/animal-motion-event-detection-study",
+      "source": "freelancer",
+      "title": "Animal Motion Event Detection Study",
+      "url": "https://www.freelancer.com/projects/data-analysis/animal-motion-event-detection-study",
+      "budget": "$136",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Embedded Systems",
+        "Signal Processing",
+        "Statistical Analysis"
+      ],
+      "score": 73,
+      "reason": "Projet solide en traitement du signal, séries temporelles, machine learning Python et détection temps réel, avec données, validation et livrables précisément décrits. Le budget de 136 $ est très faible pour les phases d’analyse et de faisabilité, et l’expertise IMU est assez spécialisée."
+    },
+    {
+      "id": "freelancer:/projects/power-automate/automate-microsoft-forms-creation",
+      "source": "freelancer",
+      "title": "Automate Microsoft Forms Creation",
+      "url": "https://www.freelancer.com/projects/power-automate/automate-microsoft-forms-creation",
+      "budget": "$561",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Automation",
+        "Azure",
+        "C# Programming",
+        "Microsoft",
+        "Power Automate",
+        "Scripting",
+        "Sharepoint"
+      ],
+      "score": 72,
+      "reason": "Bonne mission d’automatisation applicative via Graph API, Azure Function ou Power Automate, avec un objectif clair et un budget de 561 $. Elle est toutefois davantage orientée low-code et écosystème Microsoft que développement Python/Node ou IA."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/finance-predictive-analytics-model",
+      "source": "freelancer",
+      "title": "Finance Predictive Analytics Model Development",
+      "url": "https://www.freelancer.com/projects/data-analysis/finance-predictive-analytics-model",
+      "budget": "$242",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Pandas",
+        "Predictive Analytics",
+        "Python",
+        "SPSS Statistics",
+        "SQL",
+        "Statistical Analysis",
+        "Statistics"
+      ],
+      "score": 69,
+      "reason": "Bon alignement avec Python, machine learning, analyse de données et création d’un pipeline reproductible avec API ou script d’inférence. Le brief est clair, mais le budget de 242 $ est très faible pour une analyse financière complète et un modèle validé."
+    },
+    {
+      "id": "freelancer:/projects/algorithm/pine-script-indicator-trading-view-40762911",
+      "source": "freelancer",
+      "title": "Pine script indicator trading view",
+      "url": "https://www.freelancer.com/projects/algorithm/pine-script-indicator-trading-view-40762911",
+      "budget": "$127",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithm",
+        "API Development",
+        "App Development",
+        "Data Analysis",
+        "Data Visualization",
+        "Financial Analysis",
+        "Financial Software Development",
+        "Mobile App Development",
+        "Pine Script",
+        "TradingView"
+      ],
+      "score": 67,
+      "reason": "Brief extrêmement précis pour coder un indicateur algorithmique Pine Script, avec règles de calcul, sessions et invalidation entièrement détaillées. Le budget de 127 $ est faible et le langage est spécialisé, mais le scope semble limité et techniquement défini."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/code-matcher-generator",
+      "source": "freelancer",
+      "title": "AI Code Matcher & Generator",
+      "url": "https://www.freelancer.com/projects/machine-learning/code-matcher-generator",
+      "budget": "$133",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Integration",
+        "AI Model Development",
+        "Java",
+        "JavaScript",
+        "Machine Learning (ML)",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 64,
+      "reason": "Le projet est fortement lié aux LLM, à la génération de code, aux embeddings et à Python/JavaScript, avec un objectif applicatif intéressant. Le périmètre reste ambitieux et partiellement vague, tandis que le budget de 133 $ est irréaliste."
+    },
+    {
+      "id": "freelancer:/projects/angular-js/react-node-digital-storefront",
+      "source": "freelancer",
+      "title": "React-Node Digital Storefront Development",
+      "url": "https://www.freelancer.com/projects/angular-js/react-node-digital-storefront",
+      "budget": "$545",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Express JS",
+        "Frontend Development",
+        "MongoDB",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "RESTful API",
+        "Stripe"
+      ],
+      "score": 63,
+      "reason": "Le projet correspond au développement full-stack Node.js/React avec API, authentification, Stripe et MongoDB, et les livrables sont détaillés. Le budget de 545 $ est nettement insuffisant pour l’ensemble du storefront, du back-office et du paiement."
+    },
+    {
+      "id": "freelancer:/projects/database-management/accurate-product-data-website",
+      "source": "freelancer",
+      "title": "Accurate Product Data Website",
+      "url": "https://www.freelancer.com/projects/database-management/accurate-product-data-website",
+      "budget": "$434",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "HTML",
+        "Inventory Management",
+        "JavaScript",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Web Development"
+      ],
+      "score": 60,
+      "reason": "Application web CRUD claire avec authentification, gestion de stock, recherche et export CSV, compatible avec Node.js ou PHP. Le budget de 434 $ est bas mais le périmètre reste relativement simple et maîtrisable."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/ruby-rails-api-development",
+      "source": "freelancer",
+      "title": "Ruby on Rails API Development",
+      "url": "https://www.freelancer.com/projects/postgresql/ruby-rails-api-development",
+      "budget": "$61",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "PostgreSQL",
+        "RESTful API",
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "score": 59,
+      "reason": "Mission de développement d’API REST avec PostgreSQL, authentification, tests et documentation, donc techniquement pertinente malgré l’usage de Ruby on Rails. Le budget de 61 $ est beaucoup trop bas pour le périmètre annoncé."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/django-web-app-development",
+      "source": "freelancer",
+      "title": "Django Web App Development",
+      "url": "https://www.freelancer.com/projects/postgresql/django-web-app-development",
+      "budget": "$42",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Django",
+        "Git",
+        "HTML",
+        "PostgreSQL",
+        "Python",
+        "Web Development"
+      ],
+      "score": 58,
+      "reason": "Le choix Django/Python/PostgreSQL et le brief applicatif correspondent aux critères techniques, avec comptes utilisateurs et dashboard d’administration. Le budget de 42 $ est cependant manifestement incohérent, même pour une petite application, et inclut en plus le déploiement."
+    },
+    {
+      "id": "codeur:491107",
+      "source": "codeur",
+      "title": "Développement d'une IA propriétaire de montage vidéo premium pour le c",
+      "url": "https://www.codeur.com/projects/491107-developpement-d-une-ia-proprietaire-de-montage-video-premium-pour-le-c",
+      "budget": "1 000 € à 10 000 €",
+      "offers": 27,
+      "views": "871 Vues",
+      "tags": [
+        "Machine Learning",
+        "Vidéo IA",
+        "Python"
+      ],
+      "score": 58,
+      "reason": "Sujet très intéressant en IA multimodale, vision, vidéo, Python et PyTorch, avec une réflexion sérieuse sur l’architecture et les étapes. Il s’agit toutefois uniquement d’une phase exploratoire sans mission de développement ferme, avec 27 offres déjà déposées, ce qui pénalise fortement la pertinence."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/auto-trader-style-vehicle-marketplace",
+      "source": "freelancer",
+      "title": "Auto-Trader Style Vehicle Marketplace",
+      "url": "https://www.freelancer.com/projects/full-stack-development/auto-trader-style-vehicle-marketplace",
+      "budget": "$1701",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automotive",
+        "Cloud Computing",
+        "Database Management",
+        "Full Stack Development",
+        "Payment Gateway Integration",
+        "PHP",
+        "SEO",
+        "User Interface / IA",
+        "Web Development"
+      ],
+      "score": 56,
+      "reason": "Le projet implique du développement full-stack, des APIs, paiements, recherche et gestion de données avec un brief détaillé. Il vise cependant une marketplace automobile très complète pour seulement environ 1 700 $, ce qui sous-estime fortement le travail nécessaire."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/auto-trader-style-vehicle-marketplace",
+      "source": "freelancer",
+      "title": "Auto-Trader Style Vehicle Marketplace",
+      "url": "https://www.freelancer.com/projects/full-stack-development/auto-trader-style-vehicle-marketplace",
+      "budget": "$1696",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automotive",
+        "Cloud Computing",
+        "Database Management",
+        "Full Stack Development",
+        "Payment Gateway Integration",
+        "PHP",
+        "SEO",
+        "User Interface / IA",
+        "Web Development"
+      ],
+      "score": 56,
+      "reason": "Le projet implique du développement full-stack, des APIs, paiements, recherche et gestion de données avec un brief détaillé. Il vise cependant une marketplace automobile très complète pour seulement environ 1 700 $, ce qui sous-estime fortement le travail nécessaire."
+    }
+  ]
+}
