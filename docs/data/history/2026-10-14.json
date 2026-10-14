@@ -1,0 +1,431 @@
+{
+  "generated_at": "2026-10-14T09:53:28.506291+00:00",
+  "new_listings_scanned": 342,
+  "missions": [
+    {
+      "id": "freelancer:/projects/3d-cad/cad-engineer-drawing-review-system",
+      "source": "freelancer",
+      "title": "CAD & AI Engineer – 2D/3D Drawing Review System",
+      "url": "https://www.freelancer.com/projects/3d-cad/cad-engineer-drawing-review-system",
+      "budget": "$1854",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D CAD",
+        "3D Modelling",
+        "3D Rendering",
+        "3D Visualization",
+        "AutoCAD",
+        "CAD/CAM",
+        "LLM Integration",
+        "LLM Prompt Engineering",
+        "OCR Automation",
+        "Software Architecture"
+      ],
+      "score": 88,
+      "reason": "Mission très pertinente : développement Python/FastAPI, traitement CAD, OCR/LLM et génération de rapports, avec un brief particulièrement détaillé et un budget correct. La restriction aux candidats vivant au Vietnam constitue toutefois un frein important."
+    },
+    {
+      "id": "freelancer:/projects/3d-cad/cad-engineer-drawing-review-system",
+      "source": "freelancer",
+      "title": "CAD & AI Engineer – 2D/3D Drawing Review System",
+      "url": "https://www.freelancer.com/projects/3d-cad/cad-engineer-drawing-review-system",
+      "budget": "$1855",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D CAD",
+        "3D Modelling",
+        "3D Rendering",
+        "3D Visualization",
+        "AutoCAD",
+        "CAD/CAM",
+        "LLM Integration",
+        "LLM Prompt Engineering",
+        "OCR Automation",
+        "Software Architecture"
+      ],
+      "score": 88,
+      "reason": "Mission très pertinente : développement Python/FastAPI, traitement CAD, OCR/LLM et génération de rapports, avec un brief particulièrement détaillé et un budget correct. La restriction aux candidats vivant au Vietnam constitue toutefois un frein important."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-developer-for-worker-queue",
+      "source": "freelancer",
+      "title": "Python developer for RQ worker queue consumer — Python (dry run #28)",
+      "url": "https://www.freelancer.com/projects/pandas/python-developer-for-worker-queue",
+      "budget": "$226",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 68,
+      "reason": "Mission claire de développement Python backend autour d'une file RQ, avec configuration, logs et livrable testable. Le budget de 226 $ est modeste mais cohérent pour un module limité utilisant des données synthétiques."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-flask-utility-for-starlette",
+      "source": "freelancer",
+      "title": "Python Flask utility for Starlette middleware helper — Python (dry run #68)",
+      "url": "https://www.freelancer.com/projects/pandas/python-flask-utility-for-starlette",
+      "budget": "$249",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 67,
+      "reason": "Petit développement Python orienté backend/middleware, bien défini et compatible avec les préférences techniques. Le budget de 249 $ reste bas et le recours à des données synthétiques réduit la portée réelle de la mission."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-pandas-workflow-for-jupyter",
+      "source": "freelancer",
+      "title": "Python pandas workflow for Jupyter notebook to plain script refactor — Python (batch A #148)",
+      "url": "https://www.freelancer.com/projects/pandas/python-pandas-workflow-for-jupyter",
+      "budget": "$216",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 65,
+      "reason": "Mission Python bien cadrée, directement réalisable et avec des exigences de qualité raisonnables pour une refactorisation notebook vers script. Le budget de 216 $ est faible mais potentiellement acceptable pour un petit périmètre."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-cli-for-win-com",
+      "source": "freelancer",
+      "title": "Python CLI for win32com Excel automation bridge — Python (pilot #131)",
+      "url": "https://www.freelancer.com/projects/pandas/python-cli-for-win-com",
+      "budget": "$242",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 62,
+      "reason": "Automatisation Python d'Excel via win32com, avec un périmètre volontairement réduit et des attentes claires sur la qualité du code. C'est pertinent mais moins central que les missions API, IA ou scraping, avec un budget limité à 242 $."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-automation-for-excel-parquet",
+      "source": "freelancer",
+      "title": "Python 3 automation for Excel to Parquet conversion — Python (quick task #67)",
+      "url": "https://www.freelancer.com/projects/pandas/python-automation-for-excel-parquet",
+      "budget": "$222",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 60,
+      "reason": "Petite mission Python claire d'automatisation et de traitement de données, avec des attentes raisonnables sur la qualité du code. Le budget de 222 $ est faible mais peut rester cohérent si le périmètre est réellement limité."
+    },
+    {
+      "id": "freelancer:/projects/data-visualization/interactive-dtn-simulation-analysis",
+      "source": "freelancer",
+      "title": "Interactive DTN Simulation and Analysis",
+      "url": "https://www.freelancer.com/projects/data-visualization/interactive-dtn-simulation-analysis",
+      "budget": "$435",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Arduino",
+        "Data Analysis",
+        "Data Visualization",
+        "MATLAB",
+        "Matlab and Mathematica",
+        "Python",
+        "Simulation",
+        "Software Architecture"
+      ],
+      "score": 60,
+      "reason": "Le projet combine Python, simulation, visualisation interactive et analyse de données avec un brief assez précis. Il s'éloigne toutefois des missions backend/API ou IA prioritaires et le budget de 435 $ est limité pour l'ensemble demandé."
+    },
+    {
+      "id": "freelancer:/projects/pandas/python-boto-script-for-rotating",
+      "source": "freelancer",
+      "title": "Python boto3 script for rotating proxy scraper client — Python (dry run #47)",
+      "url": "https://www.freelancer.com/projects/pandas/python-boto-script-for-rotating",
+      "budget": "$221",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 58,
+      "reason": "Le développement d'un client Python de scraping avec proxies correspond aux compétences recherchées et le brief est concis. Le budget est bas et la mention « dry run » ainsi que l'absence de détails fonctionnels limitent la pertinence."
+    },
+    {
+      "id": "freelancer:/projects/data-extraction/parse-email-survey-pdf-responses",
+      "source": "freelancer",
+      "title": "Parse Email Survey PDF Responses",
+      "url": "https://www.freelancer.com/projects/data-extraction/parse-email-survey-pdf-responses",
+      "budget": "$185",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Extraction",
+        "Data Management",
+        "Data Processing",
+        "LaTeX",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 58,
+      "reason": "Extraction PDF/OCR en Python et structuration de données : le sujet correspond bien à l'automatisation et le brief est précis. Le budget de 185 $ est faible, surtout avec une exigence de fidélité de 100 % et des PDF potentiellement scannés."
+    },
+    {
+      "id": "freelancer:/projects/computer-vision/highway-violation-detection-system",
+      "source": "freelancer",
+      "title": "Highway Violation Detection System",
+      "url": "https://www.freelancer.com/projects/computer-vision/highway-violation-detection-system",
+      "budget": "$237",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C++ Programming",
+        "Computer Vision",
+        "Deep Learning",
+        "Image Processing",
+        "Object Detection",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "Le sujet est techniquement intéressant et correspond à la vision par ordinateur et au développement Python, avec des données et un GPU déjà disponibles. Le budget de 237 $ est très insuffisant pour entraîner, optimiser et déployer un système temps réel avec 90 % de précision."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/video-editor-android-app",
+      "source": "freelancer",
+      "title": "AI Video Editor Android App",
+      "url": "https://www.freelancer.com/projects/android-app-development/video-editor-android-app",
+      "budget": "$580",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Machine Learning (ML)",
+        "Mobile App Development",
+        "OpenCV",
+        "Video Editing"
+      ],
+      "score": 55,
+      "reason": "Projet applicatif et IA intéressant, avec traitement vidéo, modèles on-device et OpenCV. Le budget de 580 $ est très faible au regard des exigences de performance, de précision et d'interface, et la stack Android n'est pas prioritaire."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/video-editor-android-app",
+      "source": "freelancer",
+      "title": "AI Video Editor Android App",
+      "url": "https://www.freelancer.com/projects/android-app-development/video-editor-android-app",
+      "budget": "$580",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Machine Learning (ML)",
+        "Mobile App Development",
+        "OpenCV",
+        "Video Editing"
+      ],
+      "score": 55,
+      "reason": "Projet applicatif et IA intéressant, avec traitement vidéo, modèles on-device et OpenCV. Le budget de 580 $ est très faible au regard des exigences de performance, de précision et d'interface, et la stack Android n'est pas prioritaire."
+    },
+    {
+      "id": "freelancer:/projects/android/smartphone-app-for-communication-geo",
+      "source": "freelancer",
+      "title": "Smartphone App for V2X Communication and Geo-Location Integration",
+      "url": "https://www.freelancer.com/projects/android/smartphone-app-for-communication-geo",
+      "budget": "$2343",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "C Programming",
+        "iPhone",
+        "Mobile App Development",
+        "Software Architecture"
+      ],
+      "score": 52,
+      "reason": "Il s'agit bien d'un développement applicatif avec intégration de module, géolocalisation et protocoles V2X, pour un budget convenable. Le brief reste toutefois très vague et ne cible ni Python, Node.js ni IA/automatisation."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/multiplayer-action-web-game",
+      "source": "freelancer",
+      "title": "Multiplayer Action Web Game",
+      "url": "https://www.freelancer.com/projects/frontend-development/multiplayer-action-web-game",
+      "budget": "$198",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "Game Design",
+        "Game Development",
+        "HTML",
+        "HTML5",
+        "JavaScript"
+      ],
+      "score": 48,
+      "reason": "Le backend temps réel Node.js et le développement logiciel sont pertinents, avec un livrable relativement concret. Le budget de 198 $ est toutefois totalement insuffisant pour un jeu multijoueur cross-platform avec synchronisation, matchmaking et chat."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/python-google-serp-url-scraper",
+      "source": "freelancer",
+      "title": "Python Google SERP URL Scraper",
+      "url": "https://www.freelancer.com/projects/data-analysis/python-google-serp-url-scraper",
+      "budget": "$21",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "BeautifulSoup",
+        "Data Analysis",
+        "Excel",
+        "JavaScript",
+        "Pandas",
+        "Python",
+        "Selenium",
+        "Web Scraping"
+      ],
+      "score": 45,
+      "reason": "Le scraping Python est directement dans les domaines recherchés et le livrable est relativement clair. Cependant, 21 $ est disproportionné pour cinq pages de résultats par requête, la gestion des CAPTCHA et une fiabilité constante."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/python-google-serp-url-scraper",
+      "source": "freelancer",
+      "title": "Python Google SERP URL Scraper",
+      "url": "https://www.freelancer.com/projects/data-analysis/python-google-serp-url-scraper",
+      "budget": "$21",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "BeautifulSoup",
+        "Data Analysis",
+        "Excel",
+        "JavaScript",
+        "Pandas",
+        "Python",
+        "Selenium",
+        "Web Scraping"
+      ],
+      "score": 45,
+      "reason": "Le scraping Python est directement dans les domaines recherchés et le livrable est relativement clair. Cependant, 21 $ est disproportionné pour cinq pages de résultats par requête, la gestion des CAPTCHA et une fiabilité constante."
+    },
+    {
+      "id": "freelancer:/projects/dot-net-core/browsing-oracle-database-asp-net",
+      "source": "freelancer",
+      "title": "Browsing Oracle Database ASP.NET Core Oracle Tables Browser",
+      "url": "https://www.freelancer.com/projects/dot-net-core/browsing-oracle-database-asp-net",
+      "budget": "$425",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET Core",
+        "ASP.NET",
+        "C# Programming",
+        "Database Administration",
+        "IIS",
+        "Microsoft SQL Server",
+        "MVC",
+        "Oracle",
+        "Oracle Database",
+        "SQL"
+      ],
+      "score": 45,
+      "reason": "Il y a un vrai développement web ASP.NET et une interface de consultation de données, avec un brief détaillé. La mission est cependant fortement orientée administration/restauration Oracle et déploiement IIS, avec un budget faible et une incertitude technique importante."
+    },
+    {
+      "id": "freelancer:/projects/api/erp-system-android-app-recovery",
+      "source": "freelancer",
+      "title": "ERP System & Android App Recovery",
+      "url": "https://www.freelancer.com/projects/api/erp-system-android-app-recovery",
+      "budget": "$145",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API",
+        "CI/CD",
+        "ERP",
+        "Java",
+        "Kotlin",
+        "Linux",
+        "Mobile App Development",
+        "MySQL",
+        "Software Testing"
+      ],
+      "score": 40,
+      "reason": "Le développement applicatif, les API et l'intégration mobile sont pertinents, mais le budget de 145 $ est irréaliste pour une reprise ERP complète avec tests et corrections. La mission inclut également une forte composante CI/CD, Linux et hébergement que l'utilisateur souhaite éviter lorsqu'elle est dominante."
+    },
+    {
+      "id": "freelancer:/projects/ios/convert-manus-web-app-ios",
+      "source": "freelancer",
+      "title": "Convert Manus Web App to iOS",
+      "url": "https://www.freelancer.com/projects/ios/convert-manus-web-app-ios",
+      "budget": "$478",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "App Development",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "Objective C",
+        "Swift",
+        "Xcode"
+      ],
+      "score": 40,
+      "reason": "Le projet comporte une intégration API et du développement applicatif réel, mais le budget de 478 $ est très insuffisant pour une application iOS native avec notifications, achats intégrés et soumission App Store. Swift/iOS n'est pas non plus la priorité technique recherchée."
+    }
+  ]
+}
