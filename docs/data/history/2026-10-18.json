@@ -1,0 +1,426 @@
+{
+  "generated_at": "2026-10-18T09:17:42.787663+00:00",
+  "new_listings_scanned": 325,
+  "missions": [
+    {
+      "id": "freelancer:/projects/postgresql/shopify-node-backend-build",
+      "source": "freelancer",
+      "title": "Shopify Node.js Backend Build",
+      "url": "https://www.freelancer.com/projects/postgresql/shopify-node-backend-build",
+      "budget": "$579",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "API Development",
+        "JavaScript",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PostgreSQL",
+        "RESTful",
+        "Shopify"
+      ],
+      "score": 84,
+      "reason": "Très bonne adéquation avec Node.js, API, PostgreSQL et intégrations applicatives, avec des livrables et critères d’acceptation précis. Le budget de 579 $ est un peu faible mais le périmètre backend reste relativement circonscrit."
+    },
+    {
+      "id": "freelancer:/projects/ai-model-development/monarch-core-assistant-development",
+      "source": "freelancer",
+      "title": "Monarch Core AI Assistant Development",
+      "url": "https://www.freelancer.com/projects/ai-model-development/monarch-core-assistant-development",
+      "budget": "$449",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "Graphic Design",
+        "Java",
+        "JavaScript",
+        "PHP"
+      ],
+      "score": 82,
+      "reason": "Projet techniquement pertinent en IA et JavaScript, avec un problème concret de compatibilité Transformers.js/ONNX Runtime à diagnostiquer et reproduire. Le budget de 449 $ est bas au regard de la complexité du débogage navigateur, du modèle de plus de 1 Go et des contraintes offline."
+    },
+    {
+      "id": "freelancer:/projects/ai-model-development/monarch-core-assistant-development",
+      "source": "freelancer",
+      "title": "Monarch Core AI Assistant Development",
+      "url": "https://www.freelancer.com/projects/ai-model-development/monarch-core-assistant-development",
+      "budget": "$449",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "Graphic Design",
+        "Java",
+        "JavaScript",
+        "PHP"
+      ],
+      "score": 82,
+      "reason": "Projet techniquement pertinent en IA et JavaScript, avec un problème concret de compatibilité Transformers.js/ONNX Runtime à diagnostiquer et reproduire. Le budget de 449 $ est bas au regard de la complexité du débogage navigateur, du modèle de plus de 1 Go et des contraintes offline."
+    },
+    {
+      "id": "freelancer:/projects/automation/electrical-sheet-pdf-extractor",
+      "source": "freelancer",
+      "title": "Electrical Sheet PDF Extractor",
+      "url": "https://www.freelancer.com/projects/automation/electrical-sheet-pdf-extractor",
+      "budget": "$137",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Arduino",
+        "Automation",
+        "PDF",
+        "PHP",
+        "Python",
+        "Scripting",
+        "Software Development",
+        "Software Engineering"
+      ],
+      "score": 78,
+      "reason": "Mission très alignée avec Python, automatisation et traitement de PDF, avec un brief détaillé et des critères d’acceptation précis. Le budget de 137 $ est toutefois faible, d’autant que le périmètre inclut finalement une interface graphique, une surveillance de dossier et des opérations Windows spécifiques."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/data-analysis-application",
+      "source": "freelancer",
+      "title": "AI Data Analysis Application",
+      "url": "https://www.freelancer.com/projects/data-analysis/data-analysis-application",
+      "budget": "$1000",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "AI Model Development",
+        "AI Workflow Automation",
+        "Data Analysis",
+        "Data Management",
+        "Data Processing",
+        "Data Science",
+        "Data Visualization"
+      ],
+      "score": 78,
+      "reason": "Mission alignée avec Python/IA, traitement de données, pipeline reproductible et interface ou API, avec un budget de 1000 $. Le périmètre reste large et le choix technologique est laissé ouvert, mais le brief fournit des critères d’acceptation exploitables."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/python-chatbot-development-40773857",
+      "source": "freelancer",
+      "title": "Python AI Chatbot Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/python-chatbot-development-40773857",
+      "budget": "$216",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "API Development",
+        "C Programming",
+        "Hugging Face",
+        "Java",
+        "Natural Language Processing",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 73,
+      "reason": "Bonne correspondance avec Python, chatbot et intégration sous forme de module ou API, avec un périmètre compréhensible et des livrables explicites. Le budget de 216 $ est faible mais peut être acceptable pour un chatbot limité à des intentions générales."
+    },
+    {
+      "id": "freelancer:/projects/web-development/advanced-online-gcse-learning-platform",
+      "source": "freelancer",
+      "title": "Advanced Online GCSE Learning Platform Development",
+      "url": "https://www.freelancer.com/projects/web-development/advanced-online-gcse-learning-platform",
+      "budget": "$1567",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Workflow Automation",
+        "Backend Development",
+        "Education Consulting",
+        "Full Stack Development",
+        "Machine Learning (ML)",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 72,
+      "reason": "Mission très intéressante en IA, backend et plateforme logicielle, avec un brief relativement structuré et un budget supérieur à 1000 $. Cependant, le périmètre est extrêmement vaste — tutorat vocal, correction fiable, tableau blanc, dashboards et multi-programmes — et paraît fortement sous-estimé."
+    },
+    {
+      "id": "freelancer:/projects/web-development/advanced-online-gcse-learning-platform",
+      "source": "freelancer",
+      "title": "Advanced Online GCSE Learning Platform Development",
+      "url": "https://www.freelancer.com/projects/web-development/advanced-online-gcse-learning-platform",
+      "budget": "$1567",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Workflow Automation",
+        "Backend Development",
+        "Education Consulting",
+        "Full Stack Development",
+        "Machine Learning (ML)",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 72,
+      "reason": "Mission très intéressante en IA, backend et plateforme logicielle, avec un brief relativement structuré et un budget supérieur à 1000 $. Cependant, le périmètre est extrêmement vaste — tutorat vocal, correction fiable, tableau blanc, dashboards et multi-programmes — et paraît fortement sous-estimé."
+    },
+    {
+      "id": "freelancer:/projects/api/elevenlabs-voice-pipeline-fix-multi",
+      "source": "freelancer",
+      "title": "ElevenLabs Voice Pipeline Fix & Multi-Agent Build",
+      "url": "https://www.freelancer.com/projects/api/elevenlabs-voice-pipeline-fix-multi",
+      "budget": "$500",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Development",
+        "AI Integration",
+        "API",
+        "Automation",
+        "ElevenLabs",
+        "n8n",
+        "Voice Agents"
+      ],
+      "score": 68,
+      "reason": "Mission pertinente en automatisation n8n, IA vocale et intégration de multiples API, pour un budget raisonnable de 500 $. Le brief reste toutefois vague sur l’architecture du multi-agent et sur les critères de réussite du correctif."
+    },
+    {
+      "id": "freelancer:/projects/web-development/property-inquiry-website-development",
+      "source": "freelancer",
+      "title": "Property Inquiry Website Development",
+      "url": "https://www.freelancer.com/projects/web-development/property-inquiry-website-development",
+      "budget": "$949",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Frontend Development",
+        "Full Stack Development",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 68,
+      "reason": "Projet full-stack clair avec backend, API, authentification email/SMS, base de données et export CSV, pour un budget relativement cohérent de 949 $. Il est toutefois plus orienté site métier classique que Python, Node.js, automatisation ou IA."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/web-desktop-agent-development",
+      "source": "freelancer",
+      "title": "Web & Desktop AI Agent Development",
+      "url": "https://www.freelancer.com/projects/ai-automation/web-desktop-agent-development",
+      "budget": "$616",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Development",
+        "Desktop Application",
+        "Graphic Design",
+        "HTML",
+        "Machine Learning (ML)",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 62,
+      "reason": "Le sujet combine intégration Claude, automatisation documentaire et développement web/desktop, ce qui correspond aux recherches IA et scripts. La description est trop imprécise sur les fonctionnalités et le budget de 616 $ paraît limité."
+    },
+    {
+      "id": "freelancer:/projects/web-application/store-inventory-software-with-live",
+      "source": "freelancer",
+      "title": "Store Inventory Software With Live Updates",
+      "url": "https://www.freelancer.com/projects/web-application/store-inventory-software-with-live",
+      "budget": "$221",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "C Programming",
+        "Database Management",
+        "JavaScript",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Web Application"
+      ],
+      "score": 60,
+      "reason": "Mission de développement logiciel concrète avec logique métier, concurrence, export et mises à jour temps réel. Le budget de 221 $ est faible et la stack n’est pas orientée vers les technologies privilégiées, mais le périmètre minimal est compréhensible."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/credit-card-fraud-detection-system",
+      "source": "freelancer",
+      "title": "Credit Card Fraud Detection System",
+      "url": "https://www.freelancer.com/projects/machine-learning/credit-card-fraud-detection-system",
+      "budget": "$434",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "Algorithm",
+        "C Programming",
+        "Data Analysis",
+        "Data Processing",
+        "Engineering",
+        "Machine Learning (ML)",
+        "Matlab and Mathematica"
+      ],
+      "score": 60,
+      "reason": "Mission pertinente en machine learning, traitement temps réel et analyse de données, pour un budget de 434 $. Le brief reste toutefois très générique et ne précise ni les données, ni l’architecture, ni les critères de performance attendus."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/full-stack-saas-app-development",
+      "source": "freelancer",
+      "title": "Full-Stack SaaS & App Development",
+      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-saas-app-development",
+      "budget": "$576",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Flutter",
+        "Full Stack Development",
+        "Git",
+        "JavaScript",
+        "Laravel",
+        "Node.js",
+        "Vue.js"
+      ],
+      "score": 48,
+      "reason": "Le sujet couvre SaaS, API, automatisation, IA et intégrations, donc il correspond aux domaines recherchés. Toutefois, le périmètre web, mobile, facturation, chatbot, CRM et CI/CD est énorme pour 576 $, ce qui le rend peu attractif."
+    },
+    {
+      "id": "freelancer:/projects/react-native/expo-react-native-fitness-marketplace",
+      "source": "freelancer",
+      "title": "Expo React Native Fitness Marketplace",
+      "url": "https://www.freelancer.com/projects/react-native/expo-react-native-fitness-marketplace",
+      "budget": "$232",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Animation",
+        "Expo",
+        "HTML5",
+        "iPhone",
+        "JavaScript",
+        "Mobile App Development",
+        "React Native",
+        "Typescript"
+      ],
+      "score": 48,
+      "reason": "Le projet inclut une intégration IA et du développement logiciel structuré en TypeScript, mais il est surtout orienté mobile React Native, animation et marketplace. Le budget de 232 $ est très bas au regard des animations 60 FPS, du chat IA et des modèles métier."
+    },
+    {
+      "id": "freelancer:/projects/vlsi/advanced-analytical-model-development",
+      "source": "freelancer",
+      "title": "Advanced Analytical Model Development for TFETs Using Visual TCAD/Silvaco TCAD",
+      "url": "https://www.freelancer.com/projects/vlsi/advanced-analytical-model-development",
+      "budget": "$244",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Electronics",
+        "MATLAB",
+        "Python",
+        "Very-large-scale integration (VLSI)"
+      ],
+      "score": 38,
+      "reason": "Le projet demande des scripts Python/MATLAB et de la modélisation, mais il s’agit principalement de recherche VLSI, TCAD, physique des semi-conducteurs et Verilog-A. Cette spécialisation est éloignée des missions backend/API/automatisation recherchées, avec en plus un budget très faible."
+    },
+    {
+      "id": "freelancer:/projects/embedded-systems/embedded-stm-bldc-control-development",
+      "source": "freelancer",
+      "title": "Embedded STM32 BLDC Control Development",
+      "url": "https://www.freelancer.com/projects/embedded-systems/embedded-stm-bldc-control-development",
+      "budget": "$1141",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "Electrical Engineering",
+        "Electronics",
+        "Embedded Systems",
+        "Firmware Development",
+        "Microcontroller",
+        "Motor Control",
+        "STM32"
+      ],
+      "score": 35,
+      "reason": "Il s’agit bien de développement logiciel avec un brief très technique, mais principalement de firmware embarqué et de contrôle moteur en C/C++, hors des domaines privilégiés backend, API, Python ou IA. La forte exigence temps réel rend aussi le budget de 1141 $ probablement insuffisant."
+    },
+    {
+      "id": "freelancer:/projects/inventory-management/shopify-multi-store-inventory-dashboard",
+      "source": "freelancer",
+      "title": "Shopify Multi-Store Inventory Dashboard + Competitor Price Monitoring Tool (AU + UAE)",
+      "url": "https://www.freelancer.com/projects/inventory-management/shopify-multi-store-inventory-dashboard",
+      "budget": "$88",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Competitor Analysis",
+        "Data Analytics",
+        "Data Management",
+        "Data Visualization",
+        "HTML",
+        "Inventory Management",
+        "Shopify",
+        "Web Scraping"
+      ],
+      "score": 35,
+      "reason": "Le projet combine intégrations Shopify, scraping, automatisation et dashboard, donc il est techniquement pertinent. Néanmoins, le budget de 88 $ est manifestement incompatible avec six milliers de produits, plusieurs magasins, le monitoring de 16 concurrents et la logique de réallocation."
+    },
+    {
+      "id": "freelancer:/projects/mvp-development/personalized-prescription-generator",
+      "source": "freelancer",
+      "title": "Personalized Prescription Generator Development",
+      "url": "https://www.freelancer.com/projects/mvp-development/personalized-prescription-generator",
+      "budget": "$62",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Design",
+        "Full Stack Development",
+        "MVP Development",
+        "OCR",
+        "PostgreSQL",
+        "Python"
+      ],
+      "score": 28,
+      "reason": "Le projet contient du développement Python, full-stack, OCR, speech-to-text et IA, avec un cahier des charges exceptionnellement détaillé. Mais le budget de 62 $ est totalement irréaliste pour une application médicale multi-tenant avec sécurité, validation et nombreuses phases."
+    },
+    {
+      "id": "freelancer:/projects/mvp-development/personalized-prescription-generator",
+      "source": "freelancer",
+      "title": "Personalized Prescription Generator Development",
+      "url": "https://www.freelancer.com/projects/mvp-development/personalized-prescription-generator",
+      "budget": "$62",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Design",
+        "Full Stack Development",
+        "MVP Development",
+        "OCR",
+        "PostgreSQL",
+        "Python"
+      ],
+      "score": 28,
+      "reason": "Le projet contient du développement Python, full-stack, OCR, speech-to-text et IA, avec un cahier des charges exceptionnellement détaillé. Mais le budget de 62 $ est totalement irréaliste pour une application médicale multi-tenant avec sécurité, validation et nombreuses phases."
+    }
+  ]
+}
