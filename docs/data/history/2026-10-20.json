@@ -1,0 +1,417 @@
+{
+  "generated_at": "2026-10-20T09:46:02.740978+00:00",
+  "new_listings_scanned": 296,
+  "missions": [
+    {
+      "id": "freelancer:/projects/content-management-system/botanical-fragrance-commerce-site",
+      "source": "freelancer",
+      "title": "Botanical Fragrance E-Commerce Site",
+      "url": "https://www.freelancer.com/projects/content-management-system/botanical-fragrance-commerce-site",
+      "budget": "$1283",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Content Management System (CMS)",
+        "eCommerce",
+        "Payment Gateway Integration",
+        "Product Management",
+        "Shopify",
+        "Shopify Development",
+        "Shopify Templates",
+        "Web Design",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 55,
+      "reason": "Brief clair, budget de 1 283 $ cohérent et véritable travail d’intégration e-commerce sur Shopify. L’alignement est toutefois moyen car il s’agit surtout de configuration et de développement Shopify, sans backend applicatif, automatisation ou IA significative."
+    },
+    {
+      "id": "freelancer:/projects/nodejs/victron-automation-with-node-red",
+      "source": "freelancer",
+      "title": "Victron PV Automation with Node-RED",
+      "url": "https://www.freelancer.com/projects/nodejs/victron-automation-with-node-red",
+      "budget": "$165",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Arduino",
+        "Automation",
+        "C Programming",
+        "Electronics",
+        "Microcontroller",
+        "MQTT",
+        "Node.js",
+        "Raspberry Pi"
+      ],
+      "score": 45,
+      "reason": "Mission d’automatisation technique concrète, avec MQTT, Modbus, Node-RED et Raspberry Pi, donc assez proche des critères. Le budget de 165 $ est très insuffisant pour développer, tester sur une journée solaire et documenter un système matériel critique."
+    },
+    {
+      "id": "freelancer:/projects/retrieval-augmented-generation/vittashastra-based-procurement-advisor",
+      "source": "freelancer",
+      "title": "Vittashastra - AI based procurement advisor",
+      "url": "https://www.freelancer.com/projects/retrieval-augmented-generation/vittashastra-based-procurement-advisor",
+      "budget": "$67",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "AI Model Development",
+        "AI Training Data",
+        "Android App Development",
+        "Large Language Models (LLMs)",
+        "LLM Fine-Tuning",
+        "Natural Language Processing",
+        "Natural Language Understanding",
+        "Retrieval-Augmented Generation (RAG)",
+        "Speech Recognition"
+      ],
+      "score": 45,
+      "reason": "Excellent alignement thématique avec les LLM, le RAG et la correction d’hallucinations. Cependant, le budget de 67 $ est très bas pour auditer, corriger et tester une solution métier offline-first, et le périmètre technique reste peu détaillé."
+    },
+    {
+      "id": "codeur:488659",
+      "source": "codeur",
+      "title": "Page web tableau de bord de pilotage commerce avec IA intégré",
+      "url": "https://www.codeur.com/projects/488659-page-web-tableau-de-bord-de-pilotage-commerce-avec-ia-integre",
+      "budget": "1 000 € à 10 000 €",
+      "offers": 149,
+      "views": "9869 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Full-stack",
+        "Base de données"
+      ],
+      "score": 45,
+      "reason": "Très bon alignement avec l’automatisation de données, les API, les bases de données, les dashboards et une future composante prédictive, avec un budget potentiellement cohérent. Toutefois, les 149 offres dépassent largement le seuil de concurrence et le projet reste très vaste."
+    },
+    {
+      "id": "freelancer:/projects/software-development/windows-project-code-enhancement",
+      "source": "freelancer",
+      "title": "Windows Project Code Enhancement",
+      "url": "https://www.freelancer.com/projects/software-development/windows-project-code-enhancement",
+      "budget": "$416",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "C++ Programming",
+        "Documentation",
+        "Software Architecture",
+        "Software Development",
+        "Software Engineering",
+        "Version Control Git",
+        "Windows Desktop"
+      ],
+      "score": 42,
+      "reason": "Mission de développement logiciel pertinente, notamment pour le refactoring, les corrections et les tests sur une application existante. Le brief reste trop vague sur le périmètre réel et le budget de 416 $ limite fortement l’intérêt."
+    },
+    {
+      "id": "freelancer:/projects/software-development/windows-project-code-enhancement",
+      "source": "freelancer",
+      "title": "Windows Project Code Enhancement",
+      "url": "https://www.freelancer.com/projects/software-development/windows-project-code-enhancement",
+      "budget": "$416",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "C++ Programming",
+        "Documentation",
+        "Software Architecture",
+        "Software Development",
+        "Software Engineering",
+        "Version Control Git",
+        "Windows Desktop"
+      ],
+      "score": 42,
+      "reason": "Mission de développement logiciel pertinente, notamment pour le refactoring, les corrections et les tests sur une application existante. Le brief reste trop vague sur le périmètre réel et le budget de 416 $ limite fortement l’intérêt."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/enterprise-business-management-software",
+      "source": "freelancer",
+      "title": "Enterprise Business Management Software Development",
+      "url": "https://www.freelancer.com/projects/api-developmet/enterprise-business-management-software",
+      "budget": "$1175",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Analytics",
+        "API Development",
+        "Cloud Computing",
+        "Database Design",
+        "PHP",
+        "Software Architecture",
+        "Website Design"
+      ],
+      "score": 40,
+      "reason": "Projet de développement logiciel ambitieux, avec architecture, API, données et nombreux modules clairement décrits. Le périmètre est cependant beaucoup trop vaste pour 1 175 $ et ressemble davantage à un appel d’offres initial qu’à une mission réalisable seule."
+    },
+    {
+      "id": "freelancer:/projects/sqlite/lightweight-pos-inventory-desktop",
+      "source": "freelancer",
+      "title": "Lightweight POS & Inventory Desktop",
+      "url": "https://www.freelancer.com/projects/sqlite/lightweight-pos-inventory-desktop",
+      "budget": "$433",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Analytics",
+        "Database Management",
+        "Desktop Application",
+        "ERP",
+        "Inventory Management",
+        "Point of Sale",
+        "Python",
+        "Software Architecture",
+        "Software Development",
+        "SQLite"
+      ],
+      "score": 38,
+      "reason": "Très bon alignement avec Python, SQLite, développement applicatif et exigences techniques précises. Le budget de 433 $ est néanmoins très faible pour un POS complet avec interface Windows, rapports, sécurité, impression et tests."
+    },
+    {
+      "id": "freelancer:/projects/sharepoint/automate-sftp-sharepoint-transfer",
+      "source": "freelancer",
+      "title": "Automate SFTP to SharePoint Transfer",
+      "url": "https://www.freelancer.com/projects/sharepoint/automate-sftp-sharepoint-transfer",
+      "budget": "$22",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon Web Services",
+        "Automation",
+        "Powershell",
+        "Python",
+        "REST API",
+        "Sharepoint",
+        "Software Architecture"
+      ],
+      "score": 35,
+      "reason": "Mission très bien cadrée et techniquement pertinente pour Python, l’automatisation et les intégrations API. Toutefois, le budget de 22 $ est totalement disproportionné par rapport aux exigences de fiabilité, de sécurité et de documentation."
+    },
+    {
+      "id": "freelancer:/projects/flutter/finalize-flutter-app-for-ios",
+      "source": "freelancer",
+      "title": "Finalize Flutter App for iOS",
+      "url": "https://www.freelancer.com/projects/flutter/finalize-flutter-app-for-ios",
+      "budget": "$107",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Flutter",
+        "iOS Development",
+        "iPhone",
+        "Mobile App Development",
+        "Objective C",
+        "Swift",
+        "Xcode"
+      ],
+      "score": 35,
+      "reason": "Mission technique réelle avec Flutter, tests sur appareils, capteurs, permissions et intégration iOS. Elle est cependant éloignée des technologies prioritaires et le budget de 107 $ est très bas pour une validation physique complète et une publication TestFlight."
+    },
+    {
+      "id": "freelancer:/projects/desktop-application/visual-basic-data-analysis-tool",
+      "source": "freelancer",
+      "title": "Visual Basic Data Analysis Tool",
+      "url": "https://www.freelancer.com/projects/desktop-application/visual-basic-data-analysis-tool",
+      "budget": "$406",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "C# Programming",
+        "Data Analysis",
+        "Data Management",
+        "Desktop Application",
+        "Software Architecture",
+        "Software Development",
+        "Visual Basic"
+      ],
+      "score": 35,
+      "reason": "Le développement d’une application desktop d’analyse de données correspond partiellement aux critères de développement logiciel. Le brief est trop vague sur les fonctionnalités et le budget de 406 $ est faible pour une application avec gestion des utilisateurs."
+    },
+    {
+      "id": "freelancer:/projects/asp-net/real-time-bidirectional-integration-with",
+      "source": "freelancer",
+      "title": "Real-Time Bidirectional Integration with Cegid Primavera ERP",
+      "url": "https://www.freelancer.com/projects/asp-net/real-time-bidirectional-integration-with",
+      "budget": "$503",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "ASP.NET",
+        "C# Programming",
+        "RESTful",
+        "Signal Processing"
+      ],
+      "score": 32,
+      "reason": "Mission de développement backend et d’intégration complexe, avec une architecture détaillée et une composante Python/FastAPI intéressante. Elle exige toutefois surtout C#/.NET, SignalR, ERP et déploiement, pour un budget de seulement 503 $."
+    },
+    {
+      "id": "freelancer:/projects/payment-gateway-integration/crypto-settled-gbp-card-gateway",
+      "source": "freelancer",
+      "title": "Crypto-Settled GBP Card Gateway",
+      "url": "https://www.freelancer.com/projects/payment-gateway-integration/crypto-settled-gbp-card-gateway",
+      "budget": "$244",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Blockchain",
+        "Cryptocurrency",
+        "Payment Gateway Integration",
+        "Payment Processing",
+        "Smart Contracts",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 25,
+      "reason": "Le projet comporte de l’intégration API et du développement logiciel, mais il est très sensible sur les plans réglementaire, bancaire et crypto. Le brief ne précise pas le prestataire de paiement et le budget de 244 $ est irréaliste, avec un risque élevé de faisabilité ou de conformité."
+    },
+    {
+      "id": "freelancer:/projects/magento-2/experienced-web-developer-who-can",
+      "source": "freelancer",
+      "title": "Experienced web developer who can build a wholesale directory using Magento 2 Marketplace Extension. Do not bid if you do not have relevant experience or can show previous work websites",
+      "url": "https://www.freelancer.com/projects/magento-2/experienced-web-developer-who-can",
+      "budget": "$312",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "B2B Marketing",
+        "HTML",
+        "Magento",
+        "Magento 2",
+        "Marketplace Development",
+        "Payment Gateway Integration",
+        "PHP",
+        "Product Management",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 25,
+      "reason": "Le projet comporte du développement Magento et plusieurs intégrations ERP, paiement et logistique, mais il est très large et fortement orienté e-commerce. Le budget de 312 $ est insuffisant pour un marketplace B2B complet et la mission ne cible pas particulièrement Python, Node.js ou IA."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/react-single-page-site-migration",
+      "source": "freelancer",
+      "title": "React Single-Page Site Migration",
+      "url": "https://www.freelancer.com/projects/nextjs/react-single-page-site-migration",
+      "budget": "$131",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accessibility",
+        "Frontend Development",
+        "Git",
+        "HTML",
+        "JavaScript",
+        "Next.js",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 25,
+      "reason": "La migration React/Next.js et le formulaire sont du développement, mais le projet reste principalement un petit site vitrine avec déploiement AWS. Le budget de 131 $ est faible et l’infrastructure demandée occupe une place importante, sans réelle composante backend avancée."
+    },
+    {
+      "id": "freelancer:/projects/android/kotlin-webview-push-app",
+      "source": "freelancer",
+      "title": "Kotlin WebView & Push App",
+      "url": "https://www.freelancer.com/projects/android/kotlin-webview-push-app",
+      "budget": "$30",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "iOS",
+        "Kotlin",
+        "Mobile App Development",
+        "MySQL",
+        "PHP",
+        "Swift"
+      ],
+      "score": 25,
+      "reason": "Le périmètre fonctionnel est simple et clairement défini, avec une petite intégration FCM. Mais le budget strict de 20 $ est déraisonnable, et la demande de travaux futurs en échange de donations évoque une rémunération incertaine."
+    },
+    {
+      "id": "codeur:491479",
+      "source": "codeur",
+      "title": "Site ia vidéo TikTok Instagram entreprise",
+      "url": "https://www.codeur.com/projects/491479-site-ia-video-tiktok-instagram-entreprise",
+      "budget": "Moins de 500 €",
+      "offers": 59,
+      "views": "3109 Vues",
+      "tags": [
+        "SaaS",
+        "Développement spécifique",
+        "Vidéo IA"
+      ],
+      "score": 22,
+      "reason": "Le projet touche à l’IA, aux API de génération et au développement SaaS, mais son périmètre est extrêmement vaste : vidéo, image, abonnements, modération, stockage et administration. Le budget inférieur à 500 € et les 59 offres rendent la mission peu crédible et très concurrentielle."
+    },
+    {
+      "id": "freelancer:/projects/web-development/entertainment-social-media-platform",
+      "source": "freelancer",
+      "title": "Entertainment & Social Media Platform Build",
+      "url": "https://www.freelancer.com/projects/web-development/entertainment-social-media-platform",
+      "budget": "$433",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "HTML",
+        "iPhone",
+        "Mobile App Development",
+        "Node.js",
+        "PHP",
+        "React Native",
+        "Typescript",
+        "Web Development"
+      ],
+      "score": 22,
+      "reason": "Le projet contient du Node.js/TypeScript, des paiements, du streaming et des fonctionnalités sociales, donc certains aspects sont pertinents. Le périmètre multiplateforme avec vidéo, DRM, CDN et abonnements est toutefois énorme pour 433 $."
+    },
+    {
+      "id": "freelancer:/projects/cicd/retail-payment-fintech-app-development",
+      "source": "freelancer",
+      "title": "Retail Payment Fintech App Development",
+      "url": "https://www.freelancer.com/projects/cicd/retail-payment-fintech-app-development",
+      "budget": "$84",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CI/CD",
+        "Flutter",
+        "iOS Development",
+        "Microservices",
+        "Mobile App Development",
+        "Payment Gateway Integration",
+        "Payment Processing",
+        "React Native"
+      ],
+      "score": 20,
+      "reason": "Le développement d’un service de paiement et d’une application mobile est techniquement pertinent, mais le périmètre est très important et inclut aussi CI/CD. Le budget de 86 $ est manifestement incompatible avec une intégration Apple Pay sécurisée et un MVP multiplateforme."
+    },
+    {
+      "id": "freelancer:/projects/cicd/retail-payment-fintech-app-development",
+      "source": "freelancer",
+      "title": "Retail Payment Fintech App Development",
+      "url": "https://www.freelancer.com/projects/cicd/retail-payment-fintech-app-development",
+      "budget": "$86",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CI/CD",
+        "Flutter",
+        "iOS Development",
+        "Microservices",
+        "Mobile App Development",
+        "Payment Gateway Integration",
+        "Payment Processing",
+        "React Native"
+      ],
+      "score": 20,
+      "reason": "Le développement d’un service de paiement et d’une application mobile est techniquement pertinent, mais le périmètre est très important et inclut aussi CI/CD. Le budget de 86 $ est manifestement incompatible avec une intégration Apple Pay sécurisée et un MVP multiplateforme."
+    }
+  ]
+}
