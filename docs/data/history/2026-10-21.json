@@ -1,0 +1,420 @@
+{
+  "generated_at": "2026-10-21T09:48:05.759306+00:00",
+  "new_listings_scanned": 325,
+  "missions": [
+    {
+      "id": "freelancer:/projects/full-stack-development/full-stack-dev-for-live",
+      "source": "freelancer",
+      "title": "Full-Stack Dev for Live Multi-Vendor Marketplace -- 2",
+      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-dev-for-live",
+      "budget": "$1018",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Expo",
+        "Full Stack Development",
+        "GitHub",
+        "Marketplace Development",
+        "Node.js",
+        "PostgreSQL",
+        "Prisma",
+        "React Native",
+        "Typescript"
+      ],
+      "score": 88,
+      "reason": "Excellente mission de développement applicatif sur Node.js/TypeScript, intégrations API, webhooks, paiements et marketplace existante. Le budget est modeste au regard des 4 à 8 semaines, mais il est négociable et le brief est exceptionnellement précis."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/custom-commerce-site-with-aliexpress",
+      "source": "freelancer",
+      "title": "Custom E-Commerce Site with AliExpress",
+      "url": "https://www.freelancer.com/projects/api-integration/custom-commerce-site-with-aliexpress",
+      "budget": "$1500",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Django",
+        "Full Stack Development",
+        "HTML",
+        "Laravel",
+        "MySQL",
+        "Node.js",
+        "Payment Gateway Integration",
+        "PHP",
+        "Web Development",
+        "Website Design",
+        "Website Development"
+      ],
+      "score": 82,
+      "reason": "Très bonne mission full-stack avec Node.js ou Django, intégration API, synchronisation catalogue, paiements et backend REST, pour un budget cohérent de 1 500 $. Le périmètre est néanmoins très vaste pour ce montant et comporte aussi une forte composante e-commerce/front-end."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/full-stack-developer-for-availability-40777554",
+      "source": "freelancer",
+      "title": "Full-Stack Developer for Availability Monitoring System -- 3",
+      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-developer-for-availability-40777554",
+      "budget": "$1082",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Docker",
+        "Express JS",
+        "Full Stack Development",
+        "Golang",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PostgreSQL",
+        "Redis",
+        "SaaS"
+      ],
+      "score": 78,
+      "reason": "Très bonne adéquation avec l'automatisation, Node.js, Playwright, traitement en file et intégrations API, avec un brief clair et un budget correct. La dépendance à Cloudflare et aux systèmes anti-bot peut toutefois rendre la mission risquée, et la maintenance gratuite d'un an est un point défavorable."
+    },
+    {
+      "id": "codeur:491576",
+      "source": "codeur",
+      "title": "Développeur full stack pour reprendre et finaliser une plateforme",
+      "url": "https://www.codeur.com/projects/491576-developpeur-full-stack-pour-reprendre-et-finaliser-une-plateforme",
+      "budget": "200 à 500 €/jour",
+      "offers": 100,
+      "views": "1291 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Full-stack",
+        "Site E-commerce"
+      ],
+      "score": 76,
+      "reason": "Bonne mission de reprise et finalisation d'une application existante, avec e-commerce, stocks, commandes et amélioration mobile, ainsi qu'un audit initial rémunérable. Le périmètre reste flou et la concurrence est forte avec 100 offres, mais le budget journalier est cohérent."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/tallyprime-integration-developer-needed",
+      "source": "freelancer",
+      "title": "TallyPrime Integration Developer Needed",
+      "url": "https://www.freelancer.com/projects/api-integration/tallyprime-integration-developer-needed",
+      "budget": "$220",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accounting",
+        "API Integration",
+        "HTTP",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "REST API",
+        "Software Architecture",
+        "XML"
+      ],
+      "score": 74,
+      "reason": "Mission d'intégration applicative concrète avec synchronisation bidirectionnelle, API XML/HTTP et ERP, conforme à la recherche de développement et d'intégrations. Le budget annoncé de 220 $ est bas et la technologie TallyPrime est plus spécialisée que les stacks privilégiées."
+    },
+    {
+      "id": "codeur:491584",
+      "source": "codeur",
+      "title": "Application analyse qualitative",
+      "url": "https://www.codeur.com/projects/491584-application-analyse-qualitative",
+      "budget": "500 € à 1 000 €",
+      "offers": 67,
+      "views": "766 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Machine Learning",
+        "Application mobile"
+      ],
+      "score": 72,
+      "reason": "Application technique intéressante mêlant IA locale, traitement documentaire, exports et fonctionnement hors ligne, avec un cahier des charges disponible. Le budget est seulement moyen et les 67 offres indiquent une concurrence déjà élevée."
+    },
+    {
+      "id": "freelancer:/projects/xcode/macos-startup-optimizer-utility",
+      "source": "freelancer",
+      "title": "macOS Startup Optimizer Utility",
+      "url": "https://www.freelancer.com/projects/xcode/macos-startup-optimizer-utility",
+      "budget": "$998",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agile Development",
+        "API Development",
+        "C++ Programming",
+        "Documentation",
+        "Mac OS",
+        "Objective C",
+        "Software Development",
+        "Software Testing",
+        "Swift",
+        "Xcode"
+      ],
+      "score": 72,
+      "reason": "Mission de développement logiciel native avec exigences précises, logique réversible, tests et livrable complet, pour un budget proche de 1 000 $. Elle est moins alignée avec Python/Node/IA et implique des contraintes macOS, sandbox et notarisation spécialisées."
+    },
+    {
+      "id": "codeur:491533",
+      "source": "codeur",
+      "title": "Développement d’un agent IA pour automatiser la prospection par email",
+      "url": "https://www.codeur.com/projects/491533-developpement-d-un-agent-ia-pour-automatiser-la-prospection-par-email",
+      "budget": "Moins de 500 €",
+      "offers": 79,
+      "views": "4287 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Emailing",
+        "API"
+      ],
+      "score": 67,
+      "reason": "Très bonne adéquation avec l'automatisation, les API, Python/n8n et les workflows email, et le brief détaille précisément les fonctions attendues. Le budget annoncé est très faible pour ce périmètre, avec en plus 79 offres et une composante délivrabilité/DNS plus proche de l'administration technique."
+    },
+    {
+      "id": "freelancer:/projects/svg/font-effects-developer-needed",
+      "source": "freelancer",
+      "title": "Font Effects Developer Needed",
+      "url": "https://www.freelancer.com/projects/svg/font-effects-developer-needed",
+      "budget": "$414",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Graphic Design",
+        "HTML5",
+        "JavaFX",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "Software Development",
+        "SVG",
+        "Typography",
+        "Web Development"
+      ],
+      "score": 65,
+      "reason": "Mission de développement technique spécialisée autour du rendu serveur de polices, SVG et effets graphiques, avec un besoin relativement précis. Elle correspond moins aux domaines prioritaires et le budget de 414 $ peut être limité selon les contraintes COLRv1 et multi-format."
+    },
+    {
+      "id": "freelancer:/projects/svg/font-effects-developer-needed",
+      "source": "freelancer",
+      "title": "Font Effects Developer Needed",
+      "url": "https://www.freelancer.com/projects/svg/font-effects-developer-needed",
+      "budget": "$414",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Graphic Design",
+        "HTML5",
+        "JavaFX",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "Software Development",
+        "SVG",
+        "Typography",
+        "Web Development"
+      ],
+      "score": 65,
+      "reason": "Mission de développement technique spécialisée autour du rendu serveur de polices, SVG et effets graphiques, avec un besoin relativement précis. Elle correspond moins aux domaines prioritaires et le budget de 414 $ peut être limité selon les contraintes COLRv1 et multi-format."
+    },
+    {
+      "id": "freelancer:/projects/mobile-app-development/gas-delivery-mobile-app",
+      "source": "freelancer",
+      "title": "Gas Delivery mobile app",
+      "url": "https://www.freelancer.com/projects/mobile-app-development/gas-delivery-mobile-app",
+      "budget": "$186",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "AngularJS",
+        "App Development",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "React Native"
+      ],
+      "score": 62,
+      "reason": "Mission de développement applicatif concrète sur une base existante, avec tracking temps réel, paiement et intégration Zendesk/Firebase, et des API documentées. Le budget de 186 $ est très faible pour une livraison iOS/Android prête pour les stores."
+    },
+    {
+      "id": "freelancer:/projects/deep-learning/imagenet-classification-notebook",
+      "source": "freelancer",
+      "title": "ImageNet Classification Notebook Development",
+      "url": "https://www.freelancer.com/projects/deep-learning/imagenet-classification-notebook",
+      "budget": "$234",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Computer Vision",
+        "Data Augmentation",
+        "Deep Learning",
+        "Image Processing",
+        "Machine Learning (ML)",
+        "MERN Stack",
+        "Model Evaluation",
+        "Python",
+        "Pytorch",
+        "Tensorflow"
+      ],
+      "score": 60,
+      "reason": "Mission directement liée à Python, PyTorch/TensorFlow et machine learning, avec des livrables bien définis. Le budget de 234 $ est faible pour une exécution réellement reproductible sur ImageNet, notamment avec entraînement et modèle sauvegardé."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/forex-weekend-gap-analyzer",
+      "source": "freelancer",
+      "title": "Forex Weekend Gap Analyzer",
+      "url": "https://www.freelancer.com/projects/api-integration/forex-weekend-gap-analyzer",
+      "budget": "$142",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Data Analysis",
+        "Financial Analysis",
+        "JavaScript",
+        "Pandas",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 60,
+      "reason": "Bonne mission Python/pandas d'analyse de données et d'intégration d'une source historique, avec livrables précis et reproductibles. Le budget de 142 $ est faible et l'acquisition d'une donnée financière fiable peut dépasser largement le périmètre prévu."
+    },
+    {
+      "id": "freelancer:/projects/ios/finish-cross-platform-gas-delivery",
+      "source": "freelancer",
+      "title": "Finish Cross-Platform Gas Delivery App",
+      "url": "https://www.freelancer.com/projects/ios/finish-cross-platform-gas-delivery",
+      "budget": "$157",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "AngularJS",
+        "App Development",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "React Native"
+      ],
+      "score": 60,
+      "reason": "Le périmètre correspond à une reprise de code mobile et à des intégrations applicatives bien définies, ce qui est pertinent. Toutefois, le budget de 157 $ est encore moins cohérent avec les fonctionnalités, la QA et les soumissions sur deux stores."
+    },
+    {
+      "id": "freelancer:/projects/sqlite/student-management-system",
+      "source": "freelancer",
+      "title": "C Student Management System",
+      "url": "https://www.freelancer.com/projects/sqlite/student-management-system",
+      "budget": "$223",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Data Management",
+        "Debugging",
+        "Software Architecture",
+        "Software Development",
+        "SQLite"
+      ],
+      "score": 58,
+      "reason": "Développement logiciel bien spécifié, avec persistance SQLite, authentification et exigences de qualité C explicites. Le projet est toutefois éloigné des stacks privilégiées et le budget de 223 $ reste faible, même pour un outil standalone limité."
+    },
+    {
+      "id": "freelancer:/projects/supabase/multi-app-school-pwa-supabase",
+      "source": "freelancer",
+      "title": "Multi-App School PWA, Supabase",
+      "url": "https://www.freelancer.com/projects/supabase/multi-app-school-pwa-supabase",
+      "budget": "$148",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Development",
+        "Frontend Development",
+        "Hindi Translator",
+        "iPhone",
+        "Mobile App Development",
+        "Supabase",
+        "Web Development",
+        "Web Security",
+        "Website Design"
+      ],
+      "score": 58,
+      "reason": "Projet applicatif avec backend Supabase, API, sécurité RLS, GPS et PWA, donc techniquement intéressant et relativement bien résumé. Le budget de 148 $ est totalement disproportionné pour six applications, la gestion des rôles, la sécurité et le multilingue."
+    },
+    {
+      "id": "freelancer:/projects/scrapy/commerce-product-web-scraping",
+      "source": "freelancer",
+      "title": "E-commerce Product Web Scraping",
+      "url": "https://www.freelancer.com/projects/scrapy/commerce-product-web-scraping",
+      "budget": "$23",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "BeautifulSoup",
+        "Data Collection",
+        "JavaScript",
+        "Python",
+        "Scrapy",
+        "Selenium",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 55,
+      "reason": "Mission parfaitement alignée avec Python, Scrapy et scraping de données structurées, avec des critères d'acceptation clairs. Le budget de 23 $ est extrêmement bas et l'exigence de gérer blocages et captchas ajoute une difficulté non compatible avec ce montant."
+    },
+    {
+      "id": "codeur:491526",
+      "source": "codeur",
+      "title": "Développement d'une plateforme SaaS B2B avec intelligence artificielle",
+      "url": "https://www.codeur.com/projects/491526-developpement-d-une-plateforme-saas-b2b-avec-intelligence-artificielle",
+      "budget": "10 000 € et plus",
+      "offers": 157,
+      "views": "5792 Vues",
+      "tags": [
+        "SaaS",
+        "Développement spécifique",
+        "Full-stack"
+      ],
+      "score": 50,
+      "reason": "Projet SaaS full-stack et IA très pertinent, avec un budget élevé et un cahier des charges détaillé. La concurrence extrêmement forte (157 offres) et le périmètre très large, incluant mobile, UX, sécurité et déploiement, réduisent fortement l'intérêt."
+    },
+    {
+      "id": "freelancer:/projects/ai-app-development/personalized-outfit-stylist-app",
+      "source": "freelancer",
+      "title": "AI Personalized Outfit Stylist App",
+      "url": "https://www.freelancer.com/projects/ai-app-development/personalized-outfit-stylist-app",
+      "budget": "$262",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "Backend Development",
+        "Mobile App Development",
+        "Node.js",
+        "Python",
+        "React Native",
+        "Swift",
+        "UX Research"
+      ],
+      "score": 50,
+      "reason": "Le projet combine recommandation personnalisée, IA, backend et intégrations de catalogue, ce qui correspond bien aux compétences recherchées. En revanche, le budget de 262 $ est très insuffisant pour un prototype, un MVP mobile, une interface d'administration et des intégrations affiliate."
+    },
+    {
+      "id": "codeur:491568",
+      "source": "codeur",
+      "title": "Développement d'une application mobile IA – Deepfake / Face Swap en te",
+      "url": "https://www.codeur.com/projects/491568-developpement-d-une-application-mobile-ia-deepfake-face-swap-en-te",
+      "budget": "Moins de 500 €",
+      "offers": 17,
+      "views": "1157 Vues",
+      "tags": [
+        "Application mobile",
+        "Machine Learning",
+        "Vidéo IA"
+      ],
+      "score": 48,
+      "reason": "Projet techniquement ambitieux en computer vision, deep learning et traitement vidéo temps réel, donc pertinent sur le plan technique. Le budget inférieur à 500 € est irréaliste pour une application multi-plateforme fonctionnelle, et le sujet deepfake comporte des risques importants malgré les mentions de consentement."
+    }
+  ]
+}
