@@ -1,0 +1,430 @@
+{
+  "generated_at": "2026-10-22T09:47:55.241292+00:00",
+  "new_listings_scanned": 327,
+  "missions": [
+    {
+      "id": "freelancer:/projects/kotlin/kotlin-multiplatform-auction-bidding-app",
+      "source": "freelancer",
+      "title": "Property  Auction Bidding App",
+      "url": "https://www.freelancer.com/projects/kotlin/kotlin-multiplatform-auction-bidding-app",
+      "budget": "$8061",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Continuous Integration",
+        "iOS",
+        "Kotlin",
+        "Mobile App Development",
+        "RESTful API",
+        "Software Testing",
+        "SwiftUI"
+      ],
+      "score": 86,
+      "reason": "Excellent alignement avec le développement logiciel, les APIs, le temps réel et une application mobile clairement spécifiée, avec un budget de 8061 $ cohérent. Le projet demande toutefois une expertise Kotlin Multiplatform, iOS/Android et WebSockets assez spécialisée."
+    },
+    {
+      "id": "freelancer:/projects/dot-net/sftp-json-middleware-for-tms",
+      "source": "freelancer",
+      "title": "SFTP JSON Middleware for TMS",
+      "url": "https://www.freelancer.com/projects/dot-net/sftp-json-middleware-for-tms",
+      "budget": "$714",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "JSON",
+        "Node.js",
+        "Python",
+        "REST API",
+        "Software Development",
+        "Software Engineering",
+        "SQL"
+      ],
+      "score": 82,
+      "reason": "Très bonne adéquation avec le développement backend, les API, Python/Node.js, l’automatisation et les intégrations, avec un brief particulièrement précis et testable. Le budget de 714 $ est bas pour une intégration bidirectionnelle avec mapping, reprise sur erreur, tests et documentation."
+    },
+    {
+      "id": "freelancer:/projects/supabase/supabase-stripe-netlify-backend-for",
+      "source": "freelancer",
+      "title": "Supabase + Stripe + Netlify backend for a finished lawn bowls web app: sign-in, 30-day trial, annual subscriptions, access lock",
+      "url": "https://www.freelancer.com/projects/supabase/supabase-stripe-netlify-backend-for",
+      "budget": "$706",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Email Marketing",
+        "HTML",
+        "JavaScript",
+        "Netlify",
+        "PHP",
+        "Server to Server Facebook API Integration",
+        "Stripe",
+        "Supabase",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 82,
+      "reason": "Mission très bien spécifiée, centrée sur Supabase, Stripe, fonctions backend, authentification, webhooks et logique d’abonnement, avec des critères d’acceptation précis. Le budget de 706 $ est un peu serré mais reste plus crédible que la plupart des offres de cette liste."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/voice-agent-development-for",
+      "source": "freelancer",
+      "title": "AI Voice Agent Development for Comprehensive Business Solutions",
+      "url": "https://www.freelancer.com/projects/ai-automation/voice-agent-development-for",
+      "budget": "$1877",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Voice Agents",
+        "AI Voiceover",
+        "AI Workflow Automation"
+      ],
+      "score": 73,
+      "reason": "La création d’un agent vocal IA 24/7 correspond bien aux domaines recherchés et le budget est relativement correct. La description manque néanmoins de précisions techniques sur les systèmes cibles, le fournisseur vocal et le périmètre exact."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/voice-agent-development-for",
+      "source": "freelancer",
+      "title": "AI Voice Agent Development for Comprehensive Business Solutions",
+      "url": "https://www.freelancer.com/projects/ai-automation/voice-agent-development-for",
+      "budget": "$1957",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Voice Agents",
+        "AI Voiceover",
+        "AI Workflow Automation"
+      ],
+      "score": 73,
+      "reason": "La création d’un agent vocal IA 24/7 correspond bien aux domaines recherchés et le budget est relativement correct. La description manque néanmoins de précisions techniques sur les systèmes cibles, le fournisseur vocal et le périmètre exact."
+    },
+    {
+      "id": "freelancer:/projects/css/chrome-extension-for-website-automation",
+      "source": "freelancer",
+      "title": "Chrome Extension for Website Automation",
+      "url": "https://www.freelancer.com/projects/css/chrome-extension-for-website-automation",
+      "budget": "$215",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Google Chrome",
+        "JavaScript",
+        "jQuery",
+        "PHP",
+        "Webpack"
+      ],
+      "score": 70,
+      "reason": "Petite mission d’automatisation front-end bien cadrée, directement compatible avec le développement JavaScript et les scripts d’automatisation. Le budget de 215 $ est bas mais peut rester envisageable si le périmètre tronqué ne cache pas de fonctionnalités complexes."
+    },
+    {
+      "id": "codeur:491611",
+      "source": "codeur",
+      "title": "Développeur DataStage / Python / Qlik Sense",
+      "url": "https://www.codeur.com/projects/491611-developpeur-datastage-python-qlik-sense",
+      "budget": "Moins de 500 €",
+      "offers": 8,
+      "views": "2040 Vues",
+      "tags": [
+        "ETL",
+        "Python",
+        "Base de données"
+      ],
+      "score": 66,
+      "reason": "Mission très pertinente pour Python, l’ETL, les bases de données et la migration d’un traitement existant, avec une durée longue. Elle impose toutefois six ans d’expérience, deux jours sur site dans le 94 et un budget annoncé inférieur à 500 €, ce qui la rend peu attractive ou ambiguë pour du freelance."
+    },
+    {
+      "id": "freelancer:/projects/computer-vision/expert-for-vision-based-compliance",
+      "source": "freelancer",
+      "title": "AI Expert for Vision-Based Compliance Monitoring",
+      "url": "https://www.freelancer.com/projects/computer-vision/expert-for-vision-based-compliance",
+      "budget": "$274",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Workflow Automation",
+        "Computer Vision",
+        "Deep Learning",
+        "Face Recognition",
+        "Object Detection",
+        "OpenCV",
+        "YOLO"
+      ],
+      "score": 63,
+      "reason": "Mission fortement orientée IA, Python et computer vision, avec un descriptif technique détaillé et des besoins concrets. Le budget de 274 $ et le délai de 15 jours sont très faibles pour plusieurs modèles, l’optimisation GPU et le traitement multi-caméras."
+    },
+    {
+      "id": "freelancer:/projects/chatbot-development/whatsapp-support-chatbot-development",
+      "source": "freelancer",
+      "title": "WhatsApp Support Chatbot Development",
+      "url": "https://www.freelancer.com/projects/chatbot-development/whatsapp-support-chatbot-development",
+      "budget": "$439",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automation",
+        "Chatbot Development",
+        "Customer Support",
+        "Java",
+        "MySQL",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 63,
+      "reason": "Le besoin est bien défini et pertinent pour le développement d’intégrations et de workflows automatisés. Malgré cela, le budget de 440 $ est limité pour une implémentation WhatsApp complète avec journalisation, transfert d’historique et documentation."
+    },
+    {
+      "id": "freelancer:/projects/chatbot-development/whatsapp-support-chatbot-development",
+      "source": "freelancer",
+      "title": "WhatsApp Support Chatbot Development",
+      "url": "https://www.freelancer.com/projects/chatbot-development/whatsapp-support-chatbot-development",
+      "budget": "$440",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automation",
+        "Chatbot Development",
+        "Customer Support",
+        "Java",
+        "MySQL",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 63,
+      "reason": "Le besoin est bien défini et pertinent pour le développement d’intégrations et de workflows automatisés. Malgré cela, le budget de 440 $ est limité pour une implémentation WhatsApp complète avec journalisation, transfert d’historique et documentation."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/rooted-android-system-development",
+      "source": "freelancer",
+      "title": "Rooted Android System Development",
+      "url": "https://www.freelancer.com/projects/android-app-development/rooted-android-system-development",
+      "budget": "$1001",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "Full Stack Development",
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Mobile App Development",
+        "Node.js"
+      ],
+      "score": 61,
+      "reason": "Mission de développement logiciel riche, avec backend, APIs, Android, temps réel et éventuellement scripting, pour un budget supérieur à 1000 $. Elle est toutefois très large, inclut du développement système/rooté et de la gestion de serveurs, avec un brief plus proche d’une collaboration ouverte que d’un périmètre défini."
+    },
+    {
+      "id": "freelancer:/projects/web-development/crm-deck-construction-management",
+      "source": "freelancer",
+      "title": "CRM & Deck Construction Management Software",
+      "url": "https://www.freelancer.com/projects/web-development/crm-deck-construction-management",
+      "budget": "$1002",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CRM",
+        "Django",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 58,
+      "reason": "Le projet est très détaillé et couvre beaucoup de développement applicatif, d’APIs, d’automatisation et de modèles de données. En revanche, le périmètre combine CRM, gestion de chantier, 3D, plans techniques et intégrations comptables pour seulement 1002 $, ce qui le rend fortement sous-budgeté."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/orchestration-agent-setup-codex-claude",
+      "source": "freelancer",
+      "title": "Ai Orchestration Agent Setup (Codex + Claude Code)",
+      "url": "https://www.freelancer.com/projects/ai-automation/orchestration-agent-setup-codex-claude",
+      "budget": "$444",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Automation",
+        "AI Development",
+        "AI Integration",
+        "AI Model Integration",
+        "AI Workflow Automation",
+        "Automation",
+        "Claude Code",
+        "Codex",
+        "n8n"
+      ],
+      "score": 57,
+      "reason": "Le thème agents IA, automatisation, n8n et intégration de modèles correspond bien aux critères. La description est cependant presque inexistante et le budget de 444 $ ne permet pas d’évaluer sérieusement la faisabilité."
+    },
+    {
+      "id": "freelancer:/projects/bot-development/multi-site-stock-alert-bot",
+      "source": "freelancer",
+      "title": "Multi Site Stock Alert Bot",
+      "url": "https://www.freelancer.com/projects/bot-development/multi-site-stock-alert-bot",
+      "budget": "$561",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "API Development",
+        "Automation",
+        "Bot Development",
+        "JavaScript",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 55,
+      "reason": "Mission pertinente pour le scraping et les bots d’alerte, avec des fonctionnalités bien décrites. Le budget de 573 $ paraît toutefois insuffisant pour le temps réel, les CAPTCHA et les profils multiples, et certains usages peuvent être sensibles."
+    },
+    {
+      "id": "freelancer:/projects/bot-development/multi-site-stock-alert-bot",
+      "source": "freelancer",
+      "title": "Multi Site Stock Alert Bot",
+      "url": "https://www.freelancer.com/projects/bot-development/multi-site-stock-alert-bot",
+      "budget": "$573",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "API Development",
+        "Automation",
+        "Bot Development",
+        "JavaScript",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 55,
+      "reason": "Mission pertinente pour le scraping et les bots d’alerte, avec des fonctionnalités bien décrites. Le budget de 573 $ paraît toutefois insuffisant pour le temps réel, les CAPTCHA et les profils multiples, et certains usages peuvent être sensibles."
+    },
+    {
+      "id": "freelancer:/projects/software-development/daily-shipping-report-automation",
+      "source": "freelancer",
+      "title": "Daily Shipping Report Automation",
+      "url": "https://www.freelancer.com/projects/software-development/daily-shipping-report-automation",
+      "budget": "$422",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "Data Analysis",
+        "Data Management",
+        "Data Visualization",
+        "Database Management",
+        "Logistics",
+        "Software Development"
+      ],
+      "score": 54,
+      "reason": "Le besoin relève bien de l’automatisation, de la gestion de données et du reporting logistique. Le brief est toutefois trop vague sur les sources, les intégrations et les livrables, tandis que le budget de 422 $ semble faible."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/full-stack-web-app-40780755",
+      "source": "freelancer",
+      "title": "Full-Stack AI Web App",
+      "url": "https://www.freelancer.com/projects/full-stack-development/full-stack-web-app-40780755",
+      "budget": "$164",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon Web Services",
+        "CI/CD",
+        "Docker",
+        "FastAPI",
+        "Full Stack Development",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "Python"
+      ],
+      "score": 46,
+      "reason": "Le projet correspond bien au développement full-stack Python/Node.js et à l’intégration de modèles IA. Cependant, le budget de 164 $ est incompatible avec une application complète incluant frontend, backend, conteneurisation, tests et CI/CD."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/agentic-project-implementation",
+      "source": "freelancer",
+      "title": "Agentic Ai Project Implementation",
+      "url": "https://www.freelancer.com/projects/machine-learning/agentic-project-implementation",
+      "budget": "$13",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Science",
+        "Electrical Engineering",
+        "Engineering",
+        "Machine Learning (ML)",
+        "Machine Learning Algorithms",
+        "Python"
+      ],
+      "score": 34,
+      "reason": "Le sujet est très pertinent techniquement, combinant Python, IA agentique, analyse statique et tests automatisés. Le budget de 13 $ est toutefois totalement incohérent avec le périmètre demandé."
+    },
+    {
+      "id": "freelancer:/projects/game-ai-programming/driven-game-player-development",
+      "source": "freelancer",
+      "title": "AI-Driven In-Game Player Development",
+      "url": "https://www.freelancer.com/projects/game-ai-programming/driven-game-player-development",
+      "budget": "$583",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Behavior Trees",
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Game AI Programming",
+        "Game Design",
+        "Game Development",
+        "Game Programming",
+        "Lua",
+        "Python"
+      ],
+      "score": 34,
+      "reason": "Le projet mobilise de l’IA comportementale, du scripting et potentiellement du C++/Python, mais les informations techniques essentielles manquent encore. Le budget de 672 $ reste très insuffisant pour un système MMORPG complet et l’objectif de faire passer les bots pour des joueurs est un signal défavorable."
+    },
+    {
+      "id": "freelancer:/projects/game-ai-programming/driven-game-player-development",
+      "source": "freelancer",
+      "title": "AI-Driven In-Game Player Development",
+      "url": "https://www.freelancer.com/projects/game-ai-programming/driven-game-player-development",
+      "budget": "$672",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Behavior Trees",
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Game AI Programming",
+        "Game Design",
+        "Game Development",
+        "Game Programming",
+        "Lua",
+        "Python"
+      ],
+      "score": 34,
+      "reason": "Le projet mobilise de l’IA comportementale, du scripting et potentiellement du C++/Python, mais les informations techniques essentielles manquent encore. Le budget de 672 $ reste très insuffisant pour un système MMORPG complet et l’objectif de faire passer les bots pour des joueurs est un signal défavorable."
+    }
+  ]
+}
