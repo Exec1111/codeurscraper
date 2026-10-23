@@ -1,0 +1,432 @@
+{
+  "generated_at": "2026-10-23T09:43:09.320602+00:00",
+  "new_listings_scanned": 338,
+  "missions": [
+    {
+      "id": "freelancer:/projects/make-com/build-email-automation-mvp-bccguarddog",
+      "source": "freelancer",
+      "title": "Build AI Email Automation MVP “BCcGuardDog”",
+      "url": "https://www.freelancer.com/projects/make-com/build-email-automation-mvp-bccguarddog",
+      "budget": "$446",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Java",
+        "JavaScript",
+        "Make.com",
+        "Node.js",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "score": 78,
+      "reason": "Mission très bien alignée avec le backend, les API, l’automatisation email et l’IA/LLM, avec un brief particulièrement détaillé. Le budget de 446 $ paraît toutefois très faible au regard des trois workflows, de Stripe et de la gestion sécurisée des pièces jointes."
+    },
+    {
+      "id": "freelancer:/projects/data-visualization/one-page-dashboard-for-one",
+      "source": "freelancer",
+      "title": "One-page dashboard for one sales or analytics API",
+      "url": "https://www.freelancer.com/projects/data-visualization/one-page-dashboard-for-one",
+      "budget": "$228",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Visualization",
+        "JavaScript",
+        "React.js",
+        "REST API",
+        "Tailwind CSS"
+      ],
+      "score": 76,
+      "reason": "Brief très clair et scope bien limité autour d’une API, de métriques et d’un dashboard Streamlit possible. Le budget reste modeste, mais la mission correspond bien au développement Python/API et à l’automatisation de données."
+    },
+    {
+      "id": "freelancer:/projects/pdf/python-script-csv-json-branded",
+      "source": "freelancer",
+      "title": "Python script: CSV or JSON to branded PDF invoices",
+      "url": "https://www.freelancer.com/projects/pdf/python-script-csv-json-branded",
+      "budget": "$120",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Processing",
+        "JSON",
+        "Pandas",
+        "PDF",
+        "Python"
+      ],
+      "score": 75,
+      "reason": "Mission Python claire, de taille raisonnable, orientée automatisation de traitement de données et génération de PDF. Le budget est bas, mais le périmètre des deux milestones reste suffisamment limité pour conserver une bonne pertinence."
+    },
+    {
+      "id": "freelancer:/projects/javascript/wordpress-review-plugin-development",
+      "source": "freelancer",
+      "title": "WordPress Review Plugin Development",
+      "url": "https://www.freelancer.com/projects/javascript/wordpress-review-plugin-development",
+      "budget": "$8370",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Version Control Git",
+        "WordPress",
+        "WordPress Plugin"
+      ],
+      "score": 72,
+      "reason": "Développement applicatif réel et brief clair, avec un budget élevé et un périmètre fonctionnel précis pour un plugin WordPress/PHP. La technologie est moins proche des préférences Python/Node/IA, mais reste pertinente côté backend."
+    },
+    {
+      "id": "freelancer:/projects/zoho/zoho-inventory-stock-refill-mvp",
+      "source": "freelancer",
+      "title": "Zoho Inventory Stock Refill MVP",
+      "url": "https://www.freelancer.com/projects/zoho/zoho-inventory-stock-refill-mvp",
+      "budget": "$404",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "CRM",
+        "MVP Development",
+        "PHP",
+        "Salesforce.com",
+        "Software Architecture",
+        "Web Development",
+        "Zoho"
+      ],
+      "score": 72,
+      "reason": "Bonne mission d’intégration API et d’automatisation métier, avec workflow d’approbation, journalisation et exigences claires. Le budget de 404 $ semble faible pour une interface, une intégration Zoho sécurisée et un suivi quasi temps réel."
+    },
+    {
+      "id": "freelancer:/projects/streamlit/development-basic-electronic",
+      "source": "freelancer",
+      "title": "Development of a Basic Electronic Pharmaceutical Health Record System in Python (Streamlit + SQLite + LGPD Compliance)",
+      "url": "https://www.freelancer.com/projects/streamlit/development-basic-electronic",
+      "budget": "$148",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "JavaScript",
+        "MySQL",
+        "Python",
+        "React.js",
+        "Software Architecture",
+        "SQLite",
+        "Streamlit",
+        "Typescript",
+        "Web Development"
+      ],
+      "score": 70,
+      "reason": "Très bon alignement Python, Streamlit, SQLite et développement logiciel avec des exigences techniques détaillées. Le budget affiché de 148 $ est fortement sous-dimensionné pour un système médical sécurisé et conforme à la LGPD."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/react-python-business-dashboard",
+      "source": "freelancer",
+      "title": "React & Python Business Dashboard",
+      "url": "https://www.freelancer.com/projects/postgresql/react-python-business-dashboard",
+      "budget": "$273",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "API Development",
+        "Chart.js",
+        "Django",
+        "Docker",
+        "FastAPI",
+        "Full Stack Development",
+        "JavaScript",
+        "PostgreSQL",
+        "Python"
+      ],
+      "score": 68,
+      "reason": "Projet full-stack très pertinent techniquement, avec Python, API, PostgreSQL et fonctionnalités métier bien spécifiées. Le périmètre est toutefois extrêmement large pour un budget de 273 $, incluant notamment PWA, WebSockets, Docker et déploiement."
+    },
+    {
+      "id": "freelancer:/projects/flutter/flutter-app-enhancements-with",
+      "source": "freelancer",
+      "title": "Flutter App Enhancements with AI",
+      "url": "https://www.freelancer.com/projects/flutter/flutter-app-enhancements-with",
+      "budget": "$235",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Integration",
+        "C# Programming",
+        "Dart",
+        "Flutter",
+        "Mobile App Development",
+        "Software Development"
+      ],
+      "score": 63,
+      "reason": "Mission de développement applicatif claire, avec CRUD, reporting, tests et export, mais centrée sur Flutter/Dart plutôt que sur les technologies privilégiées. Le budget affiché de 235 $ est incohérent avec le scope, même si la mention 20K pourrait suggérer une autre enveloppe."
+    },
+    {
+      "id": "freelancer:/projects/cplusplus-programming/full-stack-website-enhancements",
+      "source": "freelancer",
+      "title": "Full-Stack Website Enhancements",
+      "url": "https://www.freelancer.com/projects/cplusplus-programming/full-stack-website-enhancements",
+      "budget": "$231",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Full Stack Development",
+        "Linux",
+        "MySQL",
+        "Performance Tuning",
+        "PHP"
+      ],
+      "score": 62,
+      "reason": "Mission de développement et optimisation applicative sur une stack backend complexe, avec tickets et accès au code clairement annoncés. Le budget de 231 $ est faible et la dominante PHP/C/C++/Go est moins alignée avec les préférences Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/rpa-development/uipath-web-report-automation",
+      "source": "freelancer",
+      "title": "UiPath Web Report Automation",
+      "url": "https://www.freelancer.com/projects/rpa-development/uipath-web-report-automation",
+      "budget": "$141",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Automation",
+        "C# Programming",
+        "Cloud Computing",
+        "Excel",
+        "Office 365",
+        "Robotic Process Automation",
+        "RPA Development",
+        "VB.NET",
+        "Visual Basic"
+      ],
+      "score": 60,
+      "reason": "Bonne adéquation avec l’automatisation et l’extraction de données via navigateur et Excel, avec un brief détaillé. Le budget de 141 $ est très bas et la mission comporte une part de planification/exploitation technique importante."
+    },
+    {
+      "id": "freelancer:/projects/rpa-development/uipath-web-report-automation",
+      "source": "freelancer",
+      "title": "UiPath Web Report Automation",
+      "url": "https://www.freelancer.com/projects/rpa-development/uipath-web-report-automation",
+      "budget": "$141",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Automation",
+        "C# Programming",
+        "Cloud Computing",
+        "Excel",
+        "Office 365",
+        "Robotic Process Automation",
+        "RPA Development",
+        "VB.NET",
+        "Visual Basic"
+      ],
+      "score": 60,
+      "reason": "Bonne adéquation avec l’automatisation et l’extraction de données via navigateur et Excel, avec un brief détaillé. Le budget de 141 $ est très bas et la mission comporte une part de planification/exploitation technique importante."
+    },
+    {
+      "id": "freelancer:/projects/flutter/develop-cross-platform-cricket-live",
+      "source": "freelancer",
+      "title": "Develop a Cross-Platform Cricket Live Score App Similar to Criclive.in Website",
+      "url": "https://www.freelancer.com/projects/flutter/develop-cross-platform-cricket-live",
+      "budget": "$3495",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "Backend Development",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "React Native",
+        "Technical Documentation"
+      ],
+      "score": 55,
+      "reason": "Il s’agit bien de développement logiciel avec intégration d’API et backend potentiel, mais la mission est principalement mobile Flutter plutôt que Python/Node/IA. Le périmètre est vaste et le budget de 3 495 $ peut être insuffisant pour l’ensemble des fonctionnalités."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/add-fields-user-profiles",
+      "source": "freelancer",
+      "title": "Add Fields to User Profiles",
+      "url": "https://www.freelancer.com/projects/api-developmet/add-fields-user-profiles",
+      "budget": "$362",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "C# Programming",
+        "MySQL",
+        "NoSQL Couch & Mongo",
+        "PHP",
+        "User Interface / IA"
+      ],
+      "score": 55,
+      "reason": "Petite mission de développement applicatif avec migration de données, validation, modèle et interface, donc cohérente avec les critères. Le manque de précision sur la stack et le périmètre exact limite toutefois la pertinence, malgré un budget acceptable pour une tâche ponctuelle."
+    },
+    {
+      "id": "freelancer:/projects/flutter/build-criclive-cross-platform-cricket",
+      "source": "freelancer",
+      "title": "Build Criclive.in Cross-Platform Cricket App",
+      "url": "https://www.freelancer.com/projects/flutter/build-criclive-cross-platform-cricket",
+      "budget": "$3573",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "React Native",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 55,
+      "reason": "Brief relativement clair de développement mobile avec intégration d’API et notifications, et budget de 3 573 $ plus crédible. La mission reste toutefois principalement Flutter/mobile, avec un périmètre conséquent et peu d’éléments liés à Python, Node ou IA."
+    },
+    {
+      "id": "freelancer:/projects/email-handling/lead-modifications-expert-needed-script",
+      "source": "freelancer",
+      "title": "Lead Modifications Expert Needed: AI Script & Email Targeting",
+      "url": "https://www.freelancer.com/projects/email-handling/lead-modifications-expert-needed-script",
+      "budget": "$173",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Email Handling",
+        "Email Marketing",
+        "Mailchimp",
+        "PHP",
+        "Web Scraping"
+      ],
+      "score": 52,
+      "reason": "La mission comporte du scripting IA, de l’enrichissement de données et du scraping, qui correspondent partiellement aux critères. Elle implique cependant de l’email marketing potentiellement intrusif, un brief moins précis et un budget très faible de 173 $."
+    },
+    {
+      "id": "freelancer:/projects/mobile-app-development/cross-platform-criclive-app-development",
+      "source": "freelancer",
+      "title": "Cross-Platform Criclive.in App Development + Complete Website SEO Optimization for Criclive.in Website",
+      "url": "https://www.freelancer.com/projects/mobile-app-development/cross-platform-criclive-app-development",
+      "budget": "$14488",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Backend Development",
+        "Flutter",
+        "Frontend Development",
+        "Full Stack Development",
+        "Mobile App Development",
+        "React Native",
+        "SEO",
+        "User Experience Research",
+        "Website Optimization"
+      ],
+      "score": 48,
+      "reason": "Projet techniquement riche avec mobile, backend, API et optimisation, mais il cumule aussi SEO, acquisition et stratégie de backlinks, qui sortent des critères. Le budget élevé est positif, mais le périmètre très large rend la mission risquée."
+    },
+    {
+      "id": "freelancer:/projects/twitter-bootstrap/laravel-directory-phase-one",
+      "source": "freelancer",
+      "title": "Laravel B2B Directory Phase One",
+      "url": "https://www.freelancer.com/projects/twitter-bootstrap/laravel-directory-phase-one",
+      "budget": "$266",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Bootstrap",
+        "HTML",
+        "Laravel",
+        "MongoDB",
+        "Tailwind CSS",
+        "Vue.js",
+        "Web Development"
+      ],
+      "score": 48,
+      "reason": "Le projet comporte du développement backend, des rôles, une modération et des workflows métier clairement décrits. Le budget de 266 $ est beaucoup trop bas pour ce périmètre, et la stack Laravel/PHP est moins prioritaire."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/full-stack-developer-needed-for",
+      "source": "freelancer",
+      "title": "Full-Stack Developer Needed for a Basic AI-Powered E-commerce Website",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/full-stack-developer-needed-for",
+      "budget": "$80",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "Django",
+        "Flask",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "React.js",
+        "REST API",
+        "Website Design"
+      ],
+      "score": 48,
+      "reason": "La mission combine Python, API REST, développement full-stack et intégration d’un chatbot IA, avec un périmètre explicitement limité à un prototype. Néanmoins, 80 $ reste très insuffisant pour un e-commerce avec authentification, panier, administration et chatbot."
+    },
+    {
+      "id": "freelancer:/projects/web-development/service-marketplace-website-development",
+      "source": "freelancer",
+      "title": "Service Marketplace Website Development",
+      "url": "https://www.freelancer.com/projects/web-development/service-marketplace-website-development",
+      "budget": "$125",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "Frontend Development",
+        "HTML",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 42,
+      "reason": "Développement logiciel réel avec comptes, modération, upload documentaire et messagerie privée. Cependant, le scope est important pour seulement 125 $, et la mission est très éloignée des préférences Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/next-website-development-with-cms",
+      "source": "freelancer",
+      "title": "Next.js Website Development with CMS, Calendly & HubSpot Integration",
+      "url": "https://www.freelancer.com/projects/nextjs/next-website-development-with-cms",
+      "budget": "$332",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Bootstrap",
+        "Calendly",
+        "CMS",
+        "HTML",
+        "Hubspot",
+        "Next.js",
+        "PHP",
+        "SEO",
+        "Typescript",
+        "Website Design"
+      ],
+      "score": 38,
+      "reason": "Le projet inclut du Next.js/TypeScript et des intégrations API intéressantes, mais il est principalement orienté site marketing, CMS, SEO et analytics. Le budget de 332 $ est très faible pour un périmètre aussi large."
+    }
+  ]
+}
