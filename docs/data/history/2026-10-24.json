@@ -1,0 +1,430 @@
+{
+  "generated_at": "2026-10-24T09:15:53.585959+00:00",
+  "new_listings_scanned": 331,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-developmet/secure-document-uploads-with-summaries",
+      "source": "freelancer",
+      "title": "Secure Document Uploads with AI Summaries",
+      "url": "https://www.freelancer.com/projects/api-developmet/secure-document-uploads-with-summaries",
+      "budget": "$1426",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Content Creation",
+        "AI Model Integration",
+        "AI Text-to-text",
+        "API Development",
+        "Docker",
+        "Encryption",
+        "Full Stack Development",
+        "Security"
+      ],
+      "score": 92,
+      "reason": "Excellent alignement avec le développement backend, les API, l’authentification, le stockage sécurisé et l’intégration d’IA, avec des critères d’acceptation précis. Le budget de 1 426 $ est cohérent, même si le périmètre full-stack et sécurité reste conséquent."
+    },
+    {
+      "id": "freelancer:/projects/laravel/secure-loan-crm-login-page",
+      "source": "freelancer",
+      "title": "Secure Loan CRM Login Page",
+      "url": "https://www.freelancer.com/projects/laravel/secure-loan-crm-login-page",
+      "budget": "$324",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "HTML",
+        "Laravel",
+        "MySQL",
+        "PHP",
+        "Security",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 78,
+      "reason": "Mission bien cadrée de développement PHP/Laravel avec API SMS/email, authentification forte, sécurité et intégration MySQL. Le budget de 324 $ est plutôt bas mais plausible pour une fonctionnalité limitée si le CRM existant est bien structuré."
+    },
+    {
+      "id": "freelancer:/projects/game-development/early-prototype-post-apocalyptic",
+      "source": "freelancer",
+      "title": "Early Prototype: Post-Apocalyptic Survival Game",
+      "url": "https://www.freelancer.com/projects/game-development/early-prototype-post-apocalyptic",
+      "budget": "$27376",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Game Art",
+        "3D Modelling",
+        "Game AI Programming",
+        "Game Design",
+        "Game Development",
+        "Gameplay Programming",
+        "Unity",
+        "Unreal Engine"
+      ],
+      "score": 78,
+      "reason": "Le brief est clair, les livrables et critères d’acceptation sont précis, et le budget de 27 376 $ est cohérent avec un prototype Unity/Unreal substantiel. C’est toutefois principalement du développement de jeu et de gameplay, moins directement centré sur backend, API, automatisation ou IA/LLM."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-white-label-cpaas-platform",
+      "source": "freelancer",
+      "title": "Build White-Label CPaaS Platform",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-white-label-cpaas-platform",
+      "budget": "$1377",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Development",
+        "Full Stack Development",
+        "Java",
+        "Node.js",
+        "PHP",
+        "React.js",
+        "Software Architecture"
+      ],
+      "score": 72,
+      "reason": "Projet fortement technique et très pertinent pour Node.js, API, intégrations WhatsApp, automatisation et backend multi-tenant, avec un brief détaillé. Le budget de 1 377 $ est totalement disproportionné par rapport à une plateforme CPaaS complète, SMPP, DLT, RCS, voix, facturation et haute volumétrie."
+    },
+    {
+      "id": "freelancer:/projects/inventory-management/keyence-stock-tracking-program",
+      "source": "freelancer",
+      "title": "Keyence BT-A600 Stock Tracking Program",
+      "url": "https://www.freelancer.com/projects/inventory-management/keyence-stock-tracking-program",
+      "budget": "$960",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "Data Integration",
+        "Database Management",
+        "Excel",
+        "Inventory Management",
+        "Java",
+        "Programming",
+        "Python"
+      ],
+      "score": 72,
+      "reason": "Mission de développement concrète avec intégration matériel, scan, gestion de stock et export Excel/CSV, pour un budget de 960 $ relativement intéressant. La compatibilité exacte avec le Keyence BT-A600 et les modalités d’accès à l’appareil restent toutefois à clarifier."
+    },
+    {
+      "id": "freelancer:/projects/python/website-updates-whatsapp-alerts",
+      "source": "freelancer",
+      "title": "AI Website Updates WhatsApp Alerts",
+      "url": "https://www.freelancer.com/projects/python/website-updates-whatsapp-alerts",
+      "budget": "$113",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Content Creation",
+        "API Development",
+        "HTML",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Website Design"
+      ],
+      "score": 68,
+      "reason": "Mission très alignée avec Python/Node, automatisation, scraping, IA et intégration WhatsApp, avec un brief particulièrement détaillé. Le budget de 113 $ est toutefois très faible pour le service complet demandé, et l’ajout d’un agent client élargit encore le périmètre."
+    },
+    {
+      "id": "freelancer:/projects/react-js/erp-portal-node-react-development",
+      "source": "freelancer",
+      "title": "ERP Portal Node-React Development",
+      "url": "https://www.freelancer.com/projects/react-js/erp-portal-node-react-development",
+      "budget": "$255",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Database Management",
+        "Git",
+        "JavaScript",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "React.js",
+        "RESTful API"
+      ],
+      "score": 65,
+      "reason": "Mission directement orientée développement applicatif Node.js/React avec API REST, rôles et fonctionnalités métier bien décrites. Le budget de 255 $ est très insuffisant pour étendre trois domaines ERP et créer un module complet de suivi de projets."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/sales-order-app-syncing-tallyprime",
+      "source": "freelancer",
+      "title": "Sales Order App Syncing TallyPrime",
+      "url": "https://www.freelancer.com/projects/api-integration/sales-order-app-syncing-tallyprime",
+      "budget": "$395",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "Database Management",
+        "Mobile App Development",
+        "MySQL",
+        "PHP",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 65,
+      "reason": "Mission de développement et d’intégration API pertinente, avec synchronisation bidirectionnelle, interface métier et connexion TallyPrime. Le budget de 395 $ paraît faible pour couvrir les particularités TallyPrime, la fiabilité de la synchronisation et l’ensemble du périmètre."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/pre-send-email-guarddog-mvp",
+      "source": "freelancer",
+      "title": "AI Pre-Send Email GuardDog MVP",
+      "url": "https://www.freelancer.com/projects/ai-automation/pre-send-email-guarddog-mvp",
+      "budget": "$230",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Integration",
+        "AI Model Development",
+        "Artificial Neural Network",
+        "Node.js",
+        "OAuth",
+        "Python"
+      ],
+      "score": 62,
+      "reason": "Projet pertinent en IA, Python/Node et intégration Gmail, avec un MVP et des critères mesurables. Le budget de 230 $ est faible pour gérer OAuth, interception pré-envoi, compatibilité Gmail grand public/Workspace et les exigences de précision."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/app-prediction-bot-development",
+      "source": "freelancer",
+      "title": "App Prediction Bot Development",
+      "url": "https://www.freelancer.com/projects/machine-learning/app-prediction-bot-development",
+      "budget": "$322",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Docker",
+        "FastAPI",
+        "JavaScript",
+        "Machine Learning (ML)",
+        "Mobile App Development",
+        "Node.js",
+        "Python"
+      ],
+      "score": 60,
+      "reason": "Bon alignement avec Python/FastAPI, machine learning, API et Docker, avec des livrables relativement clairs. L’absence de données, de définition du problème prédictif et le budget de 322 $ rendent la faisabilité et la qualité attendue très incertaines."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/hermes-persona-tone-consistency",
+      "source": "freelancer",
+      "title": "Hermes 3 Persona Tone Consistency",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/hermes-persona-tone-consistency",
+      "budget": "$967",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Ethics",
+        "AI Governance",
+        "AI Model Development"
+      ],
+      "score": 60,
+      "reason": "Sujet pertinent en développement LLM, gestion de contexte, MCP et amélioration d’agent conversationnel, avec un budget relativement convenable de 967 $. Le périmètre est toutefois très ambigu, fortement dépendant d’un système existant et assorti de contraintes contradictoires comme l’absence de tests en direct."
+    },
+    {
+      "id": "freelancer:/projects/backend-development/enhance-php-superadmin-features",
+      "source": "freelancer",
+      "title": "Enhance PHP SuperAdmin Features",
+      "url": "https://www.freelancer.com/projects/backend-development/enhance-php-superadmin-features",
+      "budget": "$374",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Codeigniter",
+        "HTML",
+        "MySQL",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 58,
+      "reason": "Mission de développement backend PHP/MySQL potentiellement simple et compatible avec les critères, pour un budget de 374 $. Le brief est toutefois extrêmement vague et ne permet pas d’évaluer le volume réel ni la qualité des exigences."
+    },
+    {
+      "id": "freelancer:/projects/n8n/whatsapp-booking-automation-expert",
+      "source": "freelancer",
+      "title": "n8n WhatsApp Booking Automation Expert",
+      "url": "https://www.freelancer.com/projects/n8n/whatsapp-booking-automation-expert",
+      "budget": "$71",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automation",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "n8n",
+        "Payment Processing",
+        "REST API",
+        "Software Architecture",
+        "Workflow Automation"
+      ],
+      "score": 55,
+      "reason": "Très bon alignement avec l’automatisation, n8n, WhatsApp, APIs, MySQL et intégration LLM, et le brief est exceptionnellement précis. Le budget de 71 $ est néanmoins irréaliste pour des workflows de production, paiements, sécurité, multilingue et gestion d’état."
+    },
+    {
+      "id": "freelancer:/projects/crm/build-finance-website-custom-crm",
+      "source": "freelancer",
+      "title": "Build Finance Website and Custom CRM -- 2",
+      "url": "https://www.freelancer.com/projects/crm/build-finance-website-custom-crm",
+      "budget": "$325",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Backend Development",
+        "CRM",
+        "Database Development",
+        "Frontend Development",
+        "GitHub",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "Website Design"
+      ],
+      "score": 55,
+      "reason": "Le projet comporte du développement Laravel/MySQL, des APIs de paiement, un CRM et des automatisations WhatsApp, donc il est techniquement pertinent. Le périmètre est cependant très vaste pour 30 jours et le budget annoncé semble faible au regard des fonctionnalités, documents, rôles et support demandés."
+    },
+    {
+      "id": "freelancer:/projects/sqlite/sqlite-database-recovery-repair",
+      "source": "freelancer",
+      "title": "SQLite Database Recovery & Repair",
+      "url": "https://www.freelancer.com/projects/sqlite/sqlite-database-recovery-repair",
+      "budget": "$408",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Automation",
+        "AI Model Development",
+        "AI Strategy",
+        "Backend Development",
+        "Database Administration",
+        "Database Development",
+        "SQLite"
+      ],
+      "score": 52,
+      "reason": "La mission implique du backend, de l’IA et du diagnostic logiciel, mais le brief renvoie à une pièce jointe et décrit un système potentiellement très incomplet. Le budget de 411 $ est faible pour auditer, réparer et tester une plateforme de trading et sa base SQLite."
+    },
+    {
+      "id": "freelancer:/projects/sqlite/sqlite-database-recovery-repair",
+      "source": "freelancer",
+      "title": "SQLite Database Recovery & Repair",
+      "url": "https://www.freelancer.com/projects/sqlite/sqlite-database-recovery-repair",
+      "budget": "$411",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Automation",
+        "AI Model Development",
+        "AI Strategy",
+        "Backend Development",
+        "Database Administration",
+        "Database Development",
+        "SQLite"
+      ],
+      "score": 52,
+      "reason": "La mission implique du backend, de l’IA et du diagnostic logiciel, mais le brief renvoie à une pièce jointe et décrit un système potentiellement très incomplet. Le budget de 411 $ est faible pour auditer, réparer et tester une plateforme de trading et sa base SQLite."
+    },
+    {
+      "id": "freelancer:/projects/web-development/time-expense-tracker-app",
+      "source": "freelancer",
+      "title": "Time and Expense Tracker App",
+      "url": "https://www.freelancer.com/projects/web-development/time-expense-tracker-app",
+      "budget": "$147",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Development",
+        "Backend Development",
+        "Data Management",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "UI / User Interface",
+        "UX / User Experience",
+        "Web Development"
+      ],
+      "score": 45,
+      "reason": "Le projet implique du backend, de l’authentification, des workflows métier et des notifications, mais reste très général et demande simultanément web et mobile. Le budget de 147 $ est trop bas pour une solution complète avec rôles, validation et reporting."
+    },
+    {
+      "id": "freelancer:/projects/website-design/bot-enhancement",
+      "source": "freelancer",
+      "title": "AI Bot Enhancement",
+      "url": "https://www.freelancer.com/projects/website-design/bot-enhancement",
+      "budget": "$176",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Graphic Design",
+        "Odd Jobs",
+        "Software Testing",
+        "Website Design",
+        "Website Management"
+      ],
+      "score": 42,
+      "reason": "L’amélioration d’un bot à partir du contenu d’un site correspond partiellement à l’IA et à l’intégration applicative. Le brief est très vague, le budget de 176 $ est faible et les tags orientés design/odd jobs suggèrent un besoin technique mal défini."
+    },
+    {
+      "id": "freelancer:/projects/web-development/isl-video-speech-tool",
+      "source": "freelancer",
+      "title": "ISL Video to Speech Tool",
+      "url": "https://www.freelancer.com/projects/web-development/isl-video-speech-tool",
+      "budget": "$182",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Model Development",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Video Processing",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 42,
+      "reason": "Projet pertinent en traitement vidéo, machine learning et intégration web, mais la reconnaissance de l’ISL de mots et phrases constitue un chantier complexe. Le budget de 182 $ et l’absence de spécifications sur le modèle, les données et les performances rendent la mission peu réaliste."
+    },
+    {
+      "id": "freelancer:/projects/data-processing/mmp-cevaplar-foto-raftan-excel",
+      "source": "freelancer",
+      "title": "Mmpı cevaplarını Fotoğraftan Excel’e Aktaran program",
+      "url": "https://www.freelancer.com/projects/data-processing/mmp-cevaplar-foto-raftan-excel",
+      "budget": "$27",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Extraction",
+        "Data Processing",
+        "Excel",
+        "Image Processing",
+        "Programming",
+        "Python",
+        "Software Architecture",
+        "Software Development"
+      ],
+      "score": 40,
+      "reason": "Petit projet Python/OCR et traitement d’images techniquement intéressant, avec des livrables bien définis. L’exigence de 99 % de précision sans correction manuelle est très élevée et le budget de 27 $ est inadapté."
+    }
+  ]
+}
