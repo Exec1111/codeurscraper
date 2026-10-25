@@ -1,0 +1,412 @@
+{
+  "generated_at": "2026-10-25T09:33:09.099901+00:00",
+  "new_listings_scanned": 317,
+  "missions": [
+    {
+      "id": "freelancer:/projects/fastapi/customer-portal-development-with-fastapi",
+      "source": "freelancer",
+      "title": "Customer Portal Development with FastAPI and Next.js and an android app",
+      "url": "https://www.freelancer.com/projects/fastapi/customer-portal-development-with-fastapi",
+      "budget": "$1995",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "FastAPI",
+        "Flutter",
+        "Google App Engine",
+        "JavaScript",
+        "Next.js",
+        "PHP",
+        "Python",
+        "Web Development"
+      ],
+      "score": 82,
+      "reason": "Mission très alignée avec le développement Python/FastAPI, les API et les applications web, avec un brief relativement détaillé et un budget correct. Le périmètre reste toutefois conséquent puisqu’il inclut aussi une application Android et un dashboard Next.js."
+    },
+    {
+      "id": "freelancer:/projects/excel-vba/python-excel-vba-developer-complete",
+      "source": "freelancer",
+      "title": "Python + Excel VBA developer to complete and test a near-finished Excel add-in (xlwings)",
+      "url": "https://www.freelancer.com/projects/excel-vba/python-excel-vba-developer-complete",
+      "budget": "$133",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Debugging",
+        "Desktop Application",
+        "Excel",
+        "Excel VBA",
+        "Microsoft 365",
+        "Python",
+        "Software Architecture",
+        "Software Testing",
+        "Visual Basic"
+      ],
+      "score": 81,
+      "reason": "Très bonne mission de développement Python et d’automatisation, avec intégration d’API IA, tests concrets et un brief particulièrement détaillé. Le budget annoncé est bas au regard des exigences Excel/VBA, du support Windows et du périmètre de reprise, mais le trial payé réduit le risque."
+    },
+    {
+      "id": "freelancer:/projects/backend-development/senior-python-sqlite-engineer-existing",
+      "source": "freelancer",
+      "title": "Senior Python/SQLite Engineer — Existing Database and Backend Recovery of Forex Trading Site",
+      "url": "https://www.freelancer.com/projects/backend-development/senior-python-sqlite-engineer-existing",
+      "budget": "$460",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Database Management",
+        "FastAPI",
+        "Git",
+        "MySQL",
+        "PostgreSQL",
+        "Python",
+        "Software Architecture",
+        "SQLite",
+        "Typescript"
+      ],
+      "score": 68,
+      "reason": "Mission pertinente en Python, FastAPI, base de données et diagnostic backend, avec un problème technique clairement décrit. L’accès limité au code et à la base ainsi que le budget de 460 USD rendent toutefois la faisabilité et la rentabilité incertaines."
+    },
+    {
+      "id": "freelancer:/projects/reverse-engineering/delphi-calculation-program-rebuild",
+      "source": "freelancer",
+      "title": "Delphi Calculation Program Rebuild",
+      "url": "https://www.freelancer.com/projects/reverse-engineering/delphi-calculation-program-rebuild",
+      "budget": "$1912",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Debugging",
+        "Delphi",
+        "Reverse Engineering",
+        "Software Development",
+        "x86/x64 Assembler"
+      ],
+      "score": 66,
+      "reason": "Il s’agit bien d’un développement logiciel complexe avec rétro-ingénierie, tests de conformité et livraison d’un exécutable, pour un budget relativement cohérent. La mission exige toutefois une expertise très spécifique en analyse binaire/Delphi et ne correspond pas directement aux préférences Python, Node.js ou IA."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/build-live-cricket-scores-app",
+      "source": "freelancer",
+      "title": "Build Live Cricket Scores App  – Similar to Criclive.in Website",
+      "url": "https://www.freelancer.com/projects/android-app-development/build-live-cricket-scores-app",
+      "budget": "$198371",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "API Integration",
+        "App Design",
+        "iPhone",
+        "Mobile App Development",
+        "Mobile Development",
+        "PHP"
+      ],
+      "score": 65,
+      "reason": "Le budget est élevé et le projet implique une intégration API, un backend potentiellement conséquent et une application complète avec notifications et synchronisation. Il s’agit néanmoins surtout de développement mobile, avec un périmètre ambitieux et des dépendances externes importantes."
+    },
+    {
+      "id": "freelancer:/projects/flutter/cross-platform-application-for-existing",
+      "source": "freelancer",
+      "title": "cross-platform application for my existing cricket website, Criclive.in.",
+      "url": "https://www.freelancer.com/projects/flutter/cross-platform-application-for-existing",
+      "budget": "$6857",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "Documentation",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "React Native",
+        "Web Development"
+      ],
+      "score": 64,
+      "reason": "Le projet est clairement défini, doté d’un budget élevé et implique des API ainsi qu’une intégration backend réelle. Il est cependant principalement orienté développement mobile Flutter/React Native, moins proche des préférences backend, automatisation ou Python."
+    },
+    {
+      "id": "freelancer:/projects/javascript/game-outcome-prediction-app-40785510",
+      "source": "freelancer",
+      "title": "Game Outcome Prediction App -- 2",
+      "url": "https://www.freelancer.com/projects/javascript/game-outcome-prediction-app-40785510",
+      "budget": "$514",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Flutter",
+        "Full Stack Development",
+        "Git",
+        "JavaScript",
+        "Laravel",
+        "Node.js",
+        "Vue.js"
+      ],
+      "score": 63,
+      "reason": "Le projet couvre pipelines de données, machine learning, interface et panneau d’administration, avec des critères d’acceptation compréhensibles. Le budget de 514 USD est limité pour entraîner un modèle fiable et développer toute l’application, et la stack préférée n’est pas explicitement Python."
+    },
+    {
+      "id": "freelancer:/projects/flask/launch-flask-math-learning-platform",
+      "source": "freelancer",
+      "title": "Launch Flask Math Learning Platform",
+      "url": "https://www.freelancer.com/projects/flask/launch-flask-math-learning-platform",
+      "budget": "$428",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Flask",
+        "Full Stack Development",
+        "Web Development"
+      ],
+      "score": 61,
+      "reason": "Mission pertinente en Python/Flask, authentification, gestion d’abonnements et développement applicatif sur une base existante, avec des besoins clairement listés. Le budget de 428 USD paraît faible pour l’intégration, la sécurisation, la compatibilité mobile et le déploiement."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/build-cross-platform-hockey-live",
+      "source": "freelancer",
+      "title": "Build a Cross-Platform Hockey Live Score App Based on Criclive.in Website theme",
+      "url": "https://www.freelancer.com/projects/api-integration/build-cross-platform-hockey-live",
+      "budget": "$53164",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "App Development",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "Mobile Development",
+        "PHP",
+        "React Native"
+      ],
+      "score": 61,
+      "reason": "Budget très confortable et brief relativement clair autour d’une application mobile consommant une API sportive, donc mission techniquement crédible. Elle reste toutefois principalement orientée mobile et intégration d’API, sans composante Python, automatisation ou IA notable."
+    },
+    {
+      "id": "freelancer:/projects/erp/build-modular-erp-from-scratch",
+      "source": "freelancer",
+      "title": "Build Modular ERP From Scratch -- 2",
+      "url": "https://www.freelancer.com/projects/erp/build-modular-erp-from-scratch",
+      "budget": "$1069",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "Cloud Computing",
+        "Database Management",
+        "ERP",
+        "Full Stack Development",
+        "MySQL",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Website Design"
+      ],
+      "score": 60,
+      "reason": "Le projet est un véritable développement logiciel avec API, base de données, automatisation WhatsApp et un peu d’IA, et le budget dépasse 1 000 USD. Le périmètre est néanmoins démesuré pour le montant annoncé, avec de nombreux modules et exigences d’intégration."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/agent-architecture-review",
+      "source": "freelancer",
+      "title": "AI Agent Architecture Review",
+      "url": "https://www.freelancer.com/projects/ai-agents/agent-architecture-review",
+      "budget": "$132",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "API Development",
+        "Architecture",
+        "Deep Learning",
+        "Documentation",
+        "PostgreSQL",
+        "Typescript",
+        "Workflow Automation"
+      ],
+      "score": 58,
+      "reason": "Très bonne adéquation avec l’IA/LLM, les agents et l’architecture TypeScript, avec un brief exceptionnellement clair. Le budget annoncé de 132 USD paraît cependant très faible pour une revue de code, une documentation architecturale et un walkthrough spécialisé."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/fix-commerce-cart-checkout-sync",
+      "source": "freelancer",
+      "title": "Fix E-Commerce Cart Checkout Sync",
+      "url": "https://www.freelancer.com/projects/full-stack-development/fix-commerce-cart-checkout-sync",
+      "budget": "$386",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Frontend Development",
+        "Full Stack Development",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP"
+      ],
+      "score": 57,
+      "reason": "Mission de debugging full-stack concrète, avec API, base de données et synchronisation frontend/backend, ce qui correspond au développement applicatif recherché. Le brief manque toutefois d’éléments techniques et le budget de 386 USD reste limité pour une investigation potentiellement complexe."
+    },
+    {
+      "id": "freelancer:/projects/web-development/web-app-live-where-eat",
+      "source": "freelancer",
+      "title": "Web app - live \"where to eat now\" map of Berlin restaurants + owner panel",
+      "url": "https://www.freelancer.com/projects/web-development/web-app-live-where-eat",
+      "budget": "$207",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Database Management",
+        "Frontend Development",
+        "Geolocation",
+        "Google Maps API",
+        "JavaScript",
+        "Python",
+        "UI / User Interface",
+        "Web Development"
+      ],
+      "score": 56,
+      "reason": "Le projet implique API, backend, base de données, géolocalisation et automatisation de collecte, avec un brief détaillé. Le périmètre est néanmoins celui d’une application complète et complexe, tandis que le budget de 207 USD est très faible et la source des données n’est pas clairement sécurisée."
+    },
+    {
+      "id": "freelancer:/projects/ai-image-generation/bulk-model-image-generator",
+      "source": "freelancer",
+      "title": "Bulk AI Model Image Generator",
+      "url": "https://www.freelancer.com/projects/ai-image-generation/bulk-model-image-generator",
+      "budget": "$130",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "AI Image Generation",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Python",
+        "Tensorflow"
+      ],
+      "score": 55,
+      "reason": "Bonne adéquation avec l’IA générative, Python et l’intégration d’un pipeline automatisé dans un tableau de bord e-commerce. L’exigence de 95 % de réussite sur 100 images est ambitieuse et le budget de 130 USD est très insuffisant pour ce niveau de qualité et d’intégration."
+    },
+    {
+      "id": "codeur:491787",
+      "source": "codeur",
+      "title": "Création de backend API projet base Fivem.",
+      "url": "https://www.codeur.com/projects/491787-creation-de-backend-api-projet-base-fivem",
+      "budget": "Moins de 200 €/jour",
+      "offers": 34,
+      "views": "2108 Vues",
+      "tags": [
+        "API",
+        "Back-end",
+        "Développement spécifique"
+      ],
+      "score": 54,
+      "reason": "La création d’une API externe avec contrôle de licence et panel temps réel relève bien du développement backend spécifique. Le brief est toutefois très court, le budget est exprimé en tarif journalier sans périmètre clair et les 34 offres réduisent l’intérêt commercial."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-lunex-poc-platform",
+      "source": "freelancer",
+      "title": "Build Lunex AI POC Platform",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-lunex-poc-platform",
+      "budget": "$237",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Integration",
+        "AI Model Development",
+        "API Integration",
+        "Full Stack Development",
+        "Mobile App Development"
+      ],
+      "score": 53,
+      "reason": "Le projet combine backend, API et intégration IA avec un périmètre de POC explicitement défini. Toutefois, les fonctionnalités demandées restent nombreuses et le budget de 237 USD est très faible pour un POC fonctionnel avec authentification, génération IA, tests et documentation."
+    },
+    {
+      "id": "codeur:491791",
+      "source": "codeur",
+      "title": "Suivi planning et coût par affaire",
+      "url": "https://www.codeur.com/projects/491791-suivi-planning-et-cout-par-affaire",
+      "budget": "1 000 € à 10 000 €",
+      "offers": 127,
+      "views": "3198 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Full-stack",
+        "Base de données"
+      ],
+      "score": 51,
+      "reason": "Excellent alignement fonctionnel avec une application métier, une base de données, des API et éventuellement de la reconnaissance vocale, avec un budget cohérent de 7 000 €. Cependant, les 127 offres dépassent largement le seuil de concurrence acceptable et le périmètre est important pour six semaines."
+    },
+    {
+      "id": "freelancer:/projects/web-scraping/web-scraping-for-content-collection",
+      "source": "freelancer",
+      "title": "Web Scraping for Content Collection",
+      "url": "https://www.freelancer.com/projects/web-scraping/web-scraping-for-content-collection",
+      "budget": "$250",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Entry",
+        "Data Mining",
+        "Excel",
+        "PHP",
+        "Web Scraping"
+      ],
+      "score": 50,
+      "reason": "Le scraping authentifié et l’export de données sont directement pertinents, avec un besoin technique compréhensible. Le budget de 250 USD est faible pour plusieurs types de contenus sur un site sécurisé, et les questions de droits d’accès et de propriété des données ne sont pas précisées."
+    },
+    {
+      "id": "codeur:489226",
+      "source": "codeur",
+      "title": "Développement d'un bot whatsapp",
+      "url": "https://www.codeur.com/projects/489226-developpement-d-un-bot-whatsapp",
+      "budget": "Moins de 500 €",
+      "offers": 47,
+      "views": "7429 Vues",
+      "tags": [
+        "Chatbot",
+        "API",
+        "Application Meta"
+      ],
+      "score": 49,
+      "reason": "Le bot WhatsApp SaaS correspond bien au développement d’API, à l’automatisation et aux intégrations, avec un cahier des charges précis. Le budget inférieur à 500 € est faible pour l’ensemble du backend, des webhooks, des relances et du panel, et les 47 offres indiquent une forte concurrence."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/sign-language-video-speech",
+      "source": "freelancer",
+      "title": "sign language Video to Speech",
+      "url": "https://www.freelancer.com/projects/machine-learning/sign-language-video-speech",
+      "budget": "$128",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning (ML)",
+        "Video Processing"
+      ],
+      "score": 48,
+      "reason": "La mission est très technique et liée à la vision par ordinateur et au deep learning, mais son objectif de traduction de phrases en langue des signes est ambitieux et insuffisamment spécifié. Le budget de 128 USD est trop faible pour un tel projet de recherche et d’intégration."
+    }
+  ]
+}
