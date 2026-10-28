@@ -1,0 +1,424 @@
+{
+  "generated_at": "2026-10-28T10:56:30.418234+00:00",
+  "new_listings_scanned": 309,
+  "missions": [
+    {
+      "id": "freelancer:/projects/full-stack-development/build-student-career-platform",
+      "source": "freelancer",
+      "title": "Build AI Student Career Platform",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-student-career-platform",
+      "budget": "$14151",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "Full Stack Development",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 90,
+      "reason": "Excellent alignement avec le développement full-stack, l’intégration d’API IA, les bases de données et la construction d’un MVP clairement découpé. Le budget est ouvert et annoncé à 14 151 $, ce qui est cohérent avec le périmètre, sous réserve de bien limiter le MVP initial."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/real-time-cement-operations-software-40790829",
+      "source": "freelancer",
+      "title": "Real-Time Cement Operations Software - 28/10/2026 03:40 EDT",
+      "url": "https://www.freelancer.com/projects/api-developmet/real-time-cement-operations-software-40790829",
+      "budget": "$2169",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "C# Programming",
+        "Data Visualization",
+        "Database Management",
+        "Microsoft Access",
+        "PHP",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 88,
+      "reason": "Très bonne mission de développement applicatif combinant ingestion de données capteurs/PLC, API, base de données, dashboard temps réel, reporting et gestion d’inventaire. Le brief est concret et le budget de 2 169 $ est nettement plus cohérent que la plupart des offres, malgré une intégration hardware potentiellement complexe."
+    },
+    {
+      "id": "freelancer:/projects/raspberry-pi/raspberry-locker-system-gym",
+      "source": "freelancer",
+      "title": "Raspberry Pi Locker System Gym",
+      "url": "https://www.freelancer.com/projects/raspberry-pi/raspberry-locker-system-gym",
+      "budget": "$483",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CAN Bus",
+        "Raspberry Pi",
+        "SQLite"
+      ],
+      "score": 78,
+      "reason": "Projet technique et bien cadré autour de Python, Raspberry Pi, CAN bus, RFID, SQLite et API hardware, avec une première phase de preuve de faisabilité correctement isolée. Le budget de 483 $ est acceptable pour cette phase uniquement, tandis que le développement complet devra être chiffré séparément."
+    },
+    {
+      "id": "freelancer:/projects/python/build-silab-intelligence-monitoring",
+      "source": "freelancer",
+      "title": "Build SILAB Intelligence Monitoring Platform",
+      "url": "https://www.freelancer.com/projects/python/build-silab-intelligence-monitoring",
+      "budget": "$1134",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Full Stack Development",
+        "HTML",
+        "MySQL",
+        "NLP",
+        "OSINT",
+        "PHP",
+        "Python",
+        "Research",
+        "SQL",
+        "Surveillance",
+        "Web Scraping"
+      ],
+      "score": 75,
+      "reason": "Excellent alignement avec Python, scraping, NLP, IA/LLM, recherche sémantique et construction d’une plateforme métier propriétaire, avec un périmètre bien détaillé. Le budget de 1 134 $ reste faible pour l’ensemble annoncé, mais la possibilité de commencer par un MVP rend la mission intéressante."
+    },
+    {
+      "id": "freelancer:/projects/dot-net/automated-kronos-attendance-workflow",
+      "source": "freelancer",
+      "title": "Automated Kronos Attendance Workflow",
+      "url": "https://www.freelancer.com/projects/dot-net/automated-kronos-attendance-workflow",
+      "budget": "$434",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Automation",
+        "C# Programming",
+        "Data Analysis",
+        "Data Processing",
+        "Excel",
+        "Power Automate",
+        "Sharepoint",
+        "Workflow Automation"
+      ],
+      "score": 72,
+      "reason": "Mission bien définie d’automatisation de données Excel/Kronos, règles métier, alertes, interface de suivi et génération de rapports, avec Power Automate comme piste concrète. Le budget de 434 $ est bas pour l’ensemble, mais le périmètre pourrait être réalisable avec des connecteurs et un workflow correctement limité."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/vagaro-calendars-sync-integration",
+      "source": "freelancer",
+      "title": "Vagaro Calendars Sync Integration",
+      "url": "https://www.freelancer.com/projects/api-integration/vagaro-calendars-sync-integration",
+      "budget": "$408",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Database Management",
+        "HTML",
+        "MySQL",
+        "PHP",
+        "Software Development",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 70,
+      "reason": "Brief court mais clair, centré sur une intégration API bidirectionnelle avec synchronisation de calendriers et gestion de détails métier. Le budget de 408 $ peut être cohérent pour une intégration limitée, sous réserve que Vagaro fournisse bien les API et les mécanismes nécessaires."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/hierarchical-betting-exchange-software",
+      "source": "freelancer",
+      "title": "Hierarchical Betting Exchange Software Build",
+      "url": "https://www.freelancer.com/projects/api-developmet/hierarchical-betting-exchange-software",
+      "budget": "$7053",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "API Development",
+        "Backend Development",
+        "C# Programming",
+        "Database Development",
+        "Microservices",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 68,
+      "reason": "Très fort contenu backend applicatif : API, ledger transactionnel, WebSockets, microservices, rôles, rapprochement et logique temps réel, avec un budget de 7 053 $ cohérent avec l’ampleur. Le secteur des paris est toutefois réglementé et particulièrement complexe, ce qui impose de vérifier la conformité et la faisabilité avant engagement."
+    },
+    {
+      "id": "freelancer:/projects/computer-vision/choy-sum-harvesting-vision-system",
+      "source": "freelancer",
+      "title": "Choy Sum Harvesting Vision System",
+      "url": "https://www.freelancer.com/projects/computer-vision/choy-sum-harvesting-vision-system",
+      "budget": "$405",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Artificial Intelligence",
+        "C Programming",
+        "C++ Programming",
+        "Computer Vision",
+        "Python",
+        "Pytorch",
+        "Software Architecture",
+        "YOLO"
+      ],
+      "score": 65,
+      "reason": "Projet technique intéressant en Python, PyTorch, YOLO, vision 3D et intégration robotique, avec des livrables et objectifs clairement formulés. Le budget de 405 $ est très insuffisant pour l’acquisition/annotation des données, l’entraînement et la localisation stéréo, ce qui constitue un risque majeur."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/ticketmaster-api-dashboard-integration",
+      "source": "freelancer",
+      "title": "Ticketmaster API Dashboard Integration",
+      "url": "https://www.freelancer.com/projects/api-developmet/ticketmaster-api-dashboard-integration",
+      "budget": "$415",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Data Integration",
+        "JavaScript",
+        "JSON",
+        "Mobile App Development",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 60,
+      "reason": "Intégration API claire et directement orientée Node.js/Python, avec détection de changements, notifications et données JSON exploitables. Le scope semble raisonnable mais le budget de 415 $ est limité, et le fait d’exiger que le freelance fournisse l’accès Ticketmaster doit être clarifié."
+    },
+    {
+      "id": "freelancer:/projects/cloud-computing/windows-excel-azure-sync-app",
+      "source": "freelancer",
+      "title": "Windows Excel-Azure Sync App",
+      "url": "https://www.freelancer.com/projects/cloud-computing/windows-excel-azure-sync-app",
+      "budget": "$241",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Azure",
+        "C# Programming",
+        "Cloud Computing",
+        "Data Management",
+        "Microsoft",
+        "Microsoft SQL Server"
+      ],
+      "score": 58,
+      "reason": "La mission demande un véritable utilitaire applicatif avec surveillance de fichier, synchronisation Azure, file d’attente hors ligne et reprise automatique, ce qui correspond au développement de scripts/outils. Le budget de 248 $ est faible et la composante Azure/cloud est acceptable ici uniquement parce qu’elle accompagne un développement applicatif réel."
+    },
+    {
+      "id": "freelancer:/projects/cloud-computing/windows-excel-azure-sync-app",
+      "source": "freelancer",
+      "title": "Windows Excel-Azure Sync App",
+      "url": "https://www.freelancer.com/projects/cloud-computing/windows-excel-azure-sync-app",
+      "budget": "$248",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Azure",
+        "C# Programming",
+        "Cloud Computing",
+        "Data Management",
+        "Microsoft",
+        "Microsoft SQL Server"
+      ],
+      "score": 58,
+      "reason": "La mission demande un véritable utilitaire applicatif avec surveillance de fichier, synchronisation Azure, file d’attente hors ligne et reprise automatique, ce qui correspond au développement de scripts/outils. Le budget de 248 $ est faible et la composante Azure/cloud est acceptable ici uniquement parce qu’elle accompagne un développement applicatif réel."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/part-time-full-stack-developer",
+      "source": "freelancer",
+      "title": "Part-time Full-Stack Developer (React + Node.js) for Healthcare Web Portals",
+      "url": "https://www.freelancer.com/projects/postgresql/part-time-full-stack-developer",
+      "budget": "$265",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Full Stack Development",
+        "JavaScript",
+        "MySQL",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PostgreSQL",
+        "Web Development"
+      ],
+      "score": 55,
+      "reason": "Le développement React/Node, des API, de l’authentification et des intégrations OTP correspond bien au profil recherché. Le budget annoncé de 265 $ est faible et la mission part-time/long terme reste peu cadrée, même si l’essai est explicitement rémunéré."
+    },
+    {
+      "id": "freelancer:/projects/web-development/referral-tracking-cash-rewards-system",
+      "source": "freelancer",
+      "title": "Referral Tracking & Cash Rewards System",
+      "url": "https://www.freelancer.com/projects/web-development/referral-tracking-cash-rewards-system",
+      "budget": "$395",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Django",
+        "Laravel",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "PostgreSQL",
+        "Web Development"
+      ],
+      "score": 52,
+      "reason": "Le projet implique backend, suivi d’événements, logique de récompenses, dashboard et intégrité des transactions, avec une stack flexible incluant Node.js ou Django. Le budget de 395 $ est très bas pour un système production-ready de paiement/récompenses et le domaine financier ajoute un risque fonctionnel."
+    },
+    {
+      "id": "freelancer:/projects/nodejs/stabilize-nestjs-social-chat-backend",
+      "source": "freelancer",
+      "title": "Stabilize NestJS Social Chat Backend",
+      "url": "https://www.freelancer.com/projects/nodejs/stabilize-nestjs-social-chat-backend",
+      "budget": "$136",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "REST API"
+      ],
+      "score": 48,
+      "reason": "Mission très pertinente techniquement en Node.js/NestJS, PostgreSQL, Redis, API temps réel et logique transactionnelle complexe. Le budget de 136 $ est toutefois manifestement irréaliste pour l’audit et la stabilisation d’un backend social complet comportant wallets, appels payants et modération."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/build-bilingual-real-estate-sales",
+      "source": "freelancer",
+      "title": "Build Bilingual AI Real Estate Sales Agent",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/build-bilingual-real-estate-sales",
+      "budget": "$502",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Model Development",
+        "AI Workflow Automation",
+        "API Development",
+        "API Integration",
+        "Data Management",
+        "Natural Language Processing",
+        "Natural Language Understanding"
+      ],
+      "score": 45,
+      "reason": "Mission très pertinente sur l’IA, les API, l’automatisation CRM/WhatsApp et les workflows métier, avec un brief exceptionnellement précis. Toutefois, le budget de 502 $ est totalement disproportionné pour un système bilingue production-ready avec intégrations, sécurité, tests et garantie de 90 jours."
+    },
+    {
+      "id": "freelancer:/projects/automation/data-automation-support-edt",
+      "source": "freelancer",
+      "title": "Data Automation Support - 27/10/2026 22:44 EDT",
+      "url": "https://www.freelancer.com/projects/automation/data-automation-support-edt",
+      "budget": "$530",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Integration",
+        "Data Management",
+        "Scripting",
+        "Technical Support",
+        "Workflow Automation"
+      ],
+      "score": 45,
+      "reason": "L’automatisation de workflows, les scripts et la documentation correspondent aux critères. Toutefois, le brief est très vague, le périmètre doit encore être défini lors d’un échange et le budget de 530 $ ne permet pas d’évaluer sérieusement la rentabilité."
+    },
+    {
+      "id": "freelancer:/projects/c-sharp-programming/automatic-rent-challan-generator",
+      "source": "freelancer",
+      "title": "Automatic Rent Challan Generator",
+      "url": "https://www.freelancer.com/projects/c-sharp-programming/automatic-rent-challan-generator",
+      "budget": "$76",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "C# Programming",
+        "Desktop Application",
+        "Java",
+        "Python",
+        "Selenium",
+        "Software Development",
+        "Windows Desktop"
+      ],
+      "score": 45,
+      "reason": "Bonne adéquation avec l’automatisation, le scraping navigateur, la génération PDF et éventuellement Python/Selenium, avec un workflow assez précis. Le budget de 76 $ est cependant dérisoire, et la compatibilité Windows 7 32 bits ainsi que l’automatisation d’un portail peuvent générer des difficultés importantes."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/full-stack-developer-for-yatrix",
+      "source": "freelancer",
+      "title": "Full-Stack Developer for Yatrix",
+      "url": "https://www.freelancer.com/projects/nextjs/full-stack-developer-for-yatrix",
+      "budget": "$109",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "API",
+        "Express JS",
+        "MongoDB",
+        "Next.js",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PostgreSQL"
+      ],
+      "score": 40,
+      "reason": "La maintenance et l’évolution d’une application Node.js avec API, bases de données et intégrations tierces sont pertinentes. La mission reste cependant très générale, le budget indiqué est extrêmement faible (109 $) et elle inclut une dimension AWS/production que l’utilisateur souhaite éviter lorsqu’elle devient prédominante."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/build-fully-automated-marketing-system",
+      "source": "freelancer",
+      "title": "Build a Fully Automated AI Marketing System Using AI agent - Marketing Automation",
+      "url": "https://www.freelancer.com/projects/ai-automation/build-fully-automated-marketing-system",
+      "budget": "$360",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Automation",
+        "Artificial Intelligence",
+        "JavaScript",
+        "Lead Generation",
+        "n8n",
+        "PHP",
+        "Social Engine",
+        "Software Architecture",
+        "Workflow Automation"
+      ],
+      "score": 38,
+      "reason": "La mission implique n8n, des agents IA, des intégrations API et de l’automatisation, donc elle correspond techniquement. Cependant, l’objectif d’automatiser 80–90 % du marketing sur de nombreux canaux pour seulement 360 $ est irréaliste et le périmètre est excessivement large."
+    },
+    {
+      "id": "freelancer:/projects/rest-api/korea-based-node-backend-developer",
+      "source": "freelancer",
+      "title": "Korea-Based Node.js Backend Developer",
+      "url": "https://www.freelancer.com/projects/rest-api/korea-based-node-backend-developer",
+      "budget": "$418",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Design",
+        "Docker",
+        "Java",
+        "JavaScript",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PostgreSQL",
+        "REST API"
+      ],
+      "score": 35,
+      "reason": "Le développement Node.js d’API REST, de modèles de données et d’intégrations correspond bien aux critères. La contrainte d’être basé en Corée et le budget très faible de 423 $, pour un rôle backend structurant incluant tests, CI/CD et production, réduisent fortement la pertinence."
+    }
+  ]
+}
