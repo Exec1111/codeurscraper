@@ -1,0 +1,419 @@
+{
+  "generated_at": "2026-11-02T13:00:51.682194+00:00",
+  "new_listings_scanned": 318,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-developmet/premises-fire-alarm-iot-platform",
+      "source": "freelancer",
+      "title": "On-Premises Fire Alarm IoT Platform",
+      "url": "https://www.freelancer.com/projects/api-developmet/premises-fire-alarm-iot-platform",
+      "budget": "$2099",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Alarm Systems",
+        "API Development",
+        "Internet of Things (IoT)",
+        "Mobile App Development",
+        "PHP",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 58,
+      "reason": "Mission très technique et bien spécifiée, avec API, IoT, intégration de protocoles et application séparée. Toutefois, le périmètre est extrêmement large pour 20–25 jours et 2099 $, avec une forte composante de personnalisation/configuration de ThingsBoard."
+    },
+    {
+      "id": "freelancer:/projects/embedded-systems/lead-embedded-mechatronics-engineer",
+      "source": "freelancer",
+      "title": "Lead Embedded / Mechatronics Engineer — Smart Hardware Prototype (ESP32, CAD, IoT)",
+      "url": "https://www.freelancer.com/projects/embedded-systems/lead-embedded-mechatronics-engineer",
+      "budget": "$1376",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CAD / SolidWorks",
+        "Electronics",
+        "Embedded C++",
+        "Embedded Systems",
+        "Firmware Development",
+        "Mechatronics",
+        "Product Design",
+        "Prototyping"
+      ],
+      "score": 48,
+      "reason": "Projet de développement réel et techniquement intéressant, combinant firmware, IoT et interface web. Il nécessite toutefois aussi de fortes compétences en électronique, mécanique/CAD et intégration matérielle, avec un périmètre très large pour le budget annoncé."
+    },
+    {
+      "id": "freelancer:/projects/natural-language-processing/meeting-insights-action-tracker",
+      "source": "freelancer",
+      "title": "AI Meeting Insights and Action Tracker -- 2",
+      "url": "https://www.freelancer.com/projects/natural-language-processing/meeting-insights-action-tracker",
+      "budget": "$441",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Content Creation",
+        "AI Model Development",
+        "AI Text-to-text",
+        "API Integration",
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "OpenAI",
+        "Python",
+        "Server to Server Facebook API Integration"
+      ],
+      "score": 42,
+      "reason": "Mission clairement définie, directement alignée avec Python, NLP et l’intégration d’un LLM, avec des livrables applicatifs concrets. Le budget de 441 $ reste très faible pour une application complète avec traitement documentaire, interface et exports."
+    },
+    {
+      "id": "freelancer:/projects/automation/automated-bidding-system-for-freight",
+      "source": "freelancer",
+      "title": "Automated Bidding System for Freight",
+      "url": "https://www.freelancer.com/projects/automation/automated-bidding-system-for-freight",
+      "budget": "$255",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "Automation",
+        "Freight",
+        "JavaScript",
+        "Logistics",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 40,
+      "reason": "Mission d’automatisation potentiellement adaptée à Python et aux API, avec un objectif métier clair. Le brief reste néanmoins peu détaillé sur les plateformes à intégrer et le budget de 255 $ est faible."
+    },
+    {
+      "id": "freelancer:/projects/ai-voice-agents/voice-agent-crm-what-app",
+      "source": "freelancer",
+      "title": "AI Voice Agent CRM and what's app Automation",
+      "url": "https://www.freelancer.com/projects/ai-voice-agents/voice-agent-crm-what-app",
+      "budget": "$98",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Voice Agents",
+        "Android",
+        "API Integration",
+        "Automation",
+        "CRM",
+        "Mobile App Development",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 38,
+      "reason": "Le sujet correspond fortement à l’IA vocale, aux intégrations API, au CRM, à WhatsApp et à l’automatisation. Le budget de 98 $ est cependant totalement disproportionné pour ce périmètre multi-intégrations."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/zerodha-kite-breakout-options-bot",
+      "source": "freelancer",
+      "title": "Zerodha Kite Breakout Options Bot",
+      "url": "https://www.freelancer.com/projects/api-developmet/zerodha-kite-breakout-options-bot",
+      "budget": "$244",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithmic Trading",
+        "API Development",
+        "C++ Programming",
+        "Financial APIs",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Trading Bot Development"
+      ],
+      "score": 35,
+      "reason": "Le développement d’un bot Python connecté à une API financière est bien cadré et pertinent pour l’automatisation. Le budget de 244 $ est toutefois bas, et le contexte de trading ajoute des risques techniques et opérationnels."
+    },
+    {
+      "id": "freelancer:/projects/web-development/fashion-commerce-wholesale-pwa",
+      "source": "freelancer",
+      "title": "Fashion E-Commerce & Wholesale PWA",
+      "url": "https://www.freelancer.com/projects/web-development/fashion-commerce-wholesale-pwa",
+      "budget": "$784",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "eCommerce",
+        "HTML",
+        "Mobile Development",
+        "Payment Processing",
+        "PHP",
+        "Security",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 35,
+      "reason": "Projet applicatif riche avec PWA, paiements, API, gestion de stock et portail wholesale, donc techniquement intéressant. Le périmètre est cependant très vaste et le budget de 784 $ est nettement insuffisant; il s’éloigne aussi des spécialités Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/database-management/progress-openedge-abl-developer-legacy",
+      "source": "freelancer",
+      "title": "Progress OpenEdge / ABL Developer – Legacy Application Maintenance & Support",
+      "url": "https://www.freelancer.com/projects/database-management/progress-openedge-abl-developer-legacy",
+      "budget": "$1013",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "C# Programming",
+        "Combinatorial Problem Solving",
+        "Database Management",
+        "Microsoft SQL Server",
+        "Technical Documentation",
+        "Troubleshooting"
+      ],
+      "score": 32,
+      "reason": "Il s’agit bien de maintenance applicative et de dépannage, mais la mission exige une expertise très spécifique en Progress OpenEdge/ABL, SQL Server et environnement Windows, hors des technologies privilégiées. Le budget est également limité."
+    },
+    {
+      "id": "freelancer:/projects/angular/zoom-video-sdk-web-integration",
+      "source": "freelancer",
+      "title": "Zoom Video SDK Web Integration",
+      "url": "https://www.freelancer.com/projects/angular/zoom-video-sdk-web-integration",
+      "budget": "$87",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Angular",
+        "AngularJS",
+        "Frontend Development",
+        "JavaScript",
+        "Mobile App Development",
+        "PhoneGap",
+        "React Native",
+        "Web Development"
+      ],
+      "score": 28,
+      "reason": "L’intégration du Zoom Video SDK et des enregistrements constitue un développement applicatif concret. Le budget de 87 $ est toutefois très insuffisant et la mission impose une expertise spécifique Angular/Spring/React Native plutôt que Python ou Node.js."
+    },
+    {
+      "id": "freelancer:/projects/embedded-systems/smart-hydroponics-system-integration",
+      "source": "freelancer",
+      "title": "Smart Hydroponics System Integration",
+      "url": "https://www.freelancer.com/projects/embedded-systems/smart-hydroponics-system-integration",
+      "budget": "$88",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Backend Development",
+        "Electronics",
+        "Embedded Systems",
+        "Firmware Development",
+        "Flutter",
+        "Microcontroller",
+        "Mobile App Development",
+        "Sensor Integration",
+        "Software Development"
+      ],
+      "score": 25,
+      "reason": "Le projet mélange backend, IoT, automatisation et éventuellement IA, mais le descriptif est tronqué et le périmètre semble très large. Le budget de 88 $ le rend fortement incohérent avec les compétences demandées."
+    },
+    {
+      "id": "freelancer:/projects/software-development/delphi-whatsapp-auto-sender",
+      "source": "freelancer",
+      "title": "Delphi WhatsApp Auto-Sender",
+      "url": "https://www.freelancer.com/projects/software-development/delphi-whatsapp-auto-sender",
+      "budget": "$137",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Delphi",
+        "Software Development"
+      ],
+      "score": 25,
+      "reason": "Le besoin est précis et comporte une petite intégration applicative, mais il exige Delphi et une intégration WhatsApp soumise à des contraintes d’API et de conformité. Le budget de 137 $ est faible et la technologie ne correspond pas aux préférences principales."
+    },
+    {
+      "id": "freelancer:/projects/saas-development/product-demo-reel-saas-builder",
+      "source": "freelancer",
+      "title": "Product Demo Reel SaaS Builder",
+      "url": "https://www.freelancer.com/projects/saas-development/product-demo-reel-saas-builder",
+      "budget": "$11",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Animation",
+        "After Effects",
+        "Animation",
+        "Cloud Computing",
+        "JavaScript",
+        "REST API",
+        "SaaS Development",
+        "Video Editing"
+      ],
+      "score": 22,
+      "reason": "Le projet est techniquement pertinent pour une API, une pipeline FFmpeg et un SaaS applicatif. Mais le budget de 11 $ est manifestement irréaliste pour une plateforme cloud complète avec rendu vidéo et interface web."
+    },
+    {
+      "id": "freelancer:/projects/web-development/pay-walled-live-stream-integration",
+      "source": "freelancer",
+      "title": "Pay-Walled Live Stream Integration",
+      "url": "https://www.freelancer.com/projects/web-development/pay-walled-live-stream-integration",
+      "budget": "$399",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "HTML",
+        "Payment Processing",
+        "PHP",
+        "Stripe",
+        "Web Development",
+        "Website Design",
+        "WordPress"
+      ],
+      "score": 22,
+      "reason": "L’intégration de paiement, de streaming et de contrôle d’accès est un sujet applicatif concret avec des API. La description est incomplète et le budget de 399 $ est faible pour gérer correctement sécurité, accès et partage d’URL."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/migrate-wordpress-directory-voxel-next",
+      "source": "freelancer",
+      "title": "Migrate WordPress directory (Voxel) to Next.js (Dirstarter) without losing SEO",
+      "url": "https://www.freelancer.com/projects/nextjs/migrate-wordpress-directory-voxel-next",
+      "budget": "$180",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "GitHub",
+        "JavaScript",
+        "Next.js",
+        "Node.js",
+        "PHP",
+        "PostgreSQL",
+        "SEO",
+        "Web Development",
+        "WordPress"
+      ],
+      "score": 20,
+      "reason": "La migration implique du développement Next.js/Node.js et une reprise de données SEO assez technique. Cependant, il s’agit principalement d’une migration de site WordPress et le budget de 180 $ est irréaliste pour ce périmètre."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/build-modern-next-youtube-showcase",
+      "source": "freelancer",
+      "title": "Build Modern Next.js YouTube Showcase",
+      "url": "https://www.freelancer.com/projects/nextjs/build-modern-next-youtube-showcase",
+      "budget": "$1013",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Graphic Design",
+        "HTML",
+        "JavaScript",
+        "Next.js",
+        "PHP",
+        "SEO",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 20,
+      "reason": "Il y a du développement Next.js réel et un brief relativement compréhensible, mais il s’agit essentiellement d’un site vitrine autour de YouTube, hors cible prioritaire. L’exigence de s’abonner à la chaîne et de fournir une preuve est également un signal peu professionnel."
+    },
+    {
+      "id": "freelancer:/projects/web-development/dynamic-auto-parts-quote-website",
+      "source": "freelancer",
+      "title": "Dynamic Auto Parts Quote Website",
+      "url": "https://www.freelancer.com/projects/web-development/dynamic-auto-parts-quote-website",
+      "budget": "$85",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Database Management",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "SEO",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 18,
+      "reason": "Le brief est relativement clair et inclut une base de données, une interface d’administration et une intégration WhatsApp. Il s’agit toutefois surtout d’un site métier/web et le budget de 85 $ est beaucoup trop bas."
+    },
+    {
+      "id": "freelancer:/projects/python/proposal-for-enhancing-word-search",
+      "source": "freelancer",
+      "title": "Proposal for Enhancing Word Search Application - Quotation Request",
+      "url": "https://www.freelancer.com/projects/python/proposal-for-enhancing-word-search",
+      "budget": "$1302",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Python",
+        "Software Architecture",
+        "Software Testing",
+        "Windows Desktop"
+      ],
+      "score": 0,
+      "reason": "L’annonce précise explicitement qu’il s’agit d’une étude de recherche, sans contrat ni rémunération et sans développement à réaliser."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/stack-esp-development-quotation-request",
+      "source": "freelancer",
+      "title": "M5Stack esp32 development - Quotation Request",
+      "url": "https://www.freelancer.com/projects/c-programming/stack-esp-development-quotation-request",
+      "budget": "$427",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Arduino",
+        "C Programming",
+        "Linux",
+        "Microcontroller",
+        "Python"
+      ],
+      "score": 0,
+      "reason": "Cette annonce est explicitement une demande de devis historique destinée à une recherche, sans engagement réel ni rémunération."
+    },
+    {
+      "id": "freelancer:/projects/natural-language-processing/meeting-insights-action-tracker-40798924",
+      "source": "freelancer",
+      "title": "AI Meeting Insights & Action Tracker",
+      "url": "https://www.freelancer.com/projects/natural-language-processing/meeting-insights-action-tracker-40798924",
+      "budget": "$146",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Model Development",
+        "API Integration",
+        "Artificial Intelligence",
+        "Documentation",
+        "Natural Language Processing",
+        "Python"
+      ],
+      "score": 0,
+      "reason": "L’annonce indique explicitement qu’il s’agit d’un scénario historique utilisé pour une étude non rémunérée, sans contrat de développement."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/tos-data-bridge-modification-gui-40798976",
+      "source": "freelancer",
+      "title": "TOS Data Bridge Modification and GUI Development -- 2 - Quotation Request",
+      "url": "https://www.freelancer.com/projects/c-programming/tos-data-bridge-modification-gui-40798976",
+      "budget": "$514",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C++ Programming",
+        "Java",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 0,
+      "reason": "Il s’agit explicitement d’une annonce historique utilisée pour une étude de devis, sans mission réelle ni rémunération."
+    }
+  ]
+}
