@@ -1,0 +1,429 @@
+{
+  "generated_at": "2026-11-04T12:44:05.459687+00:00",
+  "new_listings_scanned": 302,
+  "missions": [
+    {
+      "id": "freelancer:/projects/react-js/build-website-40802505",
+      "source": "freelancer",
+      "title": "Build a Website",
+      "url": "https://www.freelancer.com/projects/react-js/build-website-40802505",
+      "budget": "$425",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Full Stack Development",
+        "HTML",
+        "JavaScript",
+        "MongoDB",
+        "Node.js",
+        "PHP",
+        "React.js"
+      ],
+      "score": 70,
+      "reason": "Très bon alignement avec Node.js, React, API, authentification et développement logiciel full-stack, avec un cahier des charges clair. Le budget de 425 $ reste bas pour l’authentification complète, la base de données et le déploiement, mais le scope est raisonnablement cadré."
+    },
+    {
+      "id": "freelancer:/projects/automation/automated-pricing-tool-development",
+      "source": "freelancer",
+      "title": "Automated Pricing Tool Development",
+      "url": "https://www.freelancer.com/projects/automation/automated-pricing-tool-development",
+      "budget": "$1020",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Extraction",
+        "Database Management",
+        "FileMaker",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Software Development"
+      ],
+      "score": 68,
+      "reason": "Mission de développement et d’automatisation bien définie, avec extraction de données, calcul métier et interface utilisateur, et un budget de 1020 $ nettement plus cohérent. FileMaker est moins proche des préférences Python/Node, mais le projet reste techniquement concret."
+    },
+    {
+      "id": "freelancer:/projects/api/nasdaq-futures-auto-trader",
+      "source": "freelancer",
+      "title": "Nasdaq Futures Auto Trader",
+      "url": "https://www.freelancer.com/projects/api/nasdaq-futures-auto-trader",
+      "budget": "$579",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "C Programming",
+        "C# Programming",
+        "Discord API",
+        "Metatrader",
+        "MetaTrader 4",
+        "Metatrader 5",
+        "NinjaTrader",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Trading Bot Development"
+      ],
+      "score": 65,
+      "reason": "Bon match pour Python, APIs, automatisation et traitement temps réel, avec un périmètre technique clair et testable. Le budget de 579 $ reste bas et l’automatisation d’ordres financiers implique un niveau de fiabilité et de responsabilité élevé."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/front-desk-support",
+      "source": "freelancer",
+      "title": "AI Front Desk Support",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/front-desk-support",
+      "budget": "$316",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Voice Agents",
+        "AI Workflow Automation"
+      ],
+      "score": 60,
+      "reason": "Mission pertinente en agent vocal, chatbot, intégration Freshdesk et déploiement production, avec des critères d’acceptation précis. Le budget de 316 $ paraît très insuffisant pour connecter deux canaux et atteindre des performances mesurées en production."
+    },
+    {
+      "id": "freelancer:/projects/php/project-40801745",
+      "source": "freelancer",
+      "title": "पूजा समिति हिसाब वेब ऐप",
+      "url": "https://www.freelancer.com/projects/php/project-40801745",
+      "budget": "$285",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Bootstrap",
+        "MySQL",
+        "PHP",
+        "Software Development"
+      ],
+      "score": 60,
+      "reason": "Brief très détaillé pour une véritable application métier PHP/MySQL, avec authentification, permissions, imports, rapports et exigences de sécurité. Le budget affiché de 285 $ est incohérent avec le périmètre, même si le budget annoncé en roupies semble plus raisonnable; PHP est aussi moins prioritaire que Python ou Node."
+    },
+    {
+      "id": "freelancer:/projects/php/project-40801745",
+      "source": "freelancer",
+      "title": "पूजा समिति हिसाब वेब ऐप",
+      "url": "https://www.freelancer.com/projects/php/project-40801745",
+      "budget": "$285",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Bootstrap",
+        "MySQL",
+        "PHP",
+        "Software Development"
+      ],
+      "score": 60,
+      "reason": "Brief très détaillé pour une véritable application métier PHP/MySQL, avec authentification, permissions, imports, rapports et exigences de sécurité. Le budget affiché de 285 $ est incohérent avec le périmètre, même si le budget annoncé en roupies semble plus raisonnable; PHP est aussi moins prioritaire que Python ou Node."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/claude-agents-builders-thinker-reviewer",
+      "source": "freelancer",
+      "title": "Claude Agents (Builders, thinker, reviewer)",
+      "url": "https://www.freelancer.com/projects/api-developmet/claude-agents-builders-thinker-reviewer",
+      "budget": "$137",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agent Swarms",
+        "AI Chatbot Development",
+        "AI Workflow Automation",
+        "API Development",
+        "Creative Writing",
+        "Data Visualization",
+        "Powerpoint",
+        "Prompt Engineering",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 58,
+      "reason": "Mission très pertinente en Python, API Claude et agents LLM avec un brief détaillé et des livrables clairs. Le budget de 137 $ est toutefois très faible pour une génération PowerPoint avancée avec plusieurs agents et une qualité professionnelle."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/outreach-super-agent-development",
+      "source": "freelancer",
+      "title": "AI Outreach Super-Agent Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/outreach-super-agent-development",
+      "budget": "$284",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Text-to-text",
+        "AI Workflow Automation",
+        "AI Writing",
+        "GPT-4"
+      ],
+      "score": 57,
+      "reason": "Très bon alignement avec les agents LLM, l’automatisation et l’enrichissement de prospects, dans un brief relativement précis. Le budget de 298 $ reste disproportionné avec le développement, les intégrations et l’objectif de conversion imposé."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/outreach-super-agent-development",
+      "source": "freelancer",
+      "title": "AI Outreach Super-Agent Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/outreach-super-agent-development",
+      "budget": "$298",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Text-to-text",
+        "AI Workflow Automation",
+        "AI Writing",
+        "GPT-4"
+      ],
+      "score": 57,
+      "reason": "Très bon alignement avec les agents LLM, l’automatisation et l’enrichissement de prospects, dans un brief relativement précis. Le budget de 298 $ reste disproportionné avec le développement, les intégrations et l’objectif de conversion imposé."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/dedicated-business-agent-for-operations",
+      "source": "freelancer",
+      "title": "Dedicated AI Business Agent for Operations & Customer Support",
+      "url": "https://www.freelancer.com/projects/ai-automation/dedicated-business-agent-for-operations",
+      "budget": "$270",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Workflow Automation",
+        "API Integration",
+        "Graphic Design",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 55,
+      "reason": "Excellent alignement avec les agents IA, l’automatisation et les intégrations API, avec un brief particulièrement structuré. Le périmètre multi-départements est néanmoins énorme et le budget affiché ne concerne qu’une phase exploratoire, ce qui rend la mission risquée à cadrer."
+    },
+    {
+      "id": "freelancer:/projects/automation/data-automation-support-40802042",
+      "source": "freelancer",
+      "title": "Data Automation Support -- 2",
+      "url": "https://www.freelancer.com/projects/automation/data-automation-support-40802042",
+      "budget": "$403",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Integration",
+        "Data Management",
+        "Scripting",
+        "Technical Support",
+        "Workflow Automation"
+      ],
+      "score": 52,
+      "reason": "Mission cohérente avec les scripts, l’automatisation et l’intégration de données, avec une attente de documentation et de fiabilisation. Le brief reste cependant trop vague sur le périmètre réel et le budget de 403 $ est seulement moyen."
+    },
+    {
+      "id": "freelancer:/projects/automation/data-automation-support-40802042",
+      "source": "freelancer",
+      "title": "Data Automation Support -- 2",
+      "url": "https://www.freelancer.com/projects/automation/data-automation-support-40802042",
+      "budget": "$403",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Integration",
+        "Data Management",
+        "Scripting",
+        "Technical Support",
+        "Workflow Automation"
+      ],
+      "score": 52,
+      "reason": "Mission cohérente avec les scripts, l’automatisation et l’intégration de données, avec une attente de documentation et de fiabilisation. Le brief reste cependant trop vague sur le périmètre réel et le budget de 403 $ est seulement moyen."
+    },
+    {
+      "id": "freelancer:/projects/audio-processing/audio-labeling-workflow-guidance",
+      "source": "freelancer",
+      "title": "Audio AI Labeling Workflow Guidance",
+      "url": "https://www.freelancer.com/projects/audio-processing/audio-labeling-workflow-guidance",
+      "budget": "$410",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Audio Processing",
+        "Data Management",
+        "Documentation",
+        "Machine Learning (ML)",
+        "Natural Language Processing",
+        "Pytorch",
+        "Sentiment Analysis",
+        "Workflow Automation"
+      ],
+      "score": 48,
+      "reason": "Le projet touche à l’IA, au traitement audio et à l’automatisation de pipelines avec des outils techniques précis. Il s’agit toutefois surtout de conseil et de conception de workflow, avec un budget de 410 $ faible pour l’ASR, la diarisation et les scripts de mise en place."
+    },
+    {
+      "id": "freelancer:/projects/speech-recognition/voice-controlled-osrs-assistant",
+      "source": "freelancer",
+      "title": "Voice-Controlled OSRS Assistant",
+      "url": "https://www.freelancer.com/projects/speech-recognition/voice-controlled-osrs-assistant",
+      "budget": "$97",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Voice Agents",
+        "C Programming",
+        "Python",
+        "Software Architecture",
+        "Software Testing",
+        "Speech Recognition"
+      ],
+      "score": 48,
+      "reason": "Petit outil Python de reconnaissance vocale et d’automatisation souris, avec des livrables précis et un intérêt potentiel d’accessibilité. Le budget de 97 $ est faible et l’usage en jeu peut soulever des contraintes de compatibilité ou de règles du logiciel."
+    },
+    {
+      "id": "freelancer:/projects/speech-recognition/voice-controlled-osrs-assistant",
+      "source": "freelancer",
+      "title": "Voice-Controlled OSRS Assistant",
+      "url": "https://www.freelancer.com/projects/speech-recognition/voice-controlled-osrs-assistant",
+      "budget": "$97",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Voice Agents",
+        "C Programming",
+        "Python",
+        "Software Architecture",
+        "Software Testing",
+        "Speech Recognition"
+      ],
+      "score": 48,
+      "reason": "Petit outil Python de reconnaissance vocale et d’automatisation souris, avec des livrables précis et un intérêt potentiel d’accessibilité. Le budget de 97 $ est faible et l’usage en jeu peut soulever des contraintes de compatibilité ou de règles du logiciel."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/automated-college-timetable-scheduling",
+      "source": "freelancer",
+      "title": "Automated College Timetable Scheduling System",
+      "url": "https://www.freelancer.com/projects/full-stack-development/automated-college-timetable-scheduling",
+      "budget": "$79",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "CSS",
+        "Full Stack Development",
+        "HTML",
+        "Java",
+        "PHP",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 48,
+      "reason": "Le sujet comporte un vrai problème d’optimisation et une application full-stack avec des règles métier explicites, ce qui constitue du développement intéressant. Le budget de 79 $ est toutefois très faible pour un système complet en React/Supabase avec génération de plannings."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/custom-llm-automation-workflow-build",
+      "source": "freelancer",
+      "title": "Custom LLM Automation Workflow Build",
+      "url": "https://www.freelancer.com/projects/ai-automation/custom-llm-automation-workflow-build",
+      "budget": "$262",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Ethics",
+        "AI Integration",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Workflow Automation",
+        "Chatbot Development",
+        "Machine Learning (ML)"
+      ],
+      "score": 25,
+      "reason": "Le sujet correspond fortement à l’IA, aux agents et aux intégrations, mais le périmètre couvre une plateforme d’entreprise complète, la sécurité, la formation et le support pour seulement 262 $, ce qui est totalement disproportionné."
+    },
+    {
+      "id": "freelancer:/projects/tradingview/automate-tradingview-tradetron-signals",
+      "source": "freelancer",
+      "title": "Automate TradingView-Tradetron Signals",
+      "url": "https://www.freelancer.com/projects/tradingview/automate-tradingview-tradetron-signals",
+      "budget": "$78",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithmic Trading",
+        "API Integration",
+        "Backtesting",
+        "Financial APIs",
+        "Market Analysis",
+        "Risk Management",
+        "Signal Processing",
+        "TradingView"
+      ],
+      "score": 25,
+      "reason": "Il existe un volet d’intégration automatisée, mais la mission consiste surtout à configurer TradingView et Tradetron plutôt qu’à développer un logiciel applicatif substantiel. Le budget de 78 $ est très faible et l’automatisation de trading ajoute un risque important."
+    },
+    {
+      "id": "freelancer:/projects/ada-programming/ada-dart-memory-monitor-component",
+      "source": "freelancer",
+      "title": "ADA-Dart Memory Monitor Component",
+      "url": "https://www.freelancer.com/projects/ada-programming/ada-dart-memory-monitor-component",
+      "budget": "$35",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Ada programming",
+        "C Programming",
+        "C++ Programming",
+        "CGI",
+        "Dart",
+        "Documentation",
+        "JSON",
+        "Linux",
+        "Shell Script",
+        "Software Development"
+      ],
+      "score": 22,
+      "reason": "Il s’agit bien de développement logiciel bas niveau et d’une intégration JSON/Dart, mais la technologie Ada/CGI est très spécialisée et éloignée des préférences principales. Le budget de 35 $ est manifestement insuffisant pour un composant compilable et documenté."
+    },
+    {
+      "id": "freelancer:/projects/ada-programming/ada-dart-memory-monitor-component",
+      "source": "freelancer",
+      "title": "ADA-Dart Memory Monitor Component",
+      "url": "https://www.freelancer.com/projects/ada-programming/ada-dart-memory-monitor-component",
+      "budget": "$35",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Ada programming",
+        "C Programming",
+        "C++ Programming",
+        "CGI",
+        "Dart",
+        "Documentation",
+        "JSON",
+        "Linux",
+        "Shell Script",
+        "Software Development"
+      ],
+      "score": 22,
+      "reason": "Il s’agit bien de développement logiciel bas niveau et d’une intégration JSON/Dart, mais la technologie Ada/CGI est très spécialisée et éloignée des préférences principales. Le budget de 35 $ est manifestement insuffisant pour un composant compilable et documenté."
+    }
+  ]
+}
