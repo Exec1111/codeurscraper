@@ -1,0 +1,423 @@
+{
+  "generated_at": "2026-11-05T12:55:04.310792+00:00",
+  "new_listings_scanned": 305,
+  "missions": [
+    {
+      "id": "freelancer:/projects/computer-vision/radar-based-video-detection-development",
+      "source": "freelancer",
+      "title": "AI Radar based video detection and development",
+      "url": "https://www.freelancer.com/projects/computer-vision/radar-based-video-detection-development",
+      "budget": "$1964",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C++ Programming",
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning (ML)",
+        "OpenCV",
+        "Python",
+        "Pytorch",
+        "Software Architecture",
+        "Tensorflow",
+        "YOLO"
+      ],
+      "score": 89,
+      "reason": "Mission de développement technique solide, clairement définie, en Python, vision par ordinateur et deep learning, avec un budget de 1 964 $ cohérent. Elle correspond bien aux critères malgré une spécialisation computer vision plutôt que backend ou automatisation."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/whatsapp-sales-agent-mvp-aura",
+      "source": "freelancer",
+      "title": "WhatsApp AI Sales Agent MVP.Aura Courier MCP One unified connector for all Bangladesh courier logistics & Google Maps spatial intelligence. Book parcels, track shipments, and eliminate COD return risk in 1-click from Claude, Antigravity, Cursor, and n8n A",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/whatsapp-sales-agent-mvp-aura",
+      "budget": "$151",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Automation",
+        "AI Chatbot",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Model Development",
+        "AI Workflow Automation",
+        "API Integration",
+        "Chatbot Integration"
+      ],
+      "score": 76,
+      "reason": "Excellent alignement avec les agents IA, l’intégration API, WhatsApp, Shopify et les workflows LLM. Le brief est précis, mais le budget de 151 $ est manifestement disproportionné pour un agent commercial de bout en bout."
+    },
+    {
+      "id": "freelancer:/projects/telegram-api/build-telegram-printflow-business-system",
+      "source": "freelancer",
+      "title": "Build Telegram Printflow Business System",
+      "url": "https://www.freelancer.com/projects/telegram-api/build-telegram-printflow-business-system",
+      "budget": "$310",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "Java",
+        "Natural Language Processing",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Telegram API"
+      ],
+      "score": 72,
+      "reason": "Mission très alignée avec Python, API Telegram, automatisation et intégration LLM, avec un brief particulièrement détaillé et des critères d’acceptation clairs. Le budget de 310 $ est toutefois très faible au regard de l’architecture et du périmètre demandés."
+    },
+    {
+      "id": "freelancer:/projects/google-chrome/chrome-extension-for-saving-notes",
+      "source": "freelancer",
+      "title": "Chrome extension for saving notes",
+      "url": "https://www.freelancer.com/projects/google-chrome/chrome-extension-for-saving-notes",
+      "budget": "$300",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Google Chrome",
+        "HTML",
+        "JavaScript"
+      ],
+      "score": 71,
+      "reason": "Mission de développement claire, autonome et raisonnablement dimensionnée, en JavaScript avec Manifest V3 et stockage Chrome. Le budget de 300 $ est acceptable pour ce périmètre limité, même si le projet est moins complexe que les missions IA ou backend recherchées."
+    },
+    {
+      "id": "freelancer:/projects/financial-software-development/loan-service-platform-development",
+      "source": "freelancer",
+      "title": "Loan Service Platform Development",
+      "url": "https://www.freelancer.com/projects/financial-software-development/loan-service-platform-development",
+      "budget": "$3569",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Financial Software Development",
+        "FinTech",
+        "HTML",
+        "PHP",
+        "Software Architecture",
+        "User Interface / IA",
+        "Website Design"
+      ],
+      "score": 70,
+      "reason": "Projet de développement logiciel conséquent avec API, workflows, paiements et gestion sécurisée de données financières, pour un budget de 3 569 $. Le brief reste assez général et le domaine fintech implique des exigences réglementaires et de sécurité importantes."
+    },
+    {
+      "id": "freelancer:/projects/gpt-4/outreach-super-agent-development",
+      "source": "freelancer",
+      "title": "AI Outreach Super-Agent Development",
+      "url": "https://www.freelancer.com/projects/gpt-4/outreach-super-agent-development",
+      "budget": "$245",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Text-to-text",
+        "AI Workflow Automation",
+        "AI Writing",
+        "GPT-4"
+      ],
+      "score": 64,
+      "reason": "Projet très pertinent pour l’IA, le scraping, les intégrations et l’automatisation de prospection, avec un cahier des charges détaillé. Le budget de 245 $ et l’exigence de garantir 10 rendez-vous qualifiés rendent néanmoins la mission peu réaliste."
+    },
+    {
+      "id": "freelancer:/projects/flutter/offline-flutter-expense-tracker-app",
+      "source": "freelancer",
+      "title": "Offline Flutter Expense Tracker App",
+      "url": "https://www.freelancer.com/projects/flutter/offline-flutter-expense-tracker-app",
+      "budget": "$424",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Development",
+        "Dart",
+        "Flutter",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "SQLite"
+      ],
+      "score": 64,
+      "reason": "Application Flutter bien cadrée, avec stockage local, validation, export CSV et logique métier clairement définie, sans backend ni infrastructure. Le budget de 424 $ reste bas mais le périmètre est suffisamment limité pour rendre la mission envisageable, malgré une orientation mobile plutôt que backend."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/influencer-live-ama-platform",
+      "source": "freelancer",
+      "title": "AI Influencer Live AMA Platform",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/influencer-live-ama-platform",
+      "budget": "$788",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Code Review",
+        "AI Development",
+        "AI Model Integration",
+        "AI Text-to-speech",
+        "AI Video",
+        "AI Voice Agents",
+        "Animation",
+        "Audio Services",
+        "Video Services"
+      ],
+      "score": 63,
+      "reason": "Projet techniquement intéressant autour de la voix, du LLM, du streaming temps réel et de l’intégration vidéo. Le périmètre est très ambitieux et le budget de 788 $ est insuffisant pour atteindre les contraintes de latence, de lip-sync et de robustesse."
+    },
+    {
+      "id": "freelancer:/projects/api/hotel-housekeeping-automation",
+      "source": "freelancer",
+      "title": "Hotel Housekeeping Automation",
+      "url": "https://www.freelancer.com/projects/api/hotel-housekeeping-automation",
+      "budget": "$232",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "App Development",
+        "Cloud Computing",
+        "HTML",
+        "MySQL",
+        "PHP",
+        "Project Management",
+        "Software Architecture"
+      ],
+      "score": 58,
+      "reason": "Mission pertinente en automatisation métier, API et développement logiciel, avec un besoin fonctionnel assez clair et évolutif. Le budget de 232 $ est toutefois beaucoup trop bas pour un système de planning, checklist, inventaire et intégration PMS."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/chatbot-character-development",
+      "source": "freelancer",
+      "title": "AI Chatbot Character Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/chatbot-character-development",
+      "budget": "$3662",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Development",
+        "AI Integration",
+        "AI Voice Agents",
+        "Conversational AI",
+        "Social Media Marketing"
+      ],
+      "score": 57,
+      "reason": "Le sujet relève bien du développement IA et chatbot, avec un budget annoncé élevé. Cependant, le brief reste très vague sur les plateformes, les flux techniques et les livrables, ce qui augmente fortement le risque de cadrage."
+    },
+    {
+      "id": "freelancer:/projects/ai-image-generation/product-image-generator",
+      "source": "freelancer",
+      "title": "AI Product Image Generator",
+      "url": "https://www.freelancer.com/projects/ai-image-generation/product-image-generator",
+      "budget": "$225",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Image Generation",
+        "Graphic Design",
+        "Illustrator",
+        "Photoshop",
+        "Photoshop Design",
+        "Stable Diffusion",
+        "Web Development"
+      ],
+      "score": 57,
+      "reason": "Bon alignement avec l’IA et le développement d’un pipeline applicatif intégrant génération d’images, stockage et interface web. Le périmètre est important et le budget de 225 $ est très faible, avec en plus une forte composante graphique."
+    },
+    {
+      "id": "freelancer:/projects/flutter/flutter-react-booking-management-app",
+      "source": "freelancer",
+      "title": "Flutter/React Booking & Management App Build",
+      "url": "https://www.freelancer.com/projects/flutter/flutter-react-booking-management-app",
+      "budget": "$597",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Flutter",
+        "iPhone",
+        "Mobile App Development",
+        "Node.js",
+        "PhoneGap",
+        "React Native",
+        "REST API"
+      ],
+      "score": 50,
+      "reason": "Le projet inclut un backend Node.js ou Python, des API REST, paiements, notifications et gestion des rôles, donc plusieurs éléments recherchés. Le périmètre mobile est cependant très large pour seulement 597 $, avec une forte composante frontend et déploiement."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/career-skills-lesson-builder",
+      "source": "freelancer",
+      "title": "Career Skills Lesson Builder",
+      "url": "https://www.freelancer.com/projects/frontend-development/career-skills-lesson-builder",
+      "budget": "$241",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "Laravel",
+        "Node.js",
+        "PHP",
+        "Vue.js"
+      ],
+      "score": 48,
+      "reason": "Le projet inclut un backend, le suivi de progression, une administration et une logique de quiz, avec des technologies compatibles Node.js ou PHP. Il est cependant principalement orienté plateforme web/frontend et le budget de 241 $ est très faible pour le périmètre."
+    },
+    {
+      "id": "freelancer:/projects/web-development/plataforma-internacional-gesti",
+      "source": "freelancer",
+      "title": "Plataforma Internacional de Gestión Documental",
+      "url": "https://www.freelancer.com/projects/web-development/plataforma-internacional-gesti",
+      "budget": "$383",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Database Management",
+        "Frontend Development",
+        "Web Application",
+        "Web Design",
+        "Web Development",
+        "Web Security"
+      ],
+      "score": 47,
+      "reason": "Plateforme web applicative avec gestion documentaire, rôles, paiements, notifications et stockage sécurisé : le contenu technique est réel et assez bien spécifié. Le budget de 383 $ est néanmoins très insuffisant pour cette marketplace de gestion de dossiers, et le projet est largement orienté web généraliste."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/uae-tyre-commerce-platform-development",
+      "source": "freelancer",
+      "title": "UAE Tyre E-Commerce Platform Development -- 2",
+      "url": "https://www.freelancer.com/projects/api-integration/uae-tyre-commerce-platform-development",
+      "budget": "$6508",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "eCommerce",
+        "HTML",
+        "Shopping Cart Integration",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 43,
+      "reason": "Le projet comporte des intégrations API, des automatisations, des tableaux de bord et une logique métier avancée, avec un budget de 6 508 $. Il reste toutefois principalement centré sur WordPress/WooCommerce, le e-commerce et de nombreuses fonctions frontend, hors préférence principale."
+    },
+    {
+      "id": "freelancer:/projects/rendering/custom-product-viewer-for-shopify",
+      "source": "freelancer",
+      "title": "Custom 3D product viewer for a Shopify furniture store",
+      "url": "https://www.freelancer.com/projects/rendering/custom-product-viewer-for-shopify",
+      "budget": "$141",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Modelling",
+        "3D Rendering",
+        "HTML",
+        "JavaScript",
+        "OpenGL",
+        "Shopify",
+        "Shopify Development",
+        "Shopify Templates",
+        "Three.js"
+      ],
+      "score": 43,
+      "reason": "La mission demande du JavaScript/Three.js et une intégration Shopify permettant une gestion sans code, ce qui constitue un développement technique réel. Elle reste toutefois très spécialisée en 3D et le budget de 141 $ est extrêmement bas."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/industrial-iot-machine-monitoring-system",
+      "source": "freelancer",
+      "title": "Industrial IoT Machine Monitoring System",
+      "url": "https://www.freelancer.com/projects/api-integration/industrial-iot-machine-monitoring-system",
+      "budget": "$429",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Cloud Computing",
+        "Data Analysis",
+        "Electrical Engineering",
+        "Embedded Systems",
+        "Firmware Development",
+        "Manufacturing",
+        "Procurement"
+      ],
+      "score": 38,
+      "reason": "La mission comporte de l’intégration API et du développement firmware, mais elle est principalement orientée matériel, installation industrielle et électronique. Le budget de 429 $ est en outre très faible pour une solution de bout en bout sur neuf machines."
+    },
+    {
+      "id": "freelancer:/projects/woocommerce/uae-tyre-commerce-platform-development",
+      "source": "freelancer",
+      "title": "UAE Tyre E-Commerce Platform Development",
+      "url": "https://www.freelancer.com/projects/woocommerce/uae-tyre-commerce-platform-development",
+      "budget": "$1033",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "eCommerce",
+        "HTML",
+        "Mobile App Development",
+        "Shopping Cart Integration",
+        "Web Development",
+        "Website Design",
+        "WooCommerce"
+      ],
+      "score": 36,
+      "reason": "Il existe une part de développement custom, d’intégration API et d’automatisation, mais la mission est essentiellement un très gros projet WordPress/WooCommerce et e-commerce. Le budget de 1 033 $ est faible pour ce périmètre et l’adéquation aux critères est limitée."
+    },
+    {
+      "id": "freelancer:/projects/desktop-application/custom-desktop-tool-development",
+      "source": "freelancer",
+      "title": "Custom Desktop Tool Development",
+      "url": "https://www.freelancer.com/projects/desktop-application/custom-desktop-tool-development",
+      "budget": "$150",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "Desktop Application",
+        "Java",
+        "JavaScript",
+        "Software Architecture",
+        "Software Development",
+        "Testing / QA",
+        "UI / User Interface"
+      ],
+      "score": 35,
+      "reason": "Il s’agit bien de développement logiciel avec tests et packaging, mais le besoin fonctionnel est presque entièrement à définir. Le budget de 150 $ est trop faible et les technologies proposées sont générales, sans préférence marquée pour Python, Node ou l’IA."
+    },
+    {
+      "id": "codeur:492349",
+      "source": "codeur",
+      "title": "Application de relance prospects par sms et message vocaux IA",
+      "url": "https://www.codeur.com/projects/492349-application-de-relance-prospects-par-sms-et-message-vocaux-ia",
+      "budget": "500 € à 1 000 €",
+      "offers": 117,
+      "views": "4823 Vues",
+      "tags": [
+        "Développement spécifique",
+        "Logiciel",
+        "Téléphonie et Télécom"
+      ],
+      "score": 34,
+      "reason": "Le sujet est pertinent pour l’automatisation SMS, la téléphonie et l’IA vocale, mais le budget de 500 à 1 000 € reste limité pour les contraintes liées au numéro mobile et aux messages vocaux. Les 117 offres dépassent largement le seuil de concurrence acceptable."
+    }
+  ]
+}
