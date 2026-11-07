@@ -1,0 +1,407 @@
+{
+  "generated_at": "2026-11-07T11:27:41.701084+00:00",
+  "new_listings_scanned": 310,
+  "missions": [
+    {
+      "id": "freelancer:/projects/postgresql/smart-commerce-website-with-product",
+      "source": "freelancer",
+      "title": "Smart E-Commerce Website with AI Product Recommendations",
+      "url": "https://www.freelancer.com/projects/postgresql/smart-commerce-website-with-product",
+      "budget": "$806",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Content Creation",
+        "AI Model Development",
+        "Backend Development",
+        "Frontend Development",
+        "Next.js",
+        "PostgreSQL",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 82,
+      "reason": "Projet bien défini, doté d’un budget annoncé de 5 000 $, avec développement web, PostgreSQL, backend/frontend et recommandations IA. Il correspond bien aux critères malgré un périmètre e-commerce conséquent et une préférence IA moins orientée LLM."
+    },
+    {
+      "id": "freelancer:/projects/nodejs/build-google-review-reply-app",
+      "source": "freelancer",
+      "title": "Build AI Google Review Reply App",
+      "url": "https://www.freelancer.com/projects/nodejs/build-google-review-reply-app",
+      "budget": "$621",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "iPhone",
+        "Java",
+        "Mobile App Development",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Typescript"
+      ],
+      "score": 78,
+      "reason": "Très bon alignement avec l’IA appliquée, les intégrations OpenAI/Claude/Gemini, Google OAuth et le développement Node.js/TypeScript. Le brief est clair, mais le budget de 621 $ est largement sous-dimensionné pour une application mobile et desktop complète."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-secure-multi-firm-client",
+      "source": "freelancer",
+      "title": "Build a secure multi-firm client management web app (Apex CRM pilot MVP) -- 2",
+      "url": "https://www.freelancer.com/projects/web-development/build-secure-multi-firm-client",
+      "budget": "$484",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Database Development",
+        "Frontend Development",
+        "JavaScript",
+        "Security",
+        "Web Development"
+      ],
+      "score": 78,
+      "reason": "MVP backend/web bien cadré, avec authentification, isolation multi-tenant, rôles, audit et exigences de sécurité explicites. La stack est compatible avec du développement applicatif, mais le budget affiché de 484 $ reste faible malgré un plafond annoncé de 1 200 AUD dans le brief."
+    },
+    {
+      "id": "freelancer:/projects/web-application/secure-multi-firm-crm-mvp",
+      "source": "freelancer",
+      "title": "Secure Multi-Firm CRM MVP",
+      "url": "https://www.freelancer.com/projects/web-application/secure-multi-firm-crm-mvp",
+      "budget": "$448",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "HTML",
+        "Laravel",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Software Architecture",
+        "Web Application"
+      ],
+      "score": 76,
+      "reason": "Mission de développement logiciel claire et pertinente, centrée sur un CRM multi-tenant sécurisé avec API, CRUD, tests et séparation stricte des données. Le budget de 448 $ est bas et la demande de performance à 100 000 enregistrements ajoute du risque."
+    },
+    {
+      "id": "freelancer:/projects/web-application/secure-multi-firm-crm-mvp",
+      "source": "freelancer",
+      "title": "Secure Multi-Firm CRM MVP",
+      "url": "https://www.freelancer.com/projects/web-application/secure-multi-firm-crm-mvp",
+      "budget": "$448",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "HTML",
+        "Laravel",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Software Architecture",
+        "Web Application"
+      ],
+      "score": 76,
+      "reason": "Mission de développement logiciel claire et pertinente, centrée sur un CRM multi-tenant sécurisé avec API, CRUD, tests et séparation stricte des données. Le budget de 448 $ est bas et la demande de performance à 100 000 enregistrements ajoute du risque."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/micro-investing-app-with-dhan",
+      "source": "freelancer",
+      "title": "Micro-Investing App",
+      "url": "https://www.freelancer.com/projects/api-developmet/micro-investing-app-with-dhan",
+      "budget": "$653",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "FinTech",
+        "JavaScript",
+        "Mobile App Development",
+        "Node.js",
+        "PHP",
+        "PostgreSQL",
+        "Software Architecture"
+      ],
+      "score": 74,
+      "reason": "Projet backend/API riche et clairement spécifié, avec intégrations broker, paiements, webhooks, notifications et automatisations Node.js/TypeScript. Le périmètre est très vaste pour 653 $, avec en plus une application mobile, un back-office et des contraintes fintech sensibles."
+    },
+    {
+      "id": "freelancer:/projects/amazon-web-services/senior-aws-serverless-developer-kiro",
+      "source": "freelancer",
+      "title": "Senior AWS Serverless Developer (Kiro experience required) to build an AI agent platform, paid per milestone",
+      "url": "https://www.freelancer.com/projects/amazon-web-services/senior-aws-serverless-developer-kiro",
+      "budget": "$751",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon Web Services",
+        "Artificial Intelligence",
+        "AWS Lambda",
+        "CI/CD",
+        "DevOps",
+        "Git",
+        "Microservices",
+        "Node.js",
+        "NoSQL",
+        "Typescript"
+      ],
+      "score": 72,
+      "reason": "Mission très pertinente sur le plan technique : plateforme d’agents IA, Bedrock, Node.js/TypeScript et endpoints testés avec un brief particulièrement détaillé. Le budget de 749 $ paraît toutefois faible et la composante AWS/serverless, CI/CD et infrastructure est importante."
+    },
+    {
+      "id": "freelancer:/projects/amazon-web-services/senior-aws-serverless-developer-kiro",
+      "source": "freelancer",
+      "title": "Senior AWS Serverless Developer (Kiro experience required) to build an AI agent platform, paid per milestone",
+      "url": "https://www.freelancer.com/projects/amazon-web-services/senior-aws-serverless-developer-kiro",
+      "budget": "$749",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon Web Services",
+        "Artificial Intelligence",
+        "AWS Lambda",
+        "CI/CD",
+        "DevOps",
+        "Git",
+        "Microservices",
+        "Node.js",
+        "NoSQL",
+        "Typescript"
+      ],
+      "score": 72,
+      "reason": "Mission très pertinente sur le plan technique : plateforme d’agents IA, Bedrock, Node.js/TypeScript et endpoints testés avec un brief particulièrement détaillé. Le budget de 749 $ paraît toutefois faible et la composante AWS/serverless, CI/CD et infrastructure est importante."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/pharmacy-stock-management-system",
+      "source": "freelancer",
+      "title": "AI-ML Pharmacy Stock Management System -- 2",
+      "url": "https://www.freelancer.com/projects/machine-learning/pharmacy-stock-management-system",
+      "budget": "$506",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "Machine Learning (ML)",
+        "PHP",
+        "PostgreSQL",
+        "Python",
+        "Pytorch",
+        "Software Architecture",
+        "Tensorflow"
+      ],
+      "score": 68,
+      "reason": "Projet intéressant en Python, Django et machine learning, avec un besoin fonctionnel et des critères d’acceptation détaillés. Le périmètre combine plateforme métier, modèles ML, dashboard et application mobile pour seulement 506 $, ce qui le rend peu réaliste."
+    },
+    {
+      "id": "freelancer:/projects/software-development/build-rental-property-management",
+      "source": "freelancer",
+      "title": "Build Rental Property Management Platform",
+      "url": "https://www.freelancer.com/projects/software-development/build-rental-property-management",
+      "budget": "$1068",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Software Development",
+        "Website Design",
+        "Website Management"
+      ],
+      "score": 65,
+      "reason": "Le SRS est détaillé et couvre un véritable développement applicatif avec rôles, workflows, paiements, reporting et automatisations. Le budget de 1 068 $ est très faible pour un périmètre aussi vaste et l’absence de stack précise ajoute une incertitude importante."
+    },
+    {
+      "id": "freelancer:/projects/automation/scalable-business-automation",
+      "source": "freelancer",
+      "title": "Scalable AI Business OS Automation",
+      "url": "https://www.freelancer.com/projects/automation/scalable-business-automation",
+      "budget": "$289",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "Automation",
+        "CRM",
+        "GoHighLevel",
+        "HTML",
+        "PHP",
+        "Software Architecture",
+        "Website Design"
+      ],
+      "score": 63,
+      "reason": "Bonne adéquation avec l’automatisation, les intégrations IA, n8n, CRM, paiements et déploiement reproductible multi-clients. Le brief est ambitieux mais le budget est volontairement très contraint et le projet dépend fortement de plateformes configurées plutôt que de développement applicatif pur."
+    },
+    {
+      "id": "freelancer:/projects/dot-net/update-legacy-software-for-windows",
+      "source": "freelancer",
+      "title": "Update Legacy Software for Windows 10",
+      "url": "https://www.freelancer.com/projects/dot-net/update-legacy-software-for-windows",
+      "budget": "$1000",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "API Integration",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Software Testing",
+        "Visual Studio",
+        "Windows Desktop"
+      ],
+      "score": 62,
+      "reason": "Mission de développement et maintenance logicielle clairement définie, avec un budget de 1 000 $ et un objectif concret de compatibilité Windows. Elle est toutefois centrée sur .NET/Windows plutôt que Python, Node.js, IA ou automatisation, et l’effort réel de reprise du legacy est incertain."
+    },
+    {
+      "id": "freelancer:/projects/web-development/dual-user-job-search-website",
+      "source": "freelancer",
+      "title": "Dual-User Job-Search Website",
+      "url": "https://www.freelancer.com/projects/web-development/dual-user-job-search-website",
+      "budget": "$408",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "Frontend Development",
+        "Laravel",
+        "Node.js",
+        "PHP",
+        "Python",
+        "React.js",
+        "Web Development"
+      ],
+      "score": 58,
+      "reason": "Le brief décrit un produit web fonctionnel avec authentification, dashboards, upload et back-office, compatible avec Django ou Node.js. Le budget de 408 $ est toutefois faible pour une plateforme complète et le projet ne présente pas de dimension IA ou automatisation particulière."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/android-only-mobile-app-development",
+      "source": "freelancer",
+      "title": "Android-Only Mobile App Development",
+      "url": "https://www.freelancer.com/projects/android-app-development/android-only-mobile-app-development",
+      "budget": "$1730",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android App Development",
+        "Android SDK",
+        "Java",
+        "Kotlin",
+        "Mobile App Development",
+        "Mobile Development",
+        "PhoneGap"
+      ],
+      "score": 58,
+      "reason": "Le budget de 1 730 $ est plus cohérent et la mission demande une vraie application Android avec architecture, tests et publication. En revanche, le besoin fonctionnel est encore indéfini et le projet est principalement du développement mobile natif, hors des priorités Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/inventory-management/optimize-commerce-inventory-operations",
+      "source": "freelancer",
+      "title": "Optimize E-Commerce Inventory Operations",
+      "url": "https://www.freelancer.com/projects/inventory-management/optimize-commerce-inventory-operations",
+      "budget": "$409",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon",
+        "API Integration",
+        "Data Analysis",
+        "Data Integration",
+        "ERP",
+        "Inventory Management",
+        "Shopify",
+        "Workflow Automation"
+      ],
+      "score": 55,
+      "reason": "Le projet implique des intégrations API, de la synchronisation de données et de l’automatisation entre Shopify, Amazon et un ERP. Il mélange cependant analyse, procédures et configuration d’outils, avec un budget de 409 $, plutôt que de proposer un périmètre clair de code applicatif."
+    },
+    {
+      "id": "freelancer:/projects/debugging/app-crash-diagnosis-repair",
+      "source": "freelancer",
+      "title": "App Crash Diagnosis and Repair",
+      "url": "https://www.freelancer.com/projects/debugging/app-crash-diagnosis-repair",
+      "budget": "$211",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "C# Programming",
+        "Debugging",
+        "Desktop Application",
+        "Java",
+        "Mobile App Development",
+        "Software Development"
+      ],
+      "score": 49,
+      "reason": "Le besoin est concret et le diagnostic logiciel peut constituer une petite mission technique bien délimitée. Néanmoins, la stack n’est pas précisée, le budget de 211 $ est bas et la mission est davantage du dépannage ponctuel que du développement backend/API recherché."
+    },
+    {
+      "id": "freelancer:/projects/sap/sap-instant-bidding-tool-development",
+      "source": "freelancer",
+      "title": "SAP Instant Bidding Tool Development",
+      "url": "https://www.freelancer.com/projects/sap/sap-instant-bidding-tool-development",
+      "budget": "$245",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "API",
+        "Automation",
+        "C# Programming",
+        "Java",
+        "PHP",
+        "Python",
+        "SAP",
+        "Selenium",
+        "Software Architecture"
+      ],
+      "score": 48,
+      "reason": "Il s’agit bien d’une automatisation technique avec API ou Python/Selenium et un besoin fonctionnel précis. Cependant, le budget de 245 $ est très faible, le périmètre vise un outil de bidding extrêmement sensible à la latence et la gestion de CAPTCHA peut poser des problèmes de conformité."
+    },
+    {
+      "id": "freelancer:/projects/web-development/freelance-web-developer-for-ongoing-40807168",
+      "source": "freelancer",
+      "title": "Freelance Web Developer for Ongoing Work",
+      "url": "https://www.freelancer.com/projects/web-development/freelance-web-developer-for-ongoing-40807168",
+      "budget": "$376",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Web Development"
+      ],
+      "score": 45,
+      "reason": "La mission couvre du développement web, des API et potentiellement Python ou Node.js, mais le brief est générique et ne décrit aucun besoin technique concret. Le budget de 376 $ et l’absence de périmètre précis la rendent peu attractive."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-moving-marketplace-website",
+      "source": "freelancer",
+      "title": "Build Moving Marketplace website",
+      "url": "https://www.freelancer.com/projects/web-development/build-moving-marketplace-website",
+      "budget": "$595",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Integration",
+        "API Integration",
+        "Web Development",
+        "Zoho Creator"
+      ],
+      "score": 42,
+      "reason": "Le projet contient des éléments intéressants d’IA, d’automatisation, d’API, de paiement et de logique d’enchères, avec un cahier des charges détaillé. Il repose toutefois sur Bubble ou Zoho Creator, couvre un périmètre énorme pour 595 $ et relève largement du no-code/configuration."
+    },
+    {
+      "id": "freelancer:/projects/flutter/freelance-flutter-developer-for-ongoing-40807119",
+      "source": "freelancer",
+      "title": "Freelance Flutter Developer for Ongoing Work",
+      "url": "https://www.freelancer.com/projects/flutter/freelance-flutter-developer-for-ongoing-40807119",
+      "budget": "$370",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Flutter"
+      ],
+      "score": 40,
+      "reason": "Le développement mobile et les intégrations API sont pertinents, mais l’annonce reste très vague sur le produit, les fonctionnalités et les livrables. Le budget de 370 $ est faible et Flutter ne correspond pas aux technologies privilégiées."
+    }
+  ]
+}
