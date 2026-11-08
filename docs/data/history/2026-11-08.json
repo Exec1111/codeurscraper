@@ -1,0 +1,432 @@
+{
+  "generated_at": "2026-11-08T11:39:37.246821+00:00",
+  "new_listings_scanned": 307,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-integration/full-stack-team-for-multiseller",
+      "source": "freelancer",
+      "title": "Full-Stack Team for Multiseller SaaS",
+      "url": "https://www.freelancer.com/projects/api-integration/full-stack-team-for-multiseller",
+      "budget": "$2061",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Full Stack Development",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "SaaS Development",
+        "Supabase",
+        "Typescript"
+      ],
+      "score": 78,
+      "reason": "Mission très pertinente en Node.js/TypeScript, intégrations API, automatisation et SaaS multi-tenant, avec un brief structuré et un budget supérieur à 2 000 $. Le périmètre est toutefois extrêmement large pour ce budget et les spécifications détaillées ne sont accessibles qu’après sélection."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/full-stack-team-for-multiseller",
+      "source": "freelancer",
+      "title": "Full-Stack Team for Multiseller SaaS",
+      "url": "https://www.freelancer.com/projects/api-integration/full-stack-team-for-multiseller",
+      "budget": "$2061",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Full Stack Development",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "SaaS Development",
+        "Supabase",
+        "Typescript"
+      ],
+      "score": 78,
+      "reason": "Mission très pertinente en Node.js/TypeScript, intégrations API, automatisation et SaaS multi-tenant, avec un brief structuré et un budget supérieur à 2 000 $. Le périmètre est toutefois extrêmement large pour ce budget et les spécifications détaillées ne sont accessibles qu’après sélection."
+    },
+    {
+      "id": "freelancer:/projects/scripting/pdf-cleanup-text-extraction",
+      "source": "freelancer",
+      "title": "PDF Cleanup & Text Extraction",
+      "url": "https://www.freelancer.com/projects/scripting/pdf-cleanup-text-extraction",
+      "budget": "$386",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Editing",
+        "LaTeX",
+        "Programming",
+        "Python",
+        "Regular Expressions",
+        "Scripting",
+        "Software Architecture"
+      ],
+      "score": 72,
+      "reason": "Petit projet Python d’automatisation avec un brief précis, des critères d’acceptation clairs et un livrable facilement reproductible. Le budget est faible mais peut rester cohérent si le volume de PDF est limité."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/crew-fatigue-illness-predictor",
+      "source": "freelancer",
+      "title": "Crew Fatigue & Illness Predictor",
+      "url": "https://www.freelancer.com/projects/data-analysis/crew-fatigue-illness-predictor",
+      "budget": "$111",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Deep Learning",
+        "Machine Learning (ML)",
+        "Model Evaluation",
+        "Predictive Analytics",
+        "Python",
+        "R Programming Language",
+        "REST API",
+        "Software Architecture",
+        "Time Series Analysis"
+      ],
+      "score": 64,
+      "reason": "Mission techniquement intéressante en Python, machine learning, explicabilité SHAP et API REST, avec un besoin bien défini. Le budget de 111 $ est cependant très insuffisant pour un modèle fiable sur des données de santé et de planification."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-aws-demo-agent",
+      "source": "freelancer",
+      "title": "Build AWS AI Demo Agent",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-aws-demo-agent",
+      "budget": "$446",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Development",
+        "Full Stack Development"
+      ],
+      "score": 62,
+      "reason": "Projet IA/LLM très aligné avec les critères, combinant agent vocal, RAG, intégrations CRM et traitement de contenu. Le budget de 446 $ est totalement disproportionné pour un pilote de 10 à 14 semaines, et la mission comporte une forte part de déploiement et d’infrastructure AWS."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-aws-demo-agent",
+      "source": "freelancer",
+      "title": "Build AWS AI Demo Agent",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-aws-demo-agent",
+      "budget": "$446",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Development",
+        "Full Stack Development"
+      ],
+      "score": 62,
+      "reason": "Projet IA/LLM très aligné avec les critères, combinant agent vocal, RAG, intégrations CRM et traitement de contenu. Le budget de 446 $ est totalement disproportionné pour un pilote de 10 à 14 semaines, et la mission comporte une forte part de déploiement et d’infrastructure AWS."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/hotel-points-optimizer-assistant",
+      "source": "freelancer",
+      "title": "Hotel Points Optimizer Assistant",
+      "url": "https://www.freelancer.com/projects/api-developmet/hotel-points-optimizer-assistant",
+      "budget": "$420",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Data Analysis",
+        "Data Visualization",
+        "Flask",
+        "Node.js",
+        "Python",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 61,
+      "reason": "Bon projet de développement Python/Flask ou Node avec moteur de calcul, données configurables, tests et interface claire. La récupération fiable des taux, promotions et bonus actuels est néanmoins sous-spécifiée, pour un budget assez limité de 420 $."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/vidulearn",
+      "source": "freelancer",
+      "title": "ViduLearn",
+      "url": "https://www.freelancer.com/projects/full-stack-development/vidulearn",
+      "budget": "$1509",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Full Stack Development",
+        "HTML",
+        "JavaScript",
+        "Laravel",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Vue.js",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 59,
+      "reason": "Mission de développement full-stack custom bien décrite, avec streaming sécurisé, rôles, paiements et administration, et un budget supérieur à 1 500 $. Le périmètre d’une plateforme LMS complète est toutefois très important et ne cible pas particulièrement Python, API, automatisation ou IA."
+    },
+    {
+      "id": "freelancer:/projects/flutter/develop-cross-platform-cricket-app",
+      "source": "freelancer",
+      "title": "Develop a Cross-Platform Cricket App Similar to Criclive.in Website",
+      "url": "https://www.freelancer.com/projects/flutter/develop-cross-platform-cricket-app",
+      "budget": "$6982",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "Backend Development",
+        "Flutter",
+        "iOS",
+        "Mobile App Development",
+        "PHP",
+        "React Native",
+        "UI / User Interface",
+        "Website Design"
+      ],
+      "score": 57,
+      "reason": "Projet applicatif complet avec API temps réel, backend, dashboard, notifications et mobile Flutter/React Native, doté d’un budget élevé de 6 982 $. Le périmètre est très large et davantage orienté mobile généraliste que backend, automatisation ou IA."
+    },
+    {
+      "id": "freelancer:/projects/web-development/custom-intake-form-development",
+      "source": "freelancer",
+      "title": "Custom DS-160 Intake Form Development",
+      "url": "https://www.freelancer.com/projects/web-development/custom-intake-form-development",
+      "budget": "$130",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "OCR",
+        "PHP",
+        "Vue.js",
+        "Web Development"
+      ],
+      "score": 47,
+      "reason": "Le besoin comporte du développement applicatif réel, de l’OCR, un backend sécurisé et des exports, avec un brief assez précis. Le budget de 130 $ est très insuffisant pour gérer correctement données sensibles, authentification, stockage chiffré et OCR bilingue."
+    },
+    {
+      "id": "freelancer:/projects/machine-learning/crew-fatigue-sickness-predictor",
+      "source": "freelancer",
+      "title": "ML Crew Fatigue & Sickness Predictor",
+      "url": "https://www.freelancer.com/projects/machine-learning/crew-fatigue-sickness-predictor",
+      "budget": "$564",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Model Development",
+        "AI Training Data",
+        "AI Workflow Automation",
+        "Data Analysis",
+        "Data Integration",
+        "Data Modeling",
+        "Data Science",
+        "Machine Learning (ML)",
+        "Predictive Analytics",
+        "Web Application"
+      ],
+      "score": 45,
+      "reason": "Le sujet ML et l’analyse prédictive correspondent aux critères, mais le brief reste vague sur les données, les livrables techniques et l’évaluation. Le budget de 564 $ est bas pour intégrer des données de santé et produire un système exploitable."
+    },
+    {
+      "id": "freelancer:/projects/computer-vision/suggets-improvements-deploy-scalable",
+      "source": "freelancer",
+      "title": "Suggets Improvements & Deploy Scalable Edge AI Safety Pipeline",
+      "url": "https://www.freelancer.com/projects/computer-vision/suggets-improvements-deploy-scalable",
+      "budget": "$531",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Computer Vision",
+        "Docker",
+        "Edge Computing",
+        "Linux",
+        "OpenCV",
+        "PostgreSQL",
+        "Privacy Compliance",
+        "Python",
+        "REST API",
+        "Video Streaming"
+      ],
+      "score": 43,
+      "reason": "Le projet contient du vrai développement Python/CV et des intégrations REST, mais il est principalement centré sur le déploiement edge, Docker, matériel GPU, flux vidéo et exploitation. Le budget de 531 $ est très faible au regard de la complexité et du périmètre multi-caméras."
+    },
+    {
+      "id": "freelancer:/projects/web-development/interactive-digital-museum-exhibit",
+      "source": "freelancer",
+      "title": "Interactive Digital Museum Exhibit",
+      "url": "https://www.freelancer.com/projects/web-development/interactive-digital-museum-exhibit",
+      "budget": "$427",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Design",
+        "C# Programming",
+        "HTML5",
+        "JavaScript",
+        "PHP",
+        "Three.js",
+        "Unity",
+        "Web Development"
+      ],
+      "score": 39,
+      "reason": "Le projet demande du développement WebGL/Three.js ou Unity, des intégrations LMS SCORM/xAPI et des tests multiplateformes. Il est cependant très orienté expérience visuelle/3D, avec un budget de seulement 423 $ pour un périmètre conséquent."
+    },
+    {
+      "id": "freelancer:/projects/web-development/interactive-digital-museum-exhibit",
+      "source": "freelancer",
+      "title": "Interactive Digital Museum Exhibit",
+      "url": "https://www.freelancer.com/projects/web-development/interactive-digital-museum-exhibit",
+      "budget": "$423",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Design",
+        "C# Programming",
+        "HTML5",
+        "JavaScript",
+        "PHP",
+        "Three.js",
+        "Unity",
+        "Web Development"
+      ],
+      "score": 39,
+      "reason": "Le projet demande du développement WebGL/Three.js ou Unity, des intégrations LMS SCORM/xAPI et des tests multiplateformes. Il est cependant très orienté expérience visuelle/3D, avec un budget de seulement 423 $ pour un périmètre conséquent."
+    },
+    {
+      "id": "freelancer:/projects/php/meeting-room-booking-website-php",
+      "source": "freelancer",
+      "title": "Meeting Room Booking Website (PHP + MySQL, English & Serbian)",
+      "url": "https://www.freelancer.com/projects/php/meeting-room-booking-website-php",
+      "budget": "$158",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "cPanel",
+        "CSS",
+        "Database Management",
+        "Email Handling",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 36,
+      "reason": "Le brief est exceptionnellement clair et contient du vrai développement backend, des règles métier, des emails et une gestion de concurrence. Le budget de 158 $ est néanmoins trop bas pour un système sécurisé bilingue avec administration et installation."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/stake-betting-analytics-dashboard",
+      "source": "freelancer",
+      "title": "Stake Betting Analytics Dashboard",
+      "url": "https://www.freelancer.com/projects/api-developmet/stake-betting-analytics-dashboard",
+      "budget": "$243",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Data Visualization",
+        "JavaScript",
+        "jQuery / Prototype",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Python"
+      ],
+      "score": 35,
+      "reason": "Le projet implique une intégration API, un backend Python/Node et un dashboard de données bien spécifié. Il reste toutefois lié au secteur des paris, son budget est faible et la pertinence est moindre que pour une mission d’automatisation ou d’IA générale."
+    },
+    {
+      "id": "freelancer:/projects/web-development/html-page-bug-fixes",
+      "source": "freelancer",
+      "title": "HTML Page Bug Fixes",
+      "url": "https://www.freelancer.com/projects/web-development/html-page-bug-fixes",
+      "budget": "$69",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Debugging",
+        "Frontend Development",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "Web Design",
+        "Web Development"
+      ],
+      "score": 30,
+      "reason": "Mission de correction HTML/CSS concrète et potentiellement rapide, mais très éloignée des domaines privilégiés et sans travail backend, API ou automatisation significatif. Le budget est faible mais peut être cohérent si le problème est réellement limité à une page."
+    },
+    {
+      "id": "freelancer:/projects/web-development/html-page-bug-fixes",
+      "source": "freelancer",
+      "title": "HTML Page Bug Fixes",
+      "url": "https://www.freelancer.com/projects/web-development/html-page-bug-fixes",
+      "budget": "$70",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Debugging",
+        "Frontend Development",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "Web Design",
+        "Web Development"
+      ],
+      "score": 30,
+      "reason": "Mission de correction HTML/CSS concrète et potentiellement rapide, mais très éloignée des domaines privilégiés et sans travail backend, API ou automatisation significatif. Le budget est faible mais peut être cohérent si le problème est réellement limité à une page."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/robotics-developer-autonomous-agent",
+      "source": "freelancer",
+      "title": "AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)",
+      "url": "https://www.freelancer.com/projects/ai-agents/robotics-developer-autonomous-agent",
+      "budget": "$21",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Development",
+        "Autonomous AI",
+        "Computer Vision",
+        "Deep Learning",
+        "Large Language Models (LLMs)",
+        "Machine Learning (ML)",
+        "Natural Language Processing",
+        "Reinforcement Learning",
+        "Robotics"
+      ],
+      "score": 28,
+      "reason": "Le projet est fortement orienté IA locale, LLM, mémoire et robotique, mais son périmètre est gigantesque et mêle logiciel temps réel, vision, audio, ROS2 et contrôle matériel. Le budget annoncé de 21 $ rend la mission irréaliste et constitue un signal très défavorable."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/robotics-developer-autonomous-agent",
+      "source": "freelancer",
+      "title": "AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)",
+      "url": "https://www.freelancer.com/projects/ai-agents/robotics-developer-autonomous-agent",
+      "budget": "$21",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Development",
+        "Autonomous AI",
+        "Computer Vision",
+        "Deep Learning",
+        "Large Language Models (LLMs)",
+        "Machine Learning (ML)",
+        "Natural Language Processing",
+        "Reinforcement Learning",
+        "Robotics"
+      ],
+      "score": 28,
+      "reason": "Le projet est fortement orienté IA locale, LLM, mémoire et robotique, mais son périmètre est gigantesque et mêle logiciel temps réel, vision, audio, ROS2 et contrôle matériel. Le budget annoncé de 21 $ rend la mission irréaliste et constitue un signal très défavorable."
+    }
+  ]
+}
