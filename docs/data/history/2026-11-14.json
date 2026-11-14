@@ -1,0 +1,401 @@
+{
+  "generated_at": "2026-11-14T11:54:34.604805+00:00",
+  "new_listings_scanned": 339,
+  "missions": [
+    {
+      "id": "freelancer:/projects/nextjs/full-stack-developer-next-nestjs",
+      "source": "freelancer",
+      "title": "Full-Stack Developer (Next.js, NestJS, TypeScript) for Inventory & Business Management System",
+      "url": "https://www.freelancer.com/projects/nextjs/full-stack-developer-next-nestjs",
+      "budget": "$6191",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "ArangoDB",
+        "Docker",
+        "Java",
+        "JavaScript",
+        "Next.js",
+        "Node.js",
+        "Typescript"
+      ],
+      "score": 95,
+      "reason": "Excellente correspondance avec le développement logiciel full-stack en TypeScript, Node.js/NestJS, API, base de données et fonctionnalités IA. Le budget de 6 191 $ est cohérent et le brief fournit un contexte technique précis."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/demand-data-transfer-automation",
+      "source": "freelancer",
+      "title": "On-Demand Data Transfer Automation",
+      "url": "https://www.freelancer.com/projects/api-developmet/demand-data-transfer-automation",
+      "budget": "$1076",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "Data Integration",
+        "Docker",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 92,
+      "reason": "Mission d'intégration API simple, concrète et bien définie, parfaitement adaptée à Python ou Node.js, avec des livrables clairs. Le budget de 1 076 $ est cohérent avec un outil léger mais maintenable."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/high-concurrency-api-testing-platform",
+      "source": "freelancer",
+      "title": "High-Concurrency API Testing Platform",
+      "url": "https://www.freelancer.com/projects/api-developmet/high-concurrency-api-testing-platform",
+      "budget": "$1952",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Cryptography",
+        "Distributed Systems",
+        "Django",
+        "Linux",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 90,
+      "reason": "Mission très technique et bien cadrée, parfaitement alignée avec Python, les systèmes distribués, les API et la cryptographie. Le budget de 1 952 $ est cohérent, malgré une composante de déploiement Linux secondaire."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/infor-csd-pim-data-integration",
+      "source": "freelancer",
+      "title": "Infor CSD–PIM Data Integration",
+      "url": "https://www.freelancer.com/projects/api-integration/infor-csd-pim-data-integration",
+      "budget": "$1907",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Data Integration",
+        "Infor"
+      ],
+      "score": 87,
+      "reason": "Mission d'intégration de données et d'API bien cadrée, avec des livrables concrets, un budget de 1 907 $ et un besoin de code maintenable. Elle est très pertinente, même si la technologie Infor spécifique peut nécessiter une expertise métier particulière."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/email-support-assistant",
+      "source": "freelancer",
+      "title": "AI Email Support Assistant",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/email-support-assistant",
+      "budget": "$427",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Model Development",
+        "HTML",
+        "Linux",
+        "Natural Language Processing",
+        "PHP",
+        "Ubuntu"
+      ],
+      "score": 78,
+      "reason": "Projet pertinent en IA/LLM, intégration email, traitement NLP et interface human-in-the-loop, avec des critères d'acceptation clairs. Le budget de 427 $ est largement sous-dimensionné pour une solution sécurisée déployée sur AWS."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/agent-systems-architect-silicon-valley",
+      "source": "freelancer",
+      "title": "AI Agent Systems Architect | Silicon Valley | Remote",
+      "url": "https://www.freelancer.com/projects/ai-agents/agent-systems-architect-silicon-valley",
+      "budget": "$538",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "API Integration",
+        "Artificial Intelligence",
+        "Automation",
+        "GitHub",
+        "JavaScript",
+        "n8n",
+        "OpenAI",
+        "Python",
+        "Typescript"
+      ],
+      "score": 72,
+      "reason": "Très bonne adéquation avec les agents IA, l'automatisation, Python/JavaScript et les intégrations API, avec un brief particulièrement précis. Le budget de 300 à 800 $ paraît toutefois faible pour le périmètre, le déploiement, la documentation et la formation."
+    },
+    {
+      "id": "codeur:492781",
+      "source": "codeur",
+      "title": "Développeur backend freelance, harnais d'agents IA · Nantes, Angers",
+      "url": "https://www.codeur.com/projects/492781-developpeur-backend-freelance-harnais-d-agents-ia-nantes-angers",
+      "budget": "1 000 € à 10 000 €",
+      "offers": 62,
+      "views": "9080 Vues",
+      "tags": [
+        "Back-end",
+        "Développement spécifique",
+        "ChatGPT"
+      ],
+      "score": 68,
+      "reason": "Très forte adéquation avec le backend, les agents IA et Python, et le budget annoncé peut être intéressant. La mission est toutefois pénalisée par 62 offres déjà déposées et par une composante d'installation sur VPS, ce qui réduit l'opportunité commerciale."
+    },
+    {
+      "id": "codeur:492859",
+      "source": "codeur",
+      "title": "Développement Python",
+      "url": "https://www.codeur.com/projects/492859-developpement-python",
+      "budget": "500 € à 1 000 €",
+      "offers": 82,
+      "views": "4377 Vues",
+      "tags": [
+        "Python",
+        "Développement spécifique",
+        "Data mining"
+      ],
+      "score": 60,
+      "reason": "Excellent alignement avec Python, scraping, automatisation, enrichissement de données et traitement par lots, avec un brief exceptionnellement détaillé. Les 82 offres déjà présentes et le budget limité à 500–1 000 € diminuent fortement l'intérêt de la mission."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/bots-for-business-automation",
+      "source": "freelancer",
+      "title": "AI Bots for Business Automation",
+      "url": "https://www.freelancer.com/projects/ai-automation/bots-for-business-automation",
+      "budget": "$450",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "API Integration",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Salesforce.com",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "Le sujet correspond bien à l'automatisation et aux intégrations Python/API, mais le périmètre est très large et implique plusieurs systèmes métier. Le budget de 450 $ est nettement insuffisant au regard des exigences de fiabilité et de documentation."
+    },
+    {
+      "id": "freelancer:/projects/algorithmic-trading/build-dhan-swing-algo-trader",
+      "source": "freelancer",
+      "title": "Build Dhan Swing Algo Trader",
+      "url": "https://www.freelancer.com/projects/algorithmic-trading/build-dhan-swing-algo-trader",
+      "budget": "$236",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithmic Trading",
+        "API Development",
+        "C Programming",
+        "C++ Programming",
+        "Financial Markets",
+        "Python",
+        "Software Architecture",
+        "Trading Bot Development"
+      ],
+      "score": 55,
+      "reason": "Mission clairement définie, techniquement adaptée à Python et aux intégrations API, avec une logique algorithmique précise. Le budget de 236 $ est trop faible pour un bot de trading fiable, testable et documenté, avec un risque métier important."
+    },
+    {
+      "id": "freelancer:/projects/web-development/firebase-restaurant-loyalty-pwa",
+      "source": "freelancer",
+      "title": "Firebase Restaurant Loyalty PWA",
+      "url": "https://www.freelancer.com/projects/web-development/firebase-restaurant-loyalty-pwa",
+      "budget": "$234",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Google Firebase",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "Progressive Web Apps",
+        "React.js",
+        "Web Development"
+      ],
+      "score": 48,
+      "reason": "Application web concrète avec logique métier, authentification, règles anti-fraude et intégration Firebase, donc pertinente pour du développement logiciel. Le budget de 234 $ reste très faible pour l'ensemble des écrans, règles serveur, tests et déploiement."
+    },
+    {
+      "id": "freelancer:/projects/fintech/bnpl-demo-platform-for-angola",
+      "source": "freelancer",
+      "title": "BNPL Demo Platform for Angola",
+      "url": "https://www.freelancer.com/projects/fintech/bnpl-demo-platform-for-angola",
+      "budget": "$986",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agile Development",
+        "API Development",
+        "FinTech",
+        "Payment Processing",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 48,
+      "reason": "Le projet est bien un développement logiciel avec API, dashboards et logique fintech, mais son périmètre est très vaste et inclut plusieurs interfaces et langues. Le budget de 986 $ est trop bas pour une démonstration professionnelle complète."
+    },
+    {
+      "id": "freelancer:/projects/api-testing/comprehensive-api-test-automation",
+      "source": "freelancer",
+      "title": "Comprehensive API Test Automation",
+      "url": "https://www.freelancer.com/projects/api-testing/comprehensive-api-test-automation",
+      "budget": "$122",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Testing",
+        "Automation",
+        "Continuous Integration",
+        "JMeter",
+        "REST API",
+        "Software Testing",
+        "Test Automation",
+        "Test Plan Writing"
+      ],
+      "score": 45,
+      "reason": "La mission concerne l'automatisation de tests API et Python/pytest, mais elle est principalement orientée QA et CI plutôt que développement applicatif. Le budget de 122 $ est en outre beaucoup trop faible pour couvrir les scénarios fonctionnels, d'erreur et de charge."
+    },
+    {
+      "id": "freelancer:/projects/cryptocurrency/bybit-crypto-signal-strategy-integration",
+      "source": "freelancer",
+      "title": "Bybit Crypto Signal Strategy Integration",
+      "url": "https://www.freelancer.com/projects/cryptocurrency/bybit-crypto-signal-strategy-integration",
+      "budget": "$1009",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithmic Trading",
+        "Backtesting",
+        "Cryptocurrency",
+        "Trading Bot Development"
+      ],
+      "score": 45,
+      "reason": "Le projet implique Python, trading algorithmique, backtesting et intégration à une API, mais il exige des performances financières très difficiles à garantir et un protocole de validation extrêmement lourd. Le budget de 1 000 $ est faible au regard des quatre semaines de démonstration et des critères d'acceptation."
+    },
+    {
+      "id": "freelancer:/projects/google-sheets/automate-google-forms-sheets",
+      "source": "freelancer",
+      "title": "Automate Google Forms to Sheets",
+      "url": "https://www.freelancer.com/projects/google-sheets/automate-google-forms-sheets",
+      "budget": "$14",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automation",
+        "Data Integration",
+        "Excel",
+        "Google Chrome",
+        "Google Sheets",
+        "JavaScript",
+        "PHP"
+      ],
+      "score": 45,
+      "reason": "Cette petite automatisation est claire et correspond partiellement au souhait d'intégrations et d'automatisation. Elle semble toutefois réalisable presque sans développement et le budget de 14 $ est très faible, ce qui limite fortement son intérêt."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/whatsapp-api-email-archiver",
+      "source": "freelancer",
+      "title": "WhatsApp API Email Archiver",
+      "url": "https://www.freelancer.com/projects/api-developmet/whatsapp-api-email-archiver",
+      "budget": "$101",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "Cloud Computing",
+        "Java",
+        "JavaScript",
+        "PHP",
+        "Software Architecture",
+        "Software Development"
+      ],
+      "score": 42,
+      "reason": "L'intégration WhatsApp Business API et l'automatisation correspondent aux compétences recherchées, et le besoin est compréhensible. Le budget de 101 $ est cependant très insuffisant pour gérer les webhooks, pièces jointes, conformité Meta et déploiement."
+    },
+    {
+      "id": "freelancer:/projects/pandas/financial-reconciliation-desktop-app",
+      "source": "freelancer",
+      "title": "Financial Reconciliation Desktop App",
+      "url": "https://www.freelancer.com/projects/pandas/financial-reconciliation-desktop-app",
+      "budget": "$164",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Processing",
+        "Desktop Application",
+        "Excel",
+        "Financial Analysis",
+        "Pandas",
+        "Python",
+        "Software Architecture",
+        "Visual Basic"
+      ],
+      "score": 35,
+      "reason": "Le projet est techniquement pertinent pour Python, Pandas et l'automatisation de traitement de données, avec un cahier des charges détaillé. Cependant, 164 $ est totalement disproportionné pour une application desktop complète avec algorithmes de rapprochement, interface et exports."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/react-booking-flow-with-payment",
+      "source": "freelancer",
+      "title": "React Booking Flow with Payment",
+      "url": "https://www.freelancer.com/projects/frontend-development/react-booking-flow-with-payment",
+      "budget": "$140",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "JavaScript",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 35,
+      "reason": "Il s'agit d'un développement applicatif réel avec React, paiement et intégration API, mais il est principalement frontend et peu lié aux préférences Python/backend/IA. Le budget de 140 $ est faible pour un parcours multi-étapes sécurisé avec paiement."
+    },
+    {
+      "id": "freelancer:/projects/api/crm-source-code-purchase",
+      "source": "freelancer",
+      "title": "AI CRM Source Code Purchase",
+      "url": "https://www.freelancer.com/projects/api/crm-source-code-purchase",
+      "budget": "$154",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API",
+        "CRM",
+        "Mobile App Development",
+        "MySQL",
+        "PHP",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 30,
+      "reason": "Le sujet est lié aux API, à l'IA et au développement CRM, mais il s'agit surtout d'acheter un produit existant plutôt que de développer une solution. Le budget de 154 $ est peu crédible pour un CRM complet avec transfert de droits commerciaux et démonstration exhaustive."
+    },
+    {
+      "id": "freelancer:/projects/data-mining/cricinfo-ball-ball-data-extraction",
+      "source": "freelancer",
+      "title": "Cricinfo Ball-by-Ball Data Extraction",
+      "url": "https://www.freelancer.com/projects/data-mining/cricinfo-ball-ball-data-extraction",
+      "budget": "$14",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Mining",
+        "MySQL",
+        "PHP",
+        "Python",
+        "Web Scraping"
+      ],
+      "score": 30,
+      "reason": "Le scraping et la structuration de données correspondent bien aux compétences recherchées, avec un livrable logiciel identifiable. Toutefois, le périmètre de collecte de toutes les compétitions et saisons pour seulement 14 $ est manifestement irréaliste."
+    }
+  ]
+}
