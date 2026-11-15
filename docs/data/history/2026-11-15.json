@@ -1,0 +1,433 @@
+{
+  "generated_at": "2026-11-15T12:26:02.422906+00:00",
+  "new_listings_scanned": 292,
+  "missions": [
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/powered-telegram-support-bot",
+      "source": "freelancer",
+      "title": "AI-Powered Telegram Support Bot",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/powered-telegram-support-bot",
+      "budget": "$1856",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "C Programming",
+        "MySQL",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 94,
+      "reason": "Mission très bien cadrée, directement centrée sur une intégration Python/IA avec Telegram, gestion de contexte, commandes d’administration et déploiement. Le budget de 1 856 $ est cohérent avec un MVP propre et documenté."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/autonomous-deal-sourcing-agent-network",
+      "source": "freelancer",
+      "title": "Autonomous AI Deal-Sourcing Agent Network",
+      "url": "https://www.freelancer.com/projects/ai-agents/autonomous-deal-sourcing-agent-network",
+      "budget": "$693",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agent Swarms",
+        "AI Agents",
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Workflow Automation"
+      ],
+      "score": 78,
+      "reason": "Projet très pertinent sur les agents autonomes, l’intégration de modèles, l’outreach, le CRM et la recherche web, avec un budget annoncé flexible. Le niveau d’exigence est toutefois extrêmement élevé et le brief reste partiellement dépendant d’informations sous NDA."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-multi-vendor-print-demand",
+      "source": "freelancer",
+      "title": "Build Multi-Vendor Print-on-Demand Platform",
+      "url": "https://www.freelancer.com/projects/web-development/build-multi-vendor-print-demand",
+      "budget": "$6254",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Graphic Design",
+        "HTML",
+        "Payment Gateway Integration",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 72,
+      "reason": "Projet applicatif substantiel avec rôles, API, commandes, paiements, facturation, expédition et base de données, pour un budget de 6 254 $. Le périmètre est toutefois très large et davantage orienté plateforme e-commerce PHP que Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/c-sharp-programming/solidworks-automated-nesting-add",
+      "source": "freelancer",
+      "title": "SolidWorks Automated Nesting Add-in",
+      "url": "https://www.freelancer.com/projects/c-sharp-programming/solidworks-automated-nesting-add",
+      "budget": "$279",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Assembly",
+        "AutoCAD",
+        "Automation",
+        "C# Programming",
+        "CAD / SolidWorks",
+        "Computer Aided Manufacturing",
+        "Solidworks",
+        "x86/x64 Assembler"
+      ],
+      "score": 68,
+      "reason": "C’est un vrai projet logiciel d’automatisation industrielle, avec add-in, algorithme de nesting, génération de programmes NC et intégration métier précise. Le budget de 279 $ est manifestement trop bas pour ce niveau de complexité et la spécialisation C#/SolidWorks est éloignée des stacks privilégiées."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/internal-task-management-web-system",
+      "source": "freelancer",
+      "title": "Internal Task Management Web System",
+      "url": "https://www.freelancer.com/projects/full-stack-development/internal-task-management-web-system",
+      "budget": "$439",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Design",
+        "Django",
+        "Full Stack Development",
+        "JavaScript",
+        "Laravel",
+        "Node.js",
+        "Vue.js",
+        "Web Development"
+      ],
+      "score": 65,
+      "reason": "Brief clair et pertinent pour du développement web full-stack, avec authentification, rôles, base de données et livrables bien définis. Le budget de 439 $ est faible pour une application complète, ce qui réduit fortement l’intérêt."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/convert-web-prototype-mobile",
+      "source": "freelancer",
+      "title": "Convert Web Prototype to Mobile",
+      "url": "https://www.freelancer.com/projects/api-developmet/convert-web-prototype-mobile",
+      "budget": "$561",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Claude (Anthropic)",
+        "Claude Code",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "React Native",
+        "Website Design"
+      ],
+      "score": 63,
+      "reason": "Projet de développement mobile concret avec React Native ou Flutter, authentification, synchronisation temps réel et API, avec des livrables explicites. Le budget de 561 $ paraît faible pour reproduire une application complète iOS et Android et ajouter l’espace équipe."
+    },
+    {
+      "id": "freelancer:/projects/flutter/exam-prep-app-development",
+      "source": "freelancer",
+      "title": "Exam Prep App Development",
+      "url": "https://www.freelancer.com/projects/flutter/exam-prep-app-development",
+      "budget": "$544",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Backend Development",
+        "Flutter",
+        "iPad",
+        "iPhone",
+        "Mobile App Development",
+        "React Native",
+        "UI / User Interface"
+      ],
+      "score": 63,
+      "reason": "Projet applicatif cohérent avec application cross-platform, backend, administration de contenu, authentification et paiements, avec un brief relativement clair. Le périmètre est large et le budget de 544 $ faible, tandis que l’IA n’est qu’un élément périphérique."
+    },
+    {
+      "id": "freelancer:/projects/game-development/fleetmp-developer-needed-for-custom",
+      "source": "freelancer",
+      "title": "FleetMP – C++ Developer Needed for Custom Euro Truck Simulator 2 Multiplayer Mod",
+      "url": "https://www.freelancer.com/projects/game-development/fleetmp-developer-needed-for-custom",
+      "budget": "$3579",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Debugging",
+        "Documentation",
+        "Game Development",
+        "Software Architecture",
+        "Software Development"
+      ],
+      "score": 62,
+      "reason": "Mission de développement C++ très technique et clairement décrite, avec un budget relativement correct et un vrai travail applicatif sur réseau, moteur et reverse engineering. Elle correspond moins aux préférences Python/Node/IA et comporte un risque lié au partenariat ou revenue share non garanti."
+    },
+    {
+      "id": "freelancer:/projects/algorithm/automated-mnq-mes-futures-equities",
+      "source": "freelancer",
+      "title": "Automated MNQ/MES Futures or Equities Trading System",
+      "url": "https://www.freelancer.com/projects/algorithm/automated-mnq-mes-futures-equities",
+      "budget": "$435",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithm",
+        "Backtesting",
+        "C Programming",
+        "C++ Programming",
+        "Financial Analysis",
+        "Financial Markets",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "Le projet comporte du Python, du backtesting, des intégrations API et de l’automatisation opérationnelle, donc une bonne adéquation technique. Le budget de 250–750 $ est cependant disproportionné pour le développement, les tests réalistes et l’exploitation continue demandés."
+    },
+    {
+      "id": "freelancer:/projects/web-development/customer-account-management-website",
+      "source": "freelancer",
+      "title": "Customer Account Management Website",
+      "url": "https://www.freelancer.com/projects/web-development/customer-account-management-website",
+      "budget": "$240",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Development",
+        "Backend Development",
+        "Frontend Development",
+        "HTML",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 55,
+      "reason": "Brief propre pour une application web avec authentification, réservations, notifications, API et administration, donc pertinent en développement backend/full-stack. Le budget de 240 $ est cependant trop bas pour l’ensemble du développement, des tests et du déploiement."
+    },
+    {
+      "id": "freelancer:/projects/react-native/water-refill-finder-app",
+      "source": "freelancer",
+      "title": "Water Refill Finder App",
+      "url": "https://www.freelancer.com/projects/react-native/water-refill-finder-app",
+      "budget": "$437",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Flutter",
+        "GPS",
+        "iOS Development",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "React Native"
+      ],
+      "score": 55,
+      "reason": "Application mobile concrète avec géolocalisation, cartographie, backend léger et administration des données, ce qui implique du développement réel. Le budget de 437 $ est bas pour deux plateformes et l’ajout d’une interface cartographique complète."
+    },
+    {
+      "id": "freelancer:/projects/web-development/investment-pool-platform-build",
+      "source": "freelancer",
+      "title": "Investment Pool Platform Build",
+      "url": "https://www.freelancer.com/projects/web-development/investment-pool-platform-build",
+      "budget": "$408",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Design",
+        "Full Stack Development",
+        "HTML",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 50,
+      "reason": "Le projet comprend une API, une base transactionnelle, des mises à jour atomiques, une interface admin et des exigences de sécurité applicative. Le budget de 408 $ est trop bas pour une plateforme manipulant des fonds, et la restriction aux freelances de Cebu/Lapu-Lapu est fortement contraignante."
+    },
+    {
+      "id": "freelancer:/projects/tensorflow/driven-amibroker-forex-automation",
+      "source": "freelancer",
+      "title": "AI-Driven AmiBroker Forex Automation",
+      "url": "https://www.freelancer.com/projects/tensorflow/driven-amibroker-forex-automation",
+      "budget": "$76",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backtesting",
+        "C Programming",
+        "C++ Programming",
+        "Forex Trading",
+        "Python",
+        "Pytorch",
+        "Software Architecture",
+        "Tensorflow"
+      ],
+      "score": 48,
+      "reason": "La mission touche à Python, l’IA, l’optimisation et l’automatisation de stratégies, ce qui est techniquement proche des critères. Elle est néanmoins très vague et son budget de 76 $ est beaucoup trop faible pour une intégration et une analyse sérieuses."
+    },
+    {
+      "id": "freelancer:/projects/odoo/odoo-zatca-phase-expert-needed",
+      "source": "freelancer",
+      "title": "Odoo ZATCA Phase 2 Expert Needed — Diagnose and Fix BR-KSA-80 XML Error",
+      "url": "https://www.freelancer.com/projects/odoo/odoo-zatca-phase-expert-needed",
+      "budget": "$30",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "Change Management",
+        "Debugging",
+        "Odoo",
+        "Software Development",
+        "Software Engineering",
+        "Software Testing",
+        "Technical Documentation",
+        "Technical Support",
+        "XML"
+      ],
+      "score": 48,
+      "reason": "Il s’agit bien de debugging et de développement Python/Odoo avec XML, API et validation métier, dans un brief particulièrement précis. Cependant, le budget de 30 $ est totalement incohérent avec l’expertise ZATCA requise et le diagnostic sur environnement réel."
+    },
+    {
+      "id": "freelancer:/projects/web-development/exact-web-clone-android",
+      "source": "freelancer",
+      "title": "Exact Web Clone of Android",
+      "url": "https://www.freelancer.com/projects/web-development/exact-web-clone-android",
+      "budget": "$227",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Integration",
+        "CSS",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "Mobile App Development",
+        "MySQL",
+        "PHP",
+        "Web Development"
+      ],
+      "score": 48,
+      "reason": "Il s’agit d’une intégration d’API et d’un développement web conséquent avec parité fonctionnelle et visuelle, mais le besoin d’un clone pixel-perfect augmente fortement le risque de scope. Le budget de 227 $ est largement insuffisant pour la totalité des écrans, animations et fonctionnalités."
+    },
+    {
+      "id": "freelancer:/projects/electronics/long-term-iot-electronic-developer",
+      "source": "freelancer",
+      "title": "Long-Term IoT Electronic Developer",
+      "url": "https://www.freelancer.com/projects/electronics/long-term-iot-electronic-developer",
+      "budget": "$232",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Electrical Engineering",
+        "Electronics",
+        "Microcontroller",
+        "PCB Layout"
+      ],
+      "score": 45,
+      "reason": "La mission comporte du développement firmware C/C++, des protocoles réseau et de l’intégration matériel, donc un vrai volet logiciel technique. Elle est toutefois orientée embarqué/électronique plutôt que backend ou automatisation, avec une rémunération mensuelle modeste et non détaillée."
+    },
+    {
+      "id": "freelancer:/projects/payment-processing/membership-fee-collection-platform",
+      "source": "freelancer",
+      "title": "Membership Fee Collection Platform",
+      "url": "https://www.freelancer.com/projects/payment-processing/membership-fee-collection-platform",
+      "budget": "$137",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "Payment Processing",
+        "PayPal",
+        "PHP",
+        "Web Development",
+        "Website Design",
+        "WordPress"
+      ],
+      "score": 45,
+      "reason": "Petit projet d’intégration de paiement, notifications, dashboard et export CSV, avec un périmètre compréhensible. Le budget de 137 $ est toutefois très faible, et la mission est davantage une page de paiement simple qu’un projet backend substantiel."
+    },
+    {
+      "id": "freelancer:/projects/ai-video-editing/talking-avatar-twin-creation",
+      "source": "freelancer",
+      "title": "AI Talking Avatar Twin Creation",
+      "url": "https://www.freelancer.com/projects/ai-video-editing/talking-avatar-twin-creation",
+      "budget": "$112",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Animation",
+        "3D Modelling",
+        "After Effects",
+        "AI Content Creation",
+        "AI Model Development",
+        "AI Training Data",
+        "AI Video Editing",
+        "Animation"
+      ],
+      "score": 42,
+      "reason": "Le sujet utilise des technologies IA et des APIs de génération vocale et vidéo, mais relève surtout de la création de contenu audiovisuel et du model tuning plutôt que du développement backend ou d’automatisation. Le budget de 112 $ est irréaliste pour un avatar et une voix suffisamment fiables."
+    },
+    {
+      "id": "freelancer:/projects/web-development/mandatory-requirement-real-time-spa",
+      "source": "freelancer",
+      "title": "MANDATORY REQUIREMENT: REAL-TIME SPA-LIKE EXPERIENCE",
+      "url": "https://www.freelancer.com/projects/web-development/mandatory-requirement-real-time-spa",
+      "budget": "$504",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Django",
+        "HTML",
+        "Laravel",
+        "Mobile App Development",
+        "Node.js",
+        "Payment Gateway Integration",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 38,
+      "reason": "Les exigences techniques sur WebSockets, API, état client et fiabilité sont intéressantes, mais la description ne précise ni le périmètre fonctionnel complet, ni l’existant, ni les livrables de développement. Le budget de 504 $ est très faible pour une plateforme de commande et POS temps réel."
+    },
+    {
+      "id": "freelancer:/projects/azure/onsite-azure-trainer-chennai",
+      "source": "freelancer",
+      "title": "Onsite Azure AI Trainer Chennai",
+      "url": "https://www.freelancer.com/projects/azure/onsite-azure-trainer-chennai",
+      "budget": "$219",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "Android",
+        "Azure",
+        "Azure OpenAI",
+        "Chatbot Development",
+        "Java",
+        "Software Architecture",
+        "UML Design"
+      ],
+      "score": 35,
+      "reason": "Le contenu est techniquement pertinent autour d’Azure OpenAI et du développement de chatbots, mais il s’agit principalement de formation sur site plutôt que d’une mission de développement livrable. L’obligation d’être présent à Chennai et le tarif fixe de 15 $/h limitent fortement la pertinence."
+    }
+  ]
+}
