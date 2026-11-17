@@ -1,0 +1,427 @@
+{
+  "generated_at": "2026-11-17T14:03:04.373977+00:00",
+  "new_listings_scanned": 327,
+  "missions": [
+    {
+      "id": "freelancer:/projects/leadership-training-chatbot-fix",
+      "source": "freelancer",
+      "title": "AI Leadership Training Chatbot",
+      "url": "https://www.freelancer.com/projects/leadership-training-chatbot-fix",
+      "budget": "$6408",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Development",
+        "AI Integration",
+        "Graphic Design",
+        "HTML",
+        "JavaScript",
+        "Natural Language Processing",
+        "PHP"
+      ],
+      "score": 96,
+      "reason": "Excellente mission IA/RAG avec ingestion documentaire, citations, intégration dans une plateforme existante, analytics et exigences de confidentialité clairement définies. Le budget de 6 408 $ est cohérent avec le niveau de complexité et le brief est particulièrement solide."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/secure-mining-reports-chatbot-dashboard",
+      "source": "freelancer",
+      "title": "Secure Mining Reports Chatbot Dashboard",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/secure-mining-reports-chatbot-dashboard",
+      "budget": "$849",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Chatbot Development",
+        "AI Development",
+        "Data Processing",
+        "FastAPI",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 86,
+      "reason": "Mission très pertinente en IA/RAG, ingestion de documents, API et contrôle d’accès, avec un brief particulièrement détaillé. Le budget de 849 $ paraît toutefois faible au regard de la plateforme complète à développer."
+    },
+    {
+      "id": "freelancer:/projects/web-development/tour-transfer-booking-platform",
+      "source": "freelancer",
+      "title": "Tour & Transfer Booking Platform",
+      "url": "https://www.freelancer.com/projects/web-development/tour-transfer-booking-platform",
+      "budget": "$2252",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "Android",
+        "ASP",
+        "ASP.NET",
+        "ASP.NET MVC",
+        "C# Programming",
+        "Node.js",
+        "PHP",
+        "REST API",
+        "Web Development"
+      ],
+      "score": 85,
+      "reason": "Projet de développement logiciel complet avec API, logique de réservation, paiements, rôles, notifications et moteur d’affectation, très cohérent avec le profil recherché. Le budget de 2 252 $ est intéressant, même si probablement bas pour l’ensemble du périmètre annoncé."
+    },
+    {
+      "id": "freelancer:/projects/telegram-api/telegram-ibkr-options-bot-with",
+      "source": "freelancer",
+      "title": "Telegram-to-IBKR options bot with manual approval",
+      "url": "https://www.freelancer.com/projects/telegram-api/telegram-ibkr-options-bot-with",
+      "budget": "$435",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Linux",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "SQLite",
+        "Telegram API",
+        "VPS"
+      ],
+      "score": 84,
+      "reason": "Excellent alignement avec Python, automatisation, intégrations API et exigences techniques précises, notamment la validation manuelle et la gestion des erreurs. Le budget de 435 $ est bas pour un bot de trading fiable et intégrant IBKR."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/powered-email-support-workflow",
+      "source": "freelancer",
+      "title": "AI-Powered Email Support Workflow",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/powered-email-support-workflow",
+      "budget": "$422",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Development",
+        "AI Integration",
+        "AI Model Development",
+        "AI Text-to-text",
+        "AI Workflow Automation",
+        "Email Marketing",
+        "n8n"
+      ],
+      "score": 82,
+      "reason": "Très bon alignement avec les workflows n8n, les LLM, le routage humain et l’automatisation email, avec des livrables clairement définis. Le budget de 422 $ est acceptable pour un workflow limité à l’email, même si la logique multi-modèle demande de la rigueur."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/multi-channel-support-automation",
+      "source": "freelancer",
+      "title": "Multi-Channel AI Support Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/multi-channel-support-automation",
+      "budget": "$482",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "API Integration",
+        "Automation",
+        "C Programming",
+        "C# Programming",
+        "OpenAI",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 78,
+      "reason": "Mission technique et bien cadrée autour d’OpenAI, n8n/Make, webhooks et intégrations multicanal, avec des critères d’acceptation concrets. Le budget de 482 $ reste faible pour Gmail, chat widget, Facebook et Instagram en production."
+    },
+    {
+      "id": "freelancer:/projects/google-sheets/upgrade-bakery-order-form",
+      "source": "freelancer",
+      "title": "Upgrade Bakery Order Form",
+      "url": "https://www.freelancer.com/projects/google-sheets/upgrade-bakery-order-form",
+      "budget": "$128",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Email Handling",
+        "Frontend Development",
+        "Google Sheets",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Web Development"
+      ],
+      "score": 76,
+      "reason": "Mission de développement web concrète et bien délimitée, combinant HTML/JavaScript, email, Google Sheets et correction mobile. Le budget de 128 $ est cohérent pour un petit correctif, même si la dépendance au service de formulaire peut limiter le contrôle technique."
+    },
+    {
+      "id": "freelancer:/projects/android/whatsapp-chat-order-dashboard",
+      "source": "freelancer",
+      "title": "WhatsApp Chat & Order Dashboard",
+      "url": "https://www.freelancer.com/projects/android/whatsapp-chat-order-dashboard",
+      "budget": "$464",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Development",
+        "Frontend Development",
+        "JavaScript",
+        "Mobile App Development",
+        "PHP",
+        "Vue.js",
+        "Web Development"
+      ],
+      "score": 73,
+      "reason": "Mission pertinente en développement applicatif, intégration API, messagerie WhatsApp et tableau de bord temps réel. Le budget de 464 $ paraît toutefois faible pour une interface sécurisée, bidirectionnelle et connectée à un système interne."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/powered-promotional-products-website",
+      "source": "freelancer",
+      "title": "AI-Powered Promotional Products Website",
+      "url": "https://www.freelancer.com/projects/api-developmet/powered-promotional-products-website",
+      "budget": "$764",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Chatbot",
+        "API Development",
+        "Full Stack Development",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "Website Design"
+      ],
+      "score": 67,
+      "reason": "Le projet combine API, backend, e-commerce et assistant IA, donc il correspond techniquement aux recherches. Cependant, le périmètre est celui d’une plateforme complète avec paiement, catalogue, administration et IA pour seulement 764 $, ce qui est très sous-évalué."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/workflow-setup",
+      "source": "freelancer",
+      "title": "AI Workflow Setup in n8n",
+      "url": "https://www.freelancer.com/projects/ai-automation/workflow-setup",
+      "budget": "$215",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Integration",
+        "AI Workflow Automation",
+        "n8n",
+        "OpenAI"
+      ],
+      "score": 63,
+      "reason": "Petit projet d’automatisation n8n avec appel LLM, documentation et gestion des erreurs, bien aligné avec les critères. Le besoin reste cependant très générique et le budget de 215 $ limite l’intérêt malgré un périmètre potentiellement raisonnable."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/email-support-automation",
+      "source": "freelancer",
+      "title": "Email Support AI Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/email-support-automation",
+      "budget": "$83",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "API Integration",
+        "Email Handling",
+        "Email Marketing",
+        "OpenAI",
+        "Workflow Automation"
+      ],
+      "score": 60,
+      "reason": "Le besoin correspond à une automatisation IA concrète et relativement limitée, avec un brief exploitable. Le budget de 84 $ reste néanmoins fortement sous-évalué pour le paramétrage, les tests et la gestion des erreurs."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/email-support-automation",
+      "source": "freelancer",
+      "title": "Email Support AI Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/email-support-automation",
+      "budget": "$84",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "API Integration",
+        "Email Handling",
+        "Email Marketing",
+        "OpenAI",
+        "Workflow Automation"
+      ],
+      "score": 60,
+      "reason": "Le besoin correspond à une automatisation IA concrète et relativement limitée, avec un brief exploitable. Le budget de 84 $ reste néanmoins fortement sous-évalué pour le paramétrage, les tests et la gestion des erreurs."
+    },
+    {
+      "id": "freelancer:/projects/react-js/crm-development",
+      "source": "freelancer",
+      "title": "CRM 360 Development",
+      "url": "https://www.freelancer.com/projects/react-js/crm-development",
+      "budget": "$275",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "FastAPI",
+        "Full Stack Development",
+        "Microsoft SQL Server",
+        "MySQL",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "Python",
+        "React.js"
+      ],
+      "score": 55,
+      "reason": "Le périmètre correspond bien au développement logiciel avec React, FastAPI, Python et SQL Server, et le brief est clair. Le budget de 275 $ est néanmoins totalement disproportionné pour trois modules CRM complets avec rôles et tests."
+    },
+    {
+      "id": "freelancer:/projects/javascript/automation-openai-make-integration",
+      "source": "freelancer",
+      "title": "AI Automation | OpenAI, n8n & Make Integration.",
+      "url": "https://www.freelancer.com/projects/javascript/automation-openai-make-integration",
+      "budget": "$143",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Workflow Automation",
+        "API Integration",
+        "Artificial Intelligence",
+        "JavaScript",
+        "Make.com",
+        "n8n",
+        "Object Oriented Programming (OOP)",
+        "OpenAI",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "Bonne adéquation avec OpenAI, Claude, n8n, Make et les intégrations API. Toutefois, le périmètre est très large et peu spécifié pour seulement 143 $, ce qui rend la mission peu attractive."
+    },
+    {
+      "id": "freelancer:/projects/desktop-application/build-liquor-excise-management-desktop",
+      "source": "freelancer",
+      "title": "Build liquor Excise Management Desktop Software",
+      "url": "https://www.freelancer.com/projects/desktop-application/build-liquor-excise-management-desktop",
+      "budget": "$296",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "C# Programming",
+        "Database Design",
+        "Desktop Application",
+        "Inventory Management",
+        "Microsoft SQL Server",
+        "Software Development",
+        "SQL"
+      ],
+      "score": 55,
+      "reason": "Il s’agit bien de développement logiciel applicatif avec C#, SQL Server, logique métier, import/export et intégrations matérielles. Le périmètre est cependant très important pour 296 $, et la stack ne correspond pas aux préférences Python/Node/IA."
+    },
+    {
+      "id": "freelancer:/projects/php/workflow-automation-multi-model-agents",
+      "source": "freelancer",
+      "title": "n8n Workflow Automation & Multi-Model AI Agents (Claude & Gemini)",
+      "url": "https://www.freelancer.com/projects/php/workflow-automation-multi-model-agents",
+      "budget": "$465",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Workflow Automation",
+        "API Integration",
+        "C# Programming",
+        "CRM",
+        "JavaScript",
+        "n8n",
+        "PHP",
+        "Software Architecture",
+        "Workflow Automation"
+      ],
+      "score": 48,
+      "reason": "Le sujet touche à l’automatisation et aux agents IA, mais la description ressemble davantage à une présentation générique qu’à un besoin projet défini. Les livrables, contraintes et périmètre sont trop vagues pour justifier une forte note."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/embedded-firmware-for-custom-pcba",
+      "source": "freelancer",
+      "title": "Embedded Firmware for Custom PCBA",
+      "url": "https://www.freelancer.com/projects/c-programming/embedded-firmware-for-custom-pcba",
+      "budget": "$465",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "Debugging",
+        "Electronics",
+        "Embedded Software",
+        "Embedded Systems",
+        "Firmware Development",
+        "Microcontroller",
+        "Signal Processing"
+      ],
+      "score": 48,
+      "reason": "Mission de programmation embarquée réelle avec débogage matériel et validation sur carte, mais elle est éloignée des domaines privilégiés que sont backend, API, IA et automatisation. Les spécifications fonctionnelles sont encore à définir et le budget de 465 $ est incertain."
+    },
+    {
+      "id": "codeur:493044",
+      "source": "codeur",
+      "title": "Intégration Web API Avantio pour un moteur de réservation de villas",
+      "url": "https://www.codeur.com/projects/493044-integration-web-api-avantio-pour-un-moteur-de-reservation-de-villas",
+      "budget": "500 € à 1 000 €",
+      "offers": 72,
+      "views": "1273 Vues",
+      "tags": [
+        "API",
+        "Développement spécifique",
+        "WordPress"
+      ],
+      "score": 45,
+      "reason": "L’intégration PMS/API en PHP, Node.js ou Python est très pertinente et le budget d’environ 1 000 € est cohérent pour la phase 1. En revanche, les 72 offres dépassent largement le seuil de concurrence acceptable."
+    },
+    {
+      "id": "freelancer:/projects/embedded-systems/zephyr-esp-mpu-samples",
+      "source": "freelancer",
+      "title": "Zephyr ESP32-C6 MPU6050 Samples",
+      "url": "https://www.freelancer.com/projects/embedded-systems/zephyr-esp-mpu-samples",
+      "budget": "$21",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Electronics",
+        "Embedded Software",
+        "Embedded Systems",
+        "Firmware Development",
+        "I2C",
+        "Microcontroller",
+        "PCB Layout",
+        "Sensor Integration"
+      ],
+      "score": 45,
+      "reason": "Le besoin est très précis et consiste réellement à produire deux exemples de code Zephyr, donc le périmètre est maîtrisable. Il reste toutefois hors des domaines prioritaires et le budget de 21 $ est extrêmement faible."
+    },
+    {
+      "id": "freelancer:/projects/web-development/upgrade-legacy-php-website-safely",
+      "source": "freelancer",
+      "title": "Upgrade Legacy PHP Website Safely",
+      "url": "https://www.freelancer.com/projects/web-development/upgrade-legacy-php-website-safely",
+      "budget": "$31",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "HTML",
+        "MySQL",
+        "Payment Gateway Integration",
+        "PHP",
+        "Web Application",
+        "Web Development",
+        "Web Security"
+      ],
+      "score": 35,
+      "reason": "La migration PHP et la correction d’une application existante constituent bien du développement applicatif. Néanmoins, le budget de 31 $ est irréaliste pour une migration PHP 5.6 vers 8.4/8.5 avec tests, paiements, sécurité et conservation des données."
+    }
+  ]
+}
