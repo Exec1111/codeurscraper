@@ -1,0 +1,425 @@
+{
+  "generated_at": "2026-11-18T13:37:43.911825+00:00",
+  "new_listings_scanned": 300,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-integration/multi-accounting-integrator-browser",
+      "source": "freelancer",
+      "title": "Multi-Accounting Integrator Browser Extension",
+      "url": "https://www.freelancer.com/projects/api-integration/multi-accounting-integrator-browser",
+      "budget": "$4409",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accounting",
+        "API Integration",
+        "Data Integration",
+        "JavaScript",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Xero"
+      ],
+      "score": 82,
+      "reason": "Excellente correspondance avec le développement logiciel, les extensions navigateur et les intégrations API QuickBooks, Xero et Sage. Le budget de 4409 $ est cohérent avec une solution multi-comptes et le brief est suffisamment concret."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/build-secure-government-api-middleware",
+      "source": "freelancer",
+      "title": "Build Secure Government API Middleware",
+      "url": "https://www.freelancer.com/projects/api-developmet/build-secure-government-api-middleware",
+      "budget": "$1102",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "API Development",
+        "Backend Development",
+        "Cryptography",
+        "FastAPI",
+        "Node.js",
+        "Python",
+        "RESTful",
+        "Security"
+      ],
+      "score": 78,
+      "reason": "Très bonne adéquation avec le développement backend, les API, Python/Node.js et les intégrations complexes, avec un brief particulièrement détaillé. Le budget est correct, même si l’exigence d’appartenance à la communauté IIT et la forte composante sécurité/infrastructure réduisent l’accessibilité."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/candidate-sourcing-automation",
+      "source": "freelancer",
+      "title": "AI Candidate Sourcing Automation",
+      "url": "https://www.freelancer.com/projects/ai-automation/candidate-sourcing-automation",
+      "budget": "$1432",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Website Design"
+      ],
+      "score": 72,
+      "reason": "Projet très intéressant en automatisation, IA/NLP, intégrations de job boards et synchronisation ATS, avec des critères d’acceptation précis. Le périmètre est cependant très large et potentiellement dépendant de plateformes difficiles à scraper, malgré un budget seulement modéré."
+    },
+    {
+      "id": "freelancer:/projects/image-processing/python-script-image-visio-flowcharts",
+      "source": "freelancer",
+      "title": "Python Script: Image to Visio Flowcharts",
+      "url": "https://www.freelancer.com/projects/image-processing/python-script-image-visio-flowcharts",
+      "budget": "$14",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Cartography & Maps",
+        "Geospatial",
+        "Image Analysis",
+        "Image Processing",
+        "OCR",
+        "OpenCV",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 68,
+      "reason": "Mission techniquement intéressante en Python, OCR, traitement d’image et génération de fichiers Visio éditables. La reconstruction fiable des formes, connecteurs et textes est complexe, tandis que le budget de 14 $ est manifestement irréaliste."
+    },
+    {
+      "id": "freelancer:/projects/3d-modelling/intel-realsense-dimensioning-software",
+      "source": "freelancer",
+      "title": "Intel RealSense D435if Dimensioning Software",
+      "url": "https://www.freelancer.com/projects/3d-modelling/intel-realsense-dimensioning-software",
+      "budget": "$449",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Modelling",
+        "C# Programming",
+        "C++ Programming",
+        "Computer Vision",
+        "OpenCV",
+        "Python",
+        "Software Architecture",
+        "Windows Desktop"
+      ],
+      "score": 66,
+      "reason": "Bonne mission de développement Python/C++ en vision par ordinateur, avec des objectifs mesurables et des livrables précis. Le budget de 449 $ paraît toutefois faible pour garantir une précision de ±5 mm, une calibration robuste et une application Windows complète."
+    },
+    {
+      "id": "freelancer:/projects/flutter/flutter-supabase-app-fix-individual",
+      "source": "freelancer",
+      "title": "Flutter & Supabase App Fix (Individual Dev Only / Video Required)",
+      "url": "https://www.freelancer.com/projects/flutter/flutter-supabase-app-fix-individual",
+      "budget": "$462",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Backend Development",
+        "Database Management",
+        "Flutter",
+        "iOS",
+        "iOS Development",
+        "iPhone",
+        "Mobile App Development",
+        "Supabase",
+        "Usability Testing"
+      ],
+      "score": 62,
+      "reason": "Mission de développement applicatif concrète sur Flutter, Supabase et synchronisation backend, avec un périmètre de correction relativement ciblé. Le budget de 462 $ est limité et les exigences de vidéo, mot-clé et vérification d’identité ajoutent des contraintes non techniques."
+    },
+    {
+      "id": "freelancer:/projects/n8n/automate-wordpress-publishing-via",
+      "source": "freelancer",
+      "title": "Automate WordPress Publishing via n8n",
+      "url": "https://www.freelancer.com/projects/n8n/automate-wordpress-publishing-via",
+      "budget": "$157",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "CSS",
+        "MySQL",
+        "n8n",
+        "PHP",
+        "WooCommerce",
+        "WordPress",
+        "Workflow Automation"
+      ],
+      "score": 60,
+      "reason": "Automatisation concrète d’une API WordPress via n8n, avec gestion des mappings, erreurs et extensibilité, donc pertinente malgré l’écosystème WordPress. Le périmètre est raisonnable mais le budget de 157 $ reste bas."
+    },
+    {
+      "id": "freelancer:/projects/ai-development/automate-daily-hindi-youtube-videos",
+      "source": "freelancer",
+      "title": "Automate Daily Hindi YouTube Videos",
+      "url": "https://www.freelancer.com/projects/ai-development/automate-daily-hindi-youtube-videos",
+      "budget": "$70",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Content Creation",
+        "AI Development",
+        "AI Image Generation",
+        "AI Voiceover",
+        "Automation",
+        "PHP",
+        "Python",
+        "Video Services",
+        "Workflow Automation",
+        "YouTube"
+      ],
+      "score": 58,
+      "reason": "Forte adéquation technique avec Python, automatisation, APIs IA, génération de contenu et YouTube, dans un workflow clairement décrit. Le budget de 70 $ est totalement disproportionné pour une chaîne vidéo automatisée complète, et la demande de prototype peut représenter du travail non rémunéré."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/extract-jee-maths-questions-chapter",
+      "source": "freelancer",
+      "title": "Extract JEE Maths Questions by Chapter",
+      "url": "https://www.freelancer.com/projects/data-analysis/extract-jee-maths-questions-chapter",
+      "budget": "$81",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Extraction",
+        "Data Processing",
+        "LaTeX",
+        "Mathematics",
+        "PDF",
+        "Python"
+      ],
+      "score": 58,
+      "reason": "Bonne adéquation avec Python, traitement de PDF, extraction de données et automatisation, avec un besoin clairement décrit. Le budget annoncé de 81 $ est très faible pour 10 000 pages et la phase de test avant engagement complet crée un risque de travail sous-rémunéré."
+    },
+    {
+      "id": "freelancer:/projects/data-extraction/global-church-directory-web-scraper",
+      "source": "freelancer",
+      "title": "Global Church Directory Web Scraper",
+      "url": "https://www.freelancer.com/projects/data-extraction/global-church-directory-web-scraper",
+      "budget": "$74",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "Data Analysis",
+        "Data Extraction",
+        "Data Management",
+        "Data Mining",
+        "Data Processing",
+        "Django",
+        "Python",
+        "Web Scraping"
+      ],
+      "score": 55,
+      "reason": "Mission techniquement pertinente en Python, scraping et extraction de données, avec des livrables clairement définis. Toutefois, le budget de 74 $ est très faible pour un scraper mondial avec gestion de contacts, documentation et cession complète du code."
+    },
+    {
+      "id": "freelancer:/projects/ai-app-development/music-matchmaking-app-development",
+      "source": "freelancer",
+      "title": "Music Matchmaking App Development",
+      "url": "https://www.freelancer.com/projects/ai-app-development/music-matchmaking-app-development",
+      "budget": "$563",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "Android",
+        "Chatbot",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "OAuth",
+        "Objective C"
+      ],
+      "score": 55,
+      "reason": "Bonne présence d’intégrations OAuth, APIs musicales, algorithme de matching, chat temps réel et potentiellement IA. Le périmètre d’une application mobile complète est cependant très large pour 563 $, avec des risques liés aux APIs Spotify et Apple Music."
+    },
+    {
+      "id": "freelancer:/projects/cloud-computing/cloud-filter",
+      "source": "freelancer",
+      "title": "500GB Cloud DB & Filter UI",
+      "url": "https://www.freelancer.com/projects/cloud-computing/cloud-filter",
+      "budget": "$261",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Amazon Web Services",
+        "API Development",
+        "C# Programming",
+        "Cloud Computing",
+        "Database Management",
+        "Frontend Development",
+        "NoSQL Couch & Mongo",
+        "PHP"
+      ],
+      "score": 45,
+      "reason": "La construction d’une API et d’une interface de recherche sur un grand volume de données est pertinente, avec des exigences techniques claires. Néanmoins, la migration cloud, Terraform, indexation et performance constituent une forte composante infrastructure explicitement peu souhaitée, pour un budget très bas."
+    },
+    {
+      "id": "freelancer:/projects/android/react-native-super-app-development",
+      "source": "freelancer",
+      "title": "React Native Super App Development",
+      "url": "https://www.freelancer.com/projects/android/react-native-super-app-development",
+      "budget": "$112",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Git",
+        "iOS Development",
+        "iPhone",
+        "Mobile App Development",
+        "PhoneGap",
+        "React Native",
+        "Typescript"
+      ],
+      "score": 42,
+      "reason": "Le projet implique du développement TypeScript et une application structurée avec comptes, historique et tableau de bord. Il reste toutefois principalement mobile, assez ambitieux par rapport au budget de 112 $, et moins aligné avec les priorités backend/API et automatisation."
+    },
+    {
+      "id": "freelancer:/projects/app-development/property-progress-update-app",
+      "source": "freelancer",
+      "title": "Property Progress Update App",
+      "url": "https://www.freelancer.com/projects/app-development/property-progress-update-app",
+      "budget": "$435",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Development",
+        "Backend Development",
+        "Mobile App Development",
+        "PHP",
+        "Software Architecture",
+        "User Interface / IA",
+        "Web Development"
+      ],
+      "score": 42,
+      "reason": "Application métier avec authentification, backend, workflow de demandes, tableau de bord et notifications, donc un vrai projet logiciel applicatif. Le brief reste assez haut niveau et le budget de 435 $ paraît trop faible pour une solution mobile et back-office complète."
+    },
+    {
+      "id": "freelancer:/projects/blender/automated-tile-stair-visualization",
+      "source": "freelancer",
+      "title": "Automated Tile-to-Stair Visualization Pipeline",
+      "url": "https://www.freelancer.com/projects/blender/automated-tile-stair-visualization",
+      "budget": "$123",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Animation",
+        "3D Modelling",
+        "3D Rendering",
+        "3ds Max",
+        "Blender",
+        "Image Upscaling",
+        "Python",
+        "Stable Diffusion"
+      ],
+      "score": 40,
+      "reason": "La présence de scripts Python et d’un pipeline automatisé apporte une composante technique intéressante. Toutefois, le cœur de la mission reste la 3D, le rendu Blender et la génération de textures, avec un budget de 123 $ trop faible."
+    },
+    {
+      "id": "freelancer:/projects/blender/automated-tile-stair-visualization",
+      "source": "freelancer",
+      "title": "Automated Tile-to-Stair Visualization Pipeline",
+      "url": "https://www.freelancer.com/projects/blender/automated-tile-stair-visualization",
+      "budget": "$123",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Animation",
+        "3D Modelling",
+        "3D Rendering",
+        "3ds Max",
+        "Blender",
+        "Image Upscaling",
+        "Python",
+        "Stable Diffusion"
+      ],
+      "score": 40,
+      "reason": "La présence de scripts Python et d’un pipeline automatisé apporte une composante technique intéressante. Toutefois, le cœur de la mission reste la 3D, le rendu Blender et la génération de textures, avec un budget de 123 $ trop faible."
+    },
+    {
+      "id": "freelancer:/projects/web-development/seller-approved-product-listing-portal",
+      "source": "freelancer",
+      "title": "Seller-Approved Product Listing Portal",
+      "url": "https://www.freelancer.com/projects/web-development/seller-approved-product-listing-portal",
+      "budget": "$239",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "HTML",
+        "Laravel",
+        "Node.js",
+        "PHP",
+        "SaaS Development",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 38,
+      "reason": "Le portail comporte des éléments de développement applicatif intéressants comme les rôles, la modération et les paiements. Cependant, le périmètre est large, davantage orienté plateforme web généraliste, et le budget de 239 $ est très insuffisant."
+    },
+    {
+      "id": "freelancer:/projects/blender/blender-character-near-infrared-nir",
+      "source": "freelancer",
+      "title": "Blender Character — Near-Infrared (NIR) Skin, Eyes & Modular Accessories for Synthetic Face Dataset -- 2",
+      "url": "https://www.freelancer.com/projects/blender/blender-character-near-infrared-nir",
+      "budget": "$206",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "3D Rendering",
+        "3D Visualization",
+        "Blender",
+        "Blender 3D",
+        "Character Design",
+        "Texturing"
+      ],
+      "score": 35,
+      "reason": "La mission comprend une automatisation Python et une pipeline Blender sophistiquée, mais elle porte principalement sur le look-dev, les shaders et les assets 3D. Elle correspond peu aux critères de développement logiciel et le budget de 206 $ est très insuffisant."
+    },
+    {
+      "id": "freelancer:/projects/react-native/community-info-sharing-app",
+      "source": "freelancer",
+      "title": "Community Info Sharing App",
+      "url": "https://www.freelancer.com/projects/react-native/community-info-sharing-app",
+      "budget": "$456",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Design",
+        "Flutter",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "PhoneGap",
+        "React Native"
+      ],
+      "score": 35,
+      "reason": "Le développement mobile et les fonctions de modération constituent un projet applicatif réel, mais il s’agit d’une plateforme sociale assez générique et peu détaillée techniquement. Le budget de 456 $ est faible pour les fonctionnalités Android/iOS, médias, feed et administration."
+    },
+    {
+      "id": "freelancer:/projects/ios/cross-platform-acoustic-health-app",
+      "source": "freelancer",
+      "title": "Cross-Platform Acoustic Health App",
+      "url": "https://www.freelancer.com/projects/ios/cross-platform-acoustic-health-app",
+      "budget": "$194",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Design",
+        "App Development",
+        "Graphic Design",
+        "iOS",
+        "iPhone",
+        "Mobile App Development",
+        "Mobile Development",
+        "Signal Processing",
+        "UI / User Interface"
+      ],
+      "score": 32,
+      "reason": "Le traitement temps réel du signal pourrait être techniquement intéressant, mais le brief reste vague sur la faisabilité de mesures médicales par acoustique et sur l’architecture. Le budget de 194 $ est très faible pour une application Android/iOS de cette nature."
+    }
+  ]
+}
