@@ -1,0 +1,424 @@
+{
+  "generated_at": "2026-11-19T14:03:34.902154+00:00",
+  "new_listings_scanned": 306,
+  "missions": [
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/powered-whatsapp-assistant-development",
+      "source": "freelancer",
+      "title": "AI-Powered WhatsApp Assistant Development",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/powered-whatsapp-assistant-development",
+      "budget": "$1107",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "Automation",
+        "Java",
+        "Natural Language Processing",
+        "PHP",
+        "Software Architecture"
+      ],
+      "score": 82,
+      "reason": "Mission très pertinente pour l’IA, l’automatisation, l’intégration WhatsApp et le développement Python, avec un brief fonctionnel assez clair et un budget correct. Le périmètre reste toutefois ambitieux pour 1 107 $."
+    },
+    {
+      "id": "freelancer:/projects/robotics/senior-robotics-engineer-open-rmf",
+      "source": "freelancer",
+      "title": "Senior Robotics Engineer (Open-RMF) *Freelancer based in Malaysia",
+      "url": "https://www.freelancer.com/projects/robotics/senior-robotics-engineer-open-rmf",
+      "budget": "$2906",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agile Development",
+        "Ansible",
+        "DevOps",
+        "Docker",
+        "MQTT",
+        "Python",
+        "Robotics",
+        "WebRTC"
+      ],
+      "score": 72,
+      "reason": "Mission de développement logiciel substantielle en Python/C++, ROS2, APIs et intégrations robotiques, avec un budget cohérent. Elle exige néanmoins une expertise très spécialisée, du management et une forte composante robotique/DevOps."
+    },
+    {
+      "id": "freelancer:/projects/robotics/senior-robotics-engineer-open-rmf",
+      "source": "freelancer",
+      "title": "Senior Robotics Engineer (Open-RMF) *Freelancer based in Malaysia",
+      "url": "https://www.freelancer.com/projects/robotics/senior-robotics-engineer-open-rmf",
+      "budget": "$2906",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Agile Development",
+        "Ansible",
+        "DevOps",
+        "Docker",
+        "MQTT",
+        "Python",
+        "Robotics",
+        "WebRTC"
+      ],
+      "score": 72,
+      "reason": "Mission de développement logiciel substantielle en Python/C++, ROS2, APIs et intégrations robotiques, avec un budget cohérent. Elle exige néanmoins une expertise très spécialisée, du management et une forte composante robotique/DevOps."
+    },
+    {
+      "id": "freelancer:/projects/embedded-systems/led-display-controller-with-built",
+      "source": "freelancer",
+      "title": "LED Display Controller with Built-in Modbus TCP",
+      "url": "https://www.freelancer.com/projects/embedded-systems/led-display-controller-with-built",
+      "budget": "$31135",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Cloud Computing",
+        "Electronics",
+        "Embedded Systems",
+        "Firmware Development",
+        "Microcontroller",
+        "PCB Design and Layout",
+        "Video Processing"
+      ],
+      "score": 68,
+      "reason": "Projet extrêmement détaillé, bien financé et riche en développement firmware, FPGA, Modbus, Linux embarqué et intégrations cloud. Il s’éloigne toutefois du profil backend/IA privilégié et requiert une expertise hardware très spécialisée."
+    },
+    {
+      "id": "freelancer:/projects/web-development/flight-weather-tracking-web-app",
+      "source": "freelancer",
+      "title": "Flight-Weather Tracking Web App",
+      "url": "https://www.freelancer.com/projects/web-development/flight-weather-tracking-web-app",
+      "budget": "$458",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "API Development",
+        "Geospatial",
+        "JavaScript",
+        "Mobile App Development",
+        "Node.js",
+        "PHP",
+        "Web Development"
+      ],
+      "score": 65,
+      "reason": "Mission claire et intéressante en APIs, Node.js, cartographie, géospatial et traitement temps réel, avec des exigences techniques concrètes. Le budget de 458 $ est toutefois faible et la disponibilité de flux gratuits redistribuables peut poser problème."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/next-pocketsflow-billing-integration",
+      "source": "freelancer",
+      "title": "Next.js Pocketsflow Billing Integration",
+      "url": "https://www.freelancer.com/projects/nextjs/next-pocketsflow-billing-integration",
+      "budget": "$404",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Git",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "Next.js",
+        "PHP",
+        "PostgreSQL",
+        "Supabase"
+      ],
+      "score": 62,
+      "reason": "Bonne adéquation avec le développement full-stack, Next.js, Supabase, webhooks et intégration de paiement, avec un brief techniquement sérieux. Le budget de 405 $ est bas pour une facturation récurrente sécurisée et des tests complets."
+    },
+    {
+      "id": "freelancer:/projects/nextjs/next-pocketsflow-billing-integration",
+      "source": "freelancer",
+      "title": "Next.js Pocketsflow Billing Integration",
+      "url": "https://www.freelancer.com/projects/nextjs/next-pocketsflow-billing-integration",
+      "budget": "$405",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Git",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "Next.js",
+        "PHP",
+        "PostgreSQL",
+        "Supabase"
+      ],
+      "score": 62,
+      "reason": "Bonne adéquation avec le développement full-stack, Next.js, Supabase, webhooks et intégration de paiement, avec un brief techniquement sérieux. Le budget de 405 $ est bas pour une facturation récurrente sécurisée et des tests complets."
+    },
+    {
+      "id": "freelancer:/projects/computer-science/malaysia-based-freelance-software",
+      "source": "freelancer",
+      "title": "Malaysia-Based Freelance Software Developer Needed",
+      "url": "https://www.freelancer.com/projects/computer-science/malaysia-based-freelance-software",
+      "budget": "$1611",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C# Programming",
+        "Computer Science",
+        "Database Design",
+        "Java",
+        "Python",
+        "Software Development",
+        "Software Engineering",
+        "Software Testing",
+        "SQL",
+        "Web Application"
+      ],
+      "score": 60,
+      "reason": "Le poste couvre du développement logiciel, des APIs, des intégrations et du Python avec une rémunération annoncée correcte. Il s’agit cependant davantage d’un poste récurrent généraliste avec support et coordination que d’une mission freelance ciblée."
+    },
+    {
+      "id": "freelancer:/projects/odoo/odoo-discount-bug-fix",
+      "source": "freelancer",
+      "title": "Odoo 17 Discount Bug Fix",
+      "url": "https://www.freelancer.com/projects/odoo/odoo-discount-bug-fix",
+      "budget": "$116",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "ERP",
+        "Odoo",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Software Development",
+        "Software Testing"
+      ],
+      "score": 60,
+      "reason": "Le besoin est bien défini, applicatif et directement lié à Python/Odoo, avec des tests de régression clairement demandés. Le budget de 116 $ est bas mais peut rester acceptable pour un correctif ciblé si le bug est réellement isolé."
+    },
+    {
+      "id": "freelancer:/projects/flutter/flutter-service-app-revamp",
+      "source": "freelancer",
+      "title": "Flutter Service App UX Revamp",
+      "url": "https://www.freelancer.com/projects/flutter/flutter-service-app-revamp",
+      "budget": "$442",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Design",
+        "App Development",
+        "Flutter",
+        "Graphic Design",
+        "iOS",
+        "Mobile App Development",
+        "Software Development",
+        "User Interface / IA",
+        "Website Design"
+      ],
+      "score": 60,
+      "reason": "Mission applicative claire en Flutter, avec corrections ciblées, logique temps réel, optimisation et critères d’acceptation concrets. Le budget de 442 $ reste modeste pour une refonte UX et des tests multi-appareils, mais le scope paraît plus maîtrisable."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/multi-channel-chatbot-automation",
+      "source": "freelancer",
+      "title": "Multi-Channel n8n Chatbot Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/multi-channel-chatbot-automation",
+      "budget": "$437",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "C# Programming",
+        "JavaScript",
+        "n8n",
+        "PHP",
+        "Python",
+        "Workflow Automation"
+      ],
+      "score": 56,
+      "reason": "Brief très précis et directement lié aux LLM, à l’automatisation n8n, aux APIs et au RAG multi-sources. Le périmètre multi-canaux est conséquent et le budget de 440 $ reste faible pour une livraison complète et testée."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/multi-channel-chatbot-automation",
+      "source": "freelancer",
+      "title": "Multi-Channel n8n Chatbot Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/multi-channel-chatbot-automation",
+      "budget": "$440",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "C# Programming",
+        "JavaScript",
+        "n8n",
+        "PHP",
+        "Python",
+        "Workflow Automation"
+      ],
+      "score": 56,
+      "reason": "Brief très précis et directement lié aux LLM, à l’automatisation n8n, aux APIs et au RAG multi-sources. Le périmètre multi-canaux est conséquent et le budget de 440 $ reste faible pour une livraison complète et testée."
+    },
+    {
+      "id": "freelancer:/projects/documentation/oracle-hcm-payroll-oic-integration",
+      "source": "freelancer",
+      "title": "Oracle HCM–Payroll OIC Integration",
+      "url": "https://www.freelancer.com/projects/documentation/oracle-hcm-payroll-oic-integration",
+      "budget": "$211",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Business Intelligence",
+        "Documentation",
+        "SQL"
+      ],
+      "score": 43,
+      "reason": "Il s’agit d’une intégration API structurée avec mapping, transformations, tests et gestion d’erreurs, mais très spécialisée Oracle et davantage orientée configuration OIC que développement applicatif. Le budget de 209 $ est faible pour une mission récurrente."
+    },
+    {
+      "id": "freelancer:/projects/documentation/oracle-hcm-payroll-oic-integration",
+      "source": "freelancer",
+      "title": "Oracle HCM–Payroll OIC Integration",
+      "url": "https://www.freelancer.com/projects/documentation/oracle-hcm-payroll-oic-integration",
+      "budget": "$209",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Business Intelligence",
+        "Documentation",
+        "SQL"
+      ],
+      "score": 43,
+      "reason": "Il s’agit d’une intégration API structurée avec mapping, transformations, tests et gestion d’erreurs, mais très spécialisée Oracle et davantage orientée configuration OIC que développement applicatif. Le budget de 209 $ est faible pour une mission récurrente."
+    },
+    {
+      "id": "freelancer:/projects/artificial-intelligence/voice-receptionist-development-for",
+      "source": "freelancer",
+      "title": "AI Voice Receptionist Development for Hospital – AI Calling Agent & Appointment Booking System",
+      "url": "https://www.freelancer.com/projects/artificial-intelligence/voice-receptionist-development-for",
+      "budget": "$135",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "API Integration",
+        "Artificial Intelligence",
+        "Git",
+        "Linux",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Speech Recognition",
+        "Twilio"
+      ],
+      "score": 35,
+      "reason": "Le projet correspond fortement aux critères IA, téléphonie et intégration API, mais le budget de 135 $ est manifestement disproportionné pour un agent vocal hospitalier avec dashboard et gestion des rendez-vous."
+    },
+    {
+      "id": "freelancer:/projects/artificial-intelligence/voice-receptionist-development-for",
+      "source": "freelancer",
+      "title": "AI Voice Receptionist Development for Hospital – AI Calling Agent & Appointment Booking System",
+      "url": "https://www.freelancer.com/projects/artificial-intelligence/voice-receptionist-development-for",
+      "budget": "$135",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot Development",
+        "API Integration",
+        "Artificial Intelligence",
+        "Git",
+        "Linux",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Speech Recognition",
+        "Twilio"
+      ],
+      "score": 35,
+      "reason": "Le projet correspond fortement aux critères IA, téléphonie et intégration API, mais le budget de 135 $ est manifestement disproportionné pour un agent vocal hospitalier avec dashboard et gestion des rendez-vous."
+    },
+    {
+      "id": "freelancer:/projects/ai-model-development/enhance-realtor-saas-mvp",
+      "source": "freelancer",
+      "title": "Enhance Realtor AI SaaS MVP",
+      "url": "https://www.freelancer.com/projects/ai-model-development/enhance-realtor-saas-mvp",
+      "budget": "$106",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Development",
+        "AI Model Development",
+        "AI Quality Assurance",
+        "AngularJS",
+        "Git",
+        "Lovable",
+        "Node.js",
+        "Python",
+        "User Experience Research"
+      ],
+      "score": 35,
+      "reason": "Le projet combine Node.js, Python, IA et amélioration d’un SaaS existant, avec des critères d’acceptation intéressants. Le budget de 106 $ est toutefois très insuffisant pour une collaboration produit et des améliorations de performance récurrentes."
+    },
+    {
+      "id": "freelancer:/projects/microsoft-365/full-feature-manual-test-windows",
+      "source": "freelancer",
+      "title": "Full-feature manual QA test of a Windows/Mac desktop email app ($150 fixed per tester)",
+      "url": "https://www.freelancer.com/projects/microsoft-365/full-feature-manual-test-windows",
+      "budget": "$138",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "IMAP",
+        "Microsoft 365",
+        "Regression Testing",
+        "Software Testing",
+        "Usability Testing"
+      ],
+      "score": 35,
+      "reason": "Le brief est précis et la rémunération est plus crédible pour un test ponctuel, mais il s’agit principalement de QA manuelle et non de développement logiciel, ce qui correspond peu aux critères recherchés."
+    },
+    {
+      "id": "freelancer:/projects/cloud-computing/home-health-monitoring-app",
+      "source": "freelancer",
+      "title": "AI Home Health Monitoring App",
+      "url": "https://www.freelancer.com/projects/cloud-computing/home-health-monitoring-app",
+      "budget": "$275",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Cloud Computing",
+        "Flutter",
+        "Graphic Design",
+        "iPhone",
+        "Mobile App Development",
+        "Node.js",
+        "React Native"
+      ],
+      "score": 35,
+      "reason": "Le projet combine mobile, Node.js/Python, cloud, APIs et IA, mais le périmètre médical, Bluetooth, sécurité et conformité est très vaste. Le budget de 275 $ est totalement insuffisant pour un prototype répondant aux critères annoncés."
+    },
+    {
+      "id": "freelancer:/projects/sql/data-analysis-automation-system-excel",
+      "source": "freelancer",
+      "title": "Data Analysis & Automation System (Excel + Python + SQL + Power BI)",
+      "url": "https://www.freelancer.com/projects/sql/data-analysis-automation-system-excel",
+      "budget": "$98",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Anomaly Detection",
+        "Big Data Sales",
+        "Data Analysis",
+        "Data Management",
+        "Data Processing",
+        "Data Visualization",
+        "Excel",
+        "Power BI",
+        "Python",
+        "SQL"
+      ],
+      "score": 30,
+      "reason": "La mission utilise Python, SQL et l’automatisation, mais le périmètre inclut un système complet avec Excel, machine learning et Power BI pour seulement 98 $. Le budget est largement incohérent avec les livrables demandés."
+    }
+  ]
+}
