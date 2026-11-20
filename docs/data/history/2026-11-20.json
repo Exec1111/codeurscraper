@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-11-20T13:47:24.215499+00:00",
+  "new_listings_scanned": 303,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api-integration/revolut-business-api-integration",
+      "source": "freelancer",
+      "title": "Revolut Business API Integration",
+      "url": "https://www.freelancer.com/projects/api-integration/revolut-business-api-integration",
+      "budget": "$532",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accounting",
+        "API Integration",
+        "Data Integration",
+        "Data Management",
+        "Intuit QuickBooks",
+        "PHP",
+        "Software Development",
+        "Xero"
+      ],
+      "score": 76,
+      "reason": "Intégration API concrète et bien délimitée entre Revolut Business et Xero, correspondant directement au développement backend et aux intégrations recherchées. Le budget de 532 $ paraît raisonnable pour un périmètre limité, sous réserve de la gestion des pièces jointes."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/telegram-chatbot-build",
+      "source": "freelancer",
+      "title": "n8n Telegram AI Chatbot Build",
+      "url": "https://www.freelancer.com/projects/c-programming/telegram-chatbot-build",
+      "budget": "$391",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "C Programming",
+        "ChatGPT",
+        "Java",
+        "n8n",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 74,
+      "reason": "Mission bien cadrée de chatbot Telegram avec OpenAI, webhook, journalisation et workflow n8n exportable, très adaptée aux compétences recherchées. Le budget de 391 $ est bas mais le périmètre paraît plus raisonnable que les autres missions multicanales."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/chatbot-web-whatsapp",
+      "source": "freelancer",
+      "title": "n8n AI Chatbot: Web & WhatsApp",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/chatbot-web-whatsapp",
+      "budget": "$580",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "Java",
+        "JavaScript",
+        "n8n",
+        "PHP",
+        "Software Architecture",
+        "Workflow Automation"
+      ],
+      "score": 72,
+      "reason": "Très bonne adéquation avec l’IA/LLM, le RAG, le scraping et l’automatisation n8n, avec un brief et des critères d’acceptation précis. Le budget de 580 $ reste bas au regard du double canal, de la base vectorielle et du fallback humain."
+    },
+    {
+      "id": "freelancer:/projects/ai-development/callyser-api-integration-with-claude",
+      "source": "freelancer",
+      "title": "Callyser API Integration with Claude AI",
+      "url": "https://www.freelancer.com/projects/ai-development/callyser-api-integration-with-claude",
+      "budget": "$238",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Development",
+        "Android",
+        "API Integration",
+        "Artificial Intelligence",
+        "C Programming",
+        "iPhone",
+        "Mobile App Development",
+        "Programming"
+      ],
+      "score": 72,
+      "reason": "Mission courte et clairement définie d’intégration d’API avec Claude, extraction de données et génération de résumés, en bonne adéquation avec les critères. Le budget de 238 $ est modeste mais potentiellement cohérent si Callyser fournit une API exploitable."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/driven-customer-reply-automation",
+      "source": "freelancer",
+      "title": "AI-Driven Customer Reply Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/driven-customer-reply-automation",
+      "budget": "$402",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "AI Model Integration",
+        "AI Text-to-text",
+        "AI Workflow Automation",
+        "API Integration",
+        "n8n"
+      ],
+      "score": 70,
+      "reason": "Automatisation n8n simple et bien spécifiée, avec intégration Claude/Gemini et gestion de clés API, en plein dans les critères IA. Le budget de 402 $ est acceptable pour un workflow limité mais faible si plusieurs canaux ou cas complexes sont attendus."
+    },
+    {
+      "id": "freelancer:/projects/software-development/find-build-mac-autolink-for",
+      "source": "freelancer",
+      "title": "Find or Build Mac AutoLink for Bluebeam",
+      "url": "https://www.freelancer.com/projects/software-development/find-build-mac-autolink-for",
+      "budget": "$326",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Bluebeam",
+        "Cocoa",
+        "Mac OS",
+        "Software Development",
+        "Swift",
+        "Xcode"
+      ],
+      "score": 70,
+      "reason": "Petit outil d’automatisation macOS clairement défini, avec une preuve de fonctionnement exigée et une possibilité de développement Swift. Le budget est limité à 290 €, mais le périmètre peut être réaliste si une solution existante est trouvée."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/whatsapp-support",
+      "source": "freelancer",
+      "title": "n8n WhatsApp AI Support",
+      "url": "https://www.freelancer.com/projects/ai-automation/whatsapp-support",
+      "budget": "$419",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Model Integration",
+        "AI Training Data",
+        "API Integration",
+        "Data Scraping",
+        "n8n"
+      ],
+      "score": 68,
+      "reason": "Bon alignement avec WhatsApp, n8n, scraping, intégration API et LLM, avec des livrables vérifiables. Le budget de 419 $ est néanmoins faible pour le chatbot, la gestion des leads et l’intégration help-desk."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/multi-channel-support-automation-40827104",
+      "source": "freelancer",
+      "title": "Multi-Channel AI Support Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/multi-channel-support-automation-40827104",
+      "budget": "$420",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Model Development",
+        "GPT-4",
+        "Large Language Model",
+        "n8n",
+        "OpenAI",
+        "Workflow Automation"
+      ],
+      "score": 63,
+      "reason": "Mission pertinente en automatisation n8n et intégration LLM sur trois canaux, avec un périmètre bien décrit. Le budget de 420 $ est disproportionnément faible pour trois workflows, les intégrations et la recherche documentaire."
+    },
+    {
+      "id": "freelancer:/projects/linear-programming/python-chemical-blend-cost-optimizer",
+      "source": "freelancer",
+      "title": "Python Chemical Blend Cost Optimizer",
+      "url": "https://www.freelancer.com/projects/linear-programming/python-chemical-blend-cost-optimizer",
+      "budget": "$250",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Linear Programming",
+        "Python"
+      ],
+      "score": 55,
+      "reason": "Projet Python technique et relativement cadré, correspondant au développement logiciel recherché. Le budget de 250 $ semble trop faible pour l’interface, la base de données, les validations et l’optimisation sous contraintes."
+    },
+    {
+      "id": "freelancer:/projects/web-development/invoicesmartai",
+      "source": "freelancer",
+      "title": "InvoiceSmartAI",
+      "url": "https://www.freelancer.com/projects/web-development/invoicesmartai",
+      "budget": "$428",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "Django",
+        "Node.js",
+        "Payment Gateway Integration",
+        "PHP",
+        "Python",
+        "SaaS Development",
+        "Web Development"
+      ],
+      "score": 45,
+      "reason": "Mission de développement applicatif claire, avec Python/Django ou Node.js, paiements et gestion des rôles. Le budget de 428 $ est toutefois très insuffisant pour un module de facturation SaaS sécurisé et complet."
+    },
+    {
+      "id": "freelancer:/projects/web-development/clinic-queue-whatsapp-feedback",
+      "source": "freelancer",
+      "title": "Intelligent Patient Queue & Waiting Time Management System and AI-Powered WhatsApp Patient Feedback System",
+      "url": "https://www.freelancer.com/projects/web-development/clinic-queue-whatsapp-feedback",
+      "budget": "$257",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "Flutter",
+        "iOS Development",
+        "Mobile App Development",
+        "Twilio",
+        "Web Application",
+        "Web Development"
+      ],
+      "score": 35,
+      "reason": "Le brief combine développement web, logique de planning, WhatsApp et chatbot, avec des critères d’acceptation précis. Toutefois, le périmètre est très large et le budget de 257 $ est manifestement irréaliste, avec en plus des enjeux liés aux données patients."
+    },
+    {
+      "id": "freelancer:/projects/ai-app-development/construction-erp-development",
+      "source": "freelancer",
+      "title": "AI Construction ERP Development",
+      "url": "https://www.freelancer.com/projects/ai-app-development/construction-erp-development",
+      "budget": "$604",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "API Development",
+        "Claude (Anthropic)",
+        "Claude Code",
+        "Cloud Computing",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "Website Design"
+      ],
+      "score": 34,
+      "reason": "Le projet est fortement orienté backend, API, IA/Claude et gestion de données, avec un brief détaillé. Mais il demande un ERP complet web/mobile avec déploiement et plusieurs domaines métier pour seulement 606 $, ce qui le rend très sous-évalué."
+    },
+    {
+      "id": "freelancer:/projects/ai-app-development/construction-erp-development",
+      "source": "freelancer",
+      "title": "AI Construction ERP Development",
+      "url": "https://www.freelancer.com/projects/ai-app-development/construction-erp-development",
+      "budget": "$606",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "API Development",
+        "Claude (Anthropic)",
+        "Claude Code",
+        "Cloud Computing",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "Website Design"
+      ],
+      "score": 34,
+      "reason": "Le projet est fortement orienté backend, API, IA/Claude et gestion de données, avec un brief détaillé. Mais il demande un ERP complet web/mobile avec déploiement et plusieurs domaines métier pour seulement 606 $, ce qui le rend très sous-évalué."
+    },
+    {
+      "id": "freelancer:/projects/computer-vision/training-refinement-edge-models-for",
+      "source": "freelancer",
+      "title": "Training & Refinement of Edge AI Models for Maritime and Industrial Safety",
+      "url": "https://www.freelancer.com/projects/computer-vision/training-refinement-edge-models-for",
+      "budget": "$234",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Integration",
+        "AI Model Development",
+        "AI Quality Assurance",
+        "AI Training Data",
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning (ML)"
+      ],
+      "score": 32,
+      "reason": "Mission techniquement intéressante en computer vision et entraînement de modèles, mais moins alignée avec le développement applicatif Python/API recherché. Le budget de 234 $ est très faible pour l’entraînement, l’évaluation et la documentation, et l’accord IP conditionné à la qualité ajoute un risque."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/uidai-ovse-api-setu-integration",
+      "source": "freelancer",
+      "title": "UIDAI OVSE & API Setu Integration Specialist Required for Hotel SaaS Platform",
+      "url": "https://www.freelancer.com/projects/api-integration/uidai-ovse-api-setu-integration",
+      "budget": "$259",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Backend Development",
+        "SaaS Development",
+        "Security",
+        "Web API"
+      ],
+      "score": 28,
+      "reason": "Mission d’intégration backend/API très technique et bien documentée, avec des enjeux de sécurité et de conformité importants. Le budget de 259 $ est incompatible avec l’expertise UIDAI requise, l’intégration web/mobile et les démarches d’approbation."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/whatsapp-shop-chatbot",
+      "source": "freelancer",
+      "title": "WhatsApp Shop AI Chatbot -- 2",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/whatsapp-shop-chatbot",
+      "budget": "$98",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Development",
+        "Java",
+        "JavaScript",
+        "n8n",
+        "Natural Language Processing",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 20,
+      "reason": "Le projet correspond à l’IA, aux intégrations et aux données produit, mais exige synchronisation, cache, interface d’administration, déploiement cloud et réponses multimédias. Le budget de 98 $ est totalement incohérent avec ce périmètre."
+    },
+    {
+      "id": "codeur:493204",
+      "source": "codeur",
+      "title": "Recherche développeur IA",
+      "url": "https://www.codeur.com/projects/493204-recherche-developpeur-ia",
+      "budget": "10 000 € et plus",
+      "offers": 69,
+      "views": "2163 Vues",
+      "tags": [
+        "Machine Learning",
+        "Stable Diffusion",
+        "Développement spécifique"
+      ],
+      "score": 20,
+      "reason": "Le sujet R&D en génération d’images et Stable Diffusion est très pertinent et le budget est élevé. Cependant, les 69 offres dépassent largement le seuil de concurrence souhaité, ce qui réduit fortement l’intérêt de la mission."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/integrate-school-apis",
+      "source": "freelancer",
+      "title": "Integrate 200+ School APIs",
+      "url": "https://www.freelancer.com/projects/api-developmet/integrate-school-apis",
+      "budget": "$172",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Frontend Development",
+        "React.js"
+      ],
+      "score": 20,
+      "reason": "Le raccordement de nombreuses API à des interfaces existantes correspond au développement logiciel et aux intégrations. Toutefois, plus de 200 endpoints, cinq rôles et des corrections frontend pour 172 $ rendent la mission clairement sous-évaluée."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-secure-citizen-complaint-pwa",
+      "source": "freelancer",
+      "title": "Build Secure Citizen Complaint PWA",
+      "url": "https://www.freelancer.com/projects/web-development/build-secure-citizen-complaint-pwa",
+      "budget": "$102",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Backend Development",
+        "Mobile App Development",
+        "MySQL",
+        "PHP",
+        "PostgreSQL",
+        "Security",
+        "Web Development"
+      ],
+      "score": 18,
+      "reason": "Le projet comporte du backend, PostgreSQL, automatisation et intégrations, mais son périmètre couvre une plateforme complète avec rôles, SLA, médias, sécurité et hébergement. Le budget de 102 $ est totalement irréaliste."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/finance-automation-implementation",
+      "source": "freelancer",
+      "title": "Finance AI Automation Implementation Partner",
+      "url": "https://www.freelancer.com/projects/ai-automation/finance-automation-implementation",
+      "budget": "$26",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accounting",
+        "AI Agents",
+        "AI Automation",
+        "AI Development",
+        "AI Integration",
+        "Excel",
+        "Finance",
+        "Software Architecture"
+      ],
+      "score": 17,
+      "reason": "Le sujet IA/automatisation est pertinent, mais il s’agit surtout d’accompagnement en visioconférence et de transfert de connaissances. Le budget maximal de 100 $ pour 4 à 5 heures, affiché à 25 $, est trop faible."
+    }
+  ]
+}
