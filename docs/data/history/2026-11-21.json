@@ -1,0 +1,421 @@
+{
+  "generated_at": "2026-11-21T13:12:14.052231+00:00",
+  "new_listings_scanned": 296,
+  "missions": [
+    {
+      "id": "freelancer:/projects/artificial-intelligence/build-powered-python-automation-platform",
+      "source": "freelancer",
+      "title": "Build AI-Powered Python Automation Platform",
+      "url": "https://www.freelancer.com/projects/artificial-intelligence/build-powered-python-automation-platform",
+      "budget": "$1003",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Django",
+        "FastAPI",
+        "Generative AI",
+        "Java",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 78,
+      "reason": "Mission très pertinente en Python, IA/LLM, automatisation et développement d’API, avec un budget relativement cohérent de 1003 $. Le brief reste cependant assez générique et ne définit pas précisément le produit à construire."
+    },
+    {
+      "id": "freelancer:/projects/chatbot-development/telegram-faq-chatbot-via",
+      "source": "freelancer",
+      "title": "Telegram FAQ Chatbot via n8n",
+      "url": "https://www.freelancer.com/projects/chatbot-development/telegram-faq-chatbot-via",
+      "budget": "$354",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "Automation",
+        "Chatbot Development",
+        "n8n",
+        "Natural Language Processing",
+        "OpenAI",
+        "Telegram API"
+      ],
+      "score": 72,
+      "reason": "Mission bien cadrée, de petite taille, directement liée à n8n, Telegram, automatisation et éventuellement OpenAI. Le budget de 354 $ est faible mais peut rester acceptable si la logique de recherche est réellement simple."
+    },
+    {
+      "id": "freelancer:/projects/n8n/telegram-lead-capture-chatbot",
+      "source": "freelancer",
+      "title": "n8n Telegram Lead-Capture Chatbot",
+      "url": "https://www.freelancer.com/projects/n8n/telegram-lead-capture-chatbot",
+      "budget": "$380",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "Data Collection",
+        "Java",
+        "Lead Generation",
+        "n8n",
+        "OpenAI",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Workflow Automation"
+      ],
+      "score": 70,
+      "reason": "Projet clair d’automatisation n8n avec Telegram, collecte structurée de données et intégration OpenAI. Le budget de 380 $ est raisonnable pour un workflow simple, mais la valeur ajoutée en développement logiciel reste limitée."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/whatsapp-support-chat-integration",
+      "source": "freelancer",
+      "title": "WhatsApp Support Chat Integration",
+      "url": "https://www.freelancer.com/projects/api-developmet/whatsapp-support-chat-integration",
+      "budget": "$438",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Cloud Computing",
+        "JavaScript",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Web Development"
+      ],
+      "score": 68,
+      "reason": "Brief clair et techniquement pertinent en backend, API WhatsApp, routage de conversations et dashboard, avec une liberté de choix entre Python et Node.js. Le budget de 438 $ est bas pour une intégration complète avec interface temps réel."
+    },
+    {
+      "id": "freelancer:/projects/n8n/powered-telegram-chatbot",
+      "source": "freelancer",
+      "title": "n8n-Powered Telegram Q&A Chatbot",
+      "url": "https://www.freelancer.com/projects/n8n/powered-telegram-chatbot",
+      "budget": "$497",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "API Integration",
+        "Chatbot Development",
+        "Data Management",
+        "JavaScript",
+        "n8n",
+        "Node.js",
+        "OpenAI",
+        "Software Development",
+        "Workflow Automation"
+      ],
+      "score": 68,
+      "reason": "Bonne adéquation avec les workflows n8n, Telegram, API OpenAI et traitement de données, avec des critères d’acceptation explicites. Le budget de 497 $ est acceptable pour un petit workflow mais faible pour une implémentation robuste."
+    },
+    {
+      "id": "freelancer:/projects/n8n/todo-comidas-criollas-boricuas",
+      "source": "freelancer",
+      "title": "De todo en Comidas Criollas y Boricuas",
+      "url": "https://www.freelancer.com/projects/n8n/todo-comidas-criollas-boricuas",
+      "budget": "$402",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Chatbot",
+        "JavaScript",
+        "n8n",
+        "OpenAI",
+        "PHP",
+        "XML"
+      ],
+      "score": 66,
+      "reason": "Bonne correspondance avec l’automatisation, les LLM, n8n, les intégrations API et le hand-off humain. Le périmètre couvre trois canaux et plusieurs intégrations pour seulement 402 $, ce qui réduit nettement l’intérêt économique."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/rekhyt-website-updates-growth-features",
+      "source": "freelancer",
+      "title": "Rekhyt Website Updates and Growth Features",
+      "url": "https://www.freelancer.com/projects/postgresql/rekhyt-website-updates-growth-features",
+      "budget": "$1580",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Cloudflare",
+        "CSS",
+        "Git",
+        "Heroku",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "score": 65,
+      "reason": "Mission techniquement intéressante en Node.js, PostgreSQL, intégrations IA et évolution d’une application existante, avec un budget correct de 1580 $. Le périmètre est très vaste et mélange nombreuses fonctionnalités produit, SEO, paiements et infrastructure d’hébergement."
+    },
+    {
+      "id": "freelancer:/projects/laravel/playstation-account-management-system",
+      "source": "freelancer",
+      "title": "PlayStation Account Management System",
+      "url": "https://www.freelancer.com/projects/laravel/playstation-account-management-system",
+      "budget": "$402",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Laravel",
+        "MySQL",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PHP",
+        "Web Development"
+      ],
+      "score": 62,
+      "reason": "Il s’agit d’une véritable application web avec API, base de données, recherche et chiffrement, donc pertinente pour du développement logiciel. La gestion de credentials PSN exige une forte rigueur de sécurité et le budget de 402 $ paraît bas pour ce niveau d’exigence."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/cpa-pollution-checking-machine",
+      "source": "freelancer",
+      "title": "CPA 100 POLLUTION CHECKING MACHINE -- 2",
+      "url": "https://www.freelancer.com/projects/c-programming/cpa-pollution-checking-machine",
+      "budget": "$1023",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "Microcontroller"
+      ],
+      "score": 60,
+      "reason": "Mission de développement embarqué concrète en C, microcontrôleur, interfaces UART/SPI/I2C et IHM, avec un budget cohérent de 1023 $. Elle est toutefois éloignée des préférences principales pour Python, Node.js, IA et automatisation web."
+    },
+    {
+      "id": "freelancer:/projects/ai-integration/finalize-optimize-custom-claude-long",
+      "source": "freelancer",
+      "title": "Finalize and Optimize Custom Claude Long-Term Memory System",
+      "url": "https://www.freelancer.com/projects/ai-integration/finalize-optimize-custom-claude-long",
+      "budget": "$750",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Integration",
+        "AI Workflow Automation",
+        "Data Management",
+        "Debugging",
+        "Software Development",
+        "Software Testing"
+      ],
+      "score": 58,
+      "reason": "Le projet implique du développement LLM, du débogage et de l’automatisation, ce qui correspond bien aux critères. Il mélange toutefois fortement développement applicatif, sécurité serveur, migration matérielle et sauvegardes, avec un périmètre flou pour 750 $."
+    },
+    {
+      "id": "freelancer:/projects/postgresql/centralized-business-database",
+      "source": "freelancer",
+      "title": "Centralized Business Database Development",
+      "url": "https://www.freelancer.com/projects/postgresql/centralized-business-database",
+      "budget": "$397",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Management",
+        "Database Administration",
+        "Database Design",
+        "Database Programming",
+        "Microsoft Access",
+        "MySQL",
+        "PostgreSQL",
+        "SQL"
+      ],
+      "score": 58,
+      "reason": "Projet applicatif structuré avec Python potentiel, PostgreSQL/MySQL, validation, interface d’administration et rapports. Il est pertinent mais davantage centré sur la conception de base de données que sur les API, l’automatisation ou l’IA, avec un budget assez bas de 397 $."
+    },
+    {
+      "id": "freelancer:/projects/docker/python-automation-platform",
+      "source": "freelancer",
+      "title": "Python AI Automation Platform",
+      "url": "https://www.freelancer.com/projects/docker/python-automation-platform",
+      "budget": "$437",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "API Development",
+        "Django",
+        "Docker",
+        "Git",
+        "PostgreSQL",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "Très forte adéquation technique avec Python, API, IA, orchestration asynchrone et automatisation. Toutefois, le périmètre est celui d’un MVP conséquent alors que le budget de 437 $ est très insuffisant."
+    },
+    {
+      "id": "freelancer:/projects/software-engineering/comprehensive-website-code-review",
+      "source": "freelancer",
+      "title": "Comprehensive Website Code Review",
+      "url": "https://www.freelancer.com/projects/software-engineering/comprehensive-website-code-review",
+      "budget": "$546",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Frontend Development",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Software Architecture",
+        "Software Engineering",
+        "Software Testing"
+      ],
+      "score": 52,
+      "reason": "Brief sérieux, budget correct et travail technique de revue de code avec analyse backend/frontend. Cela reste principalement une mission d’audit et de recommandations, plutôt que du développement logiciel ou de l’automatisation à proprement parler."
+    },
+    {
+      "id": "freelancer:/projects/web-development/service-booking-website-with-dashboard",
+      "source": "freelancer",
+      "title": "Service Booking Website with Dashboard",
+      "url": "https://www.freelancer.com/projects/web-development/service-booking-website-with-dashboard",
+      "budget": "$158",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "HTML",
+        "JavaScript",
+        "Laravel",
+        "PHP",
+        "React.js",
+        "Web Development",
+        "Website Design",
+        "WordPress"
+      ],
+      "score": 52,
+      "reason": "Application web complète avec réservations, paiements, dashboard, rôles et API potentielle, donc techniquement intéressante. Le périmètre est toutefois important et le budget de 158 $ est très insuffisant, tandis que la demande inclut une forte composante site et design."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/whatsapp-booking-sales-automation",
+      "source": "freelancer",
+      "title": "WhatsApp AI Booking Sales Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/whatsapp-booking-sales-automation",
+      "budget": "$83",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Integration",
+        "Chatbot Development",
+        "Conversational AI"
+      ],
+      "score": 50,
+      "reason": "Très forte pertinence fonctionnelle en IA conversationnelle, WhatsApp, intégrations API et automatisation commerciale. Cependant, le périmètre est extrêmement large et le budget annoncé de 83 $ rend la mission irréaliste et potentiellement problématique."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/interactive-full-stack-portfolio-demo",
+      "source": "freelancer",
+      "title": "Interactive Full-Stack Portfolio Demo Platform",
+      "url": "https://www.freelancer.com/projects/full-stack-development/interactive-full-stack-portfolio-demo",
+      "budget": "$261",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AngularJS",
+        "API Development",
+        "Full Stack Development",
+        "HTML5",
+        "JavaScript",
+        "Next.js",
+        "Node.js",
+        "Website Design"
+      ],
+      "score": 48,
+      "reason": "Le projet contient du développement full-stack, ETL, API et automatisation, mais son périmètre est extrêmement ambitieux avec dashboard, sandbox, WebSockets et studio de design. Le budget de 261 $ est très insuffisant pour une réalisation sérieuse."
+    },
+    {
+      "id": "freelancer:/projects/go-high-level/build-scalable-business-platform",
+      "source": "freelancer",
+      "title": "Build Scalable AI Business Platform",
+      "url": "https://www.freelancer.com/projects/go-high-level/build-scalable-business-platform",
+      "budget": "$653",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "CRM",
+        "Digital Marketing",
+        "GoHighLevel",
+        "n8n",
+        "Stripe",
+        "Workflow Automation"
+      ],
+      "score": 45,
+      "reason": "La mission comporte de l’automatisation n8n, des intégrations Stripe/API et un peu de développement réutilisable. Elle est cependant principalement orientée configuration GoHighLevel/CRM et couvre un périmètre massif pour un budget strict de 653 $, donc peu adaptée."
+    },
+    {
+      "id": "freelancer:/projects/app-development/combat-screen-web-app-for",
+      "source": "freelancer",
+      "title": "Combat screen web app for in-person D&D 5e",
+      "url": "https://www.freelancer.com/projects/app-development/combat-screen-web-app-for",
+      "budget": "$129",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "App Development",
+        "Backend Development",
+        "Frontend Development",
+        "Game Design",
+        "Game Development",
+        "JavaScript",
+        "Mobile App Development",
+        "User Interface / IA",
+        "Web Development"
+      ],
+      "score": 45,
+      "reason": "Le projet implique une application temps réel, synchronisation locale, backend et logique métier complexe, ce qui est techniquement intéressant. Mais le périmètre est énorme, fortement spécifique au jeu et le budget de 129 $ est manifestement irréaliste."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/opencart-supplier-api-integration",
+      "source": "freelancer",
+      "title": "OpenCart Supplier API Integration",
+      "url": "https://www.freelancer.com/projects/api-integration/opencart-supplier-api-integration",
+      "budget": "$32",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Database Management",
+        "MySQL",
+        "Open Cart",
+        "PHP",
+        "Software Architecture",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 42,
+      "reason": "L’intégration API et la synchronisation automatisée de catalogue sont pertinentes et applicatives. Néanmoins, le budget de 32 $ est totalement disproportionné par rapport au développement, aux tests et aux risques liés au catalogue complet."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/auth-api-visual-assets",
+      "source": "freelancer",
+      "title": "Auth API & Visual Assets",
+      "url": "https://www.freelancer.com/projects/api-developmet/auth-api-visual-assets",
+      "budget": "$85",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "CSS",
+        "Graphic Design",
+        "HTML",
+        "HTML5",
+        "JavaScript",
+        "JSON",
+        "Node.js",
+        "PDF",
+        "Powerpoint"
+      ],
+      "score": 35,
+      "reason": "La première étape en Node.js/Express est pertinente, mais la mission mélange ensuite API et création graphique PowerPoint/PDF. Le budget global de 85 $ est très insuffisant, ce qui la rend peu attractive."
+    }
+  ]
+}
