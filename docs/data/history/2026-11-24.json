@@ -1,0 +1,431 @@
+{
+  "generated_at": "2026-11-24T15:29:15.734655+00:00",
+  "new_listings_scanned": 322,
+  "missions": [
+    {
+      "id": "freelancer:/projects/zapier/zapier-integration-for-seedance-videos",
+      "source": "freelancer",
+      "title": "Zapier Integration for Seedance Videos",
+      "url": "https://www.freelancer.com/projects/zapier/zapier-integration-for-seedance-videos",
+      "budget": "$380",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Automation",
+        "JavaScript",
+        "PHP",
+        "Salesforce.com",
+        "Seedance",
+        "Software Architecture",
+        "Zapier"
+      ],
+      "score": 82,
+      "reason": "Mission courte, concrète et bien définie, centrée sur une intégration API et une automatisation Zapier avec polling et transmission du résultat. Le budget de 380 $ est cohérent si l’API Seedance est suffisamment documentée, malgré une préférence moindre pour le no-code."
+    },
+    {
+      "id": "freelancer:/projects/django/optimize-existing-software-system",
+      "source": "freelancer",
+      "title": "Optimize Existing Software System",
+      "url": "https://www.freelancer.com/projects/django/optimize-existing-software-system",
+      "budget": "$409",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Django",
+        "JavaScript",
+        "Performance Tuning",
+        "PHP",
+        "PostgreSQL",
+        "Python",
+        "Software Architecture",
+        "Software Development"
+      ],
+      "score": 78,
+      "reason": "Très bonne adéquation avec le développement Python, les microservices, PostgreSQL, le debugging et l’amélioration d’un logiciel existant, avec des livrables clairs. Le budget de 409 $ est bas pour un audit complet de performance, sécurité et refactoring, ce qui réduit la pertinence économique."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-automotive-dealership-saas",
+      "source": "freelancer",
+      "title": "Build Automotive Dealership SaaS Platform",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-automotive-dealership-saas",
+      "budget": "$3650",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Full Stack Development",
+        "MySQL",
+        "PHP",
+        "SaaS Development",
+        "Software Architecture",
+        "Website Design"
+      ],
+      "score": 78,
+      "reason": "Très bonne correspondance avec le développement logiciel full-stack, les API, les bases de données, l’analytics et l’intégration potentielle de LLM, avec un brief structuré. Le budget de 3650 $ reste probablement faible pour une plateforme SaaS complète, mais il est nettement plus crédible que la plupart des offres."
+    },
+    {
+      "id": "freelancer:/projects/ai-hw-sw/senior-security-engineer-for-llms",
+      "source": "freelancer",
+      "title": "Senior AI Security Engineer for LLMs",
+      "url": "https://www.freelancer.com/projects/ai-hw-sw/senior-security-engineer-for-llms",
+      "budget": "$432",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI (Artificial Intelligence) HW/SW",
+        "AI Agents",
+        "AI Development",
+        "AI Model Development",
+        "Computer Security",
+        "Cryptography",
+        "Engineering",
+        "Technical Writing"
+      ],
+      "score": 72,
+      "reason": "Mission très technique et fortement alignée avec l’IA/LLM, le développement applicatif et les tests de sécurité, avec un brief particulièrement détaillé. La rémunération par tâche est correcte mais le profil demandé est très spécialisé et l’éligibilité géographique est fortement restrictive."
+    },
+    {
+      "id": "freelancer:/projects/email-marketing/build-automated-cold-email-engine",
+      "source": "freelancer",
+      "title": "Build Automated Cold Email Engine",
+      "url": "https://www.freelancer.com/projects/email-marketing/build-automated-cold-email-engine",
+      "budget": "$139",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analytics",
+        "Email Marketing",
+        "Power BI",
+        "Python"
+      ],
+      "score": 70,
+      "reason": "Mission très pertinente pour Python, le scraping/API, l’automatisation et les workflows avec un cahier des charges exceptionnellement précis. Le budget de 139 $ est cependant irréaliste pour six semaines de développement, intégration, délivrabilité et dashboard."
+    },
+    {
+      "id": "freelancer:/projects/deep-learning/powered-criclive-platform-enhancement",
+      "source": "freelancer",
+      "title": "AI-Powered Criclive.in Platform Enhancement",
+      "url": "https://www.freelancer.com/projects/deep-learning/powered-criclive-platform-enhancement",
+      "budget": "$7057",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Content Creation",
+        "AI Integration",
+        "Algorithm",
+        "Data Analysis",
+        "Deep Learning",
+        "Machine Learning (ML)",
+        "Matlab and Mathematica",
+        "Python"
+      ],
+      "score": 70,
+      "reason": "Le projet cible directement l’IA, le machine learning, le traitement temps réel et Python, avec un budget nettement supérieur à la moyenne. Le besoin reste néanmoins très vaste et peu spécifié techniquement, avec de nombreuses fonctionnalités à cadrer."
+    },
+    {
+      "id": "freelancer:/projects/ai-red-teaming/agent-red-team-assessment",
+      "source": "freelancer",
+      "title": "AI Agent Red Team Assessment",
+      "url": "https://www.freelancer.com/projects/ai-red-teaming/agent-red-team-assessment",
+      "budget": "$395",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Automation",
+        "AI Compliance",
+        "AI Development",
+        "AI Ethics",
+        "AI Red Teaming",
+        "Cloud Security",
+        "Penetration Testing"
+      ],
+      "score": 68,
+      "reason": "Le sujet est directement lié aux agents IA, au MCP et aux tests de vulnérabilité, avec des livrables et critères d’acceptation clairs. Toutefois, le budget annoncé est faible pour un audit de sécurité cloud aussi large et la mission comporte une part importante de pentest spécialisé."
+    },
+    {
+      "id": "freelancer:/projects/stripe/fix-stripe-subscription-account-sync",
+      "source": "freelancer",
+      "title": "Fix Stripe Subscription Account Sync",
+      "url": "https://www.freelancer.com/projects/stripe/fix-stripe-subscription-account-sync",
+      "budget": "$83",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "HTML",
+        "Payment Processing",
+        "PayPal API",
+        "PHP",
+        "Stripe",
+        "Web Development",
+        "WordPress"
+      ],
+      "score": 68,
+      "reason": "Correctif ciblé d’intégration Stripe/Firebase avec webhook, synchronisation de comptes et logique d’abonnement : c’est une mission backend claire et directement exploitable. Le budget de 83 $ est bas, mais le périmètre semble suffisamment limité pour rester envisageable."
+    },
+    {
+      "id": "freelancer:/projects/database-management/design-public-company-database-website",
+      "source": "freelancer",
+      "title": "Design Public Company Database Website",
+      "url": "https://www.freelancer.com/projects/database-management/design-public-company-database-website",
+      "budget": "$15573",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "Frontend Development",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 63,
+      "reason": "Le projet implique une application web de données avec recherche, filtrage, administration et base MySQL, donc du développement logiciel correctement défini. Il est moins aligné avec Python/Node, IA ou automatisation, et la dimension design/présentation publique domine partiellement."
+    },
+    {
+      "id": "freelancer:/projects/web-development/web-property-management-dashboard",
+      "source": "freelancer",
+      "title": "Web Property Management Dashboard",
+      "url": "https://www.freelancer.com/projects/web-development/web-property-management-dashboard",
+      "budget": "$483",
+      "offers": null,
+      "views": null,
+      "tags": [
+        ".NET",
+        "C# Programming",
+        "Django",
+        "Laravel",
+        "Node.js",
+        "PHP",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 62,
+      "reason": "Application métier intéressante avec calculs financiers, rappels, fichiers et dashboard, réalisable en Django ou Node.js. Le brief est assez clair, mais le budget de 483 $ est faible pour l’ensemble du périmètre et les notifications/fichiers ajoutent de la complexité."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/interior-design-messaging-module",
+      "source": "freelancer",
+      "title": "Interior Design Messaging Module",
+      "url": "https://www.freelancer.com/projects/frontend-development/interior-design-messaging-module",
+      "budget": "$228",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "Graphic Design",
+        "HTML",
+        "Mobile App Development",
+        "PHP",
+        "UI / User Interface",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 60,
+      "reason": "Le module nécessite une implémentation applicative réelle : messagerie, upload sécurisé, stockage de fichiers et notifications, avec un parcours fonctionnel précis. Le budget de 228 $ est faible et la composante frontend/design est importante, mais le périmètre reste plus limité qu’une application complète."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/interior-design-messaging-module",
+      "source": "freelancer",
+      "title": "Interior Design Messaging Module",
+      "url": "https://www.freelancer.com/projects/frontend-development/interior-design-messaging-module",
+      "budget": "$228",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Frontend Development",
+        "Graphic Design",
+        "HTML",
+        "Mobile App Development",
+        "PHP",
+        "UI / User Interface",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 60,
+      "reason": "Le module nécessite une implémentation applicative réelle : messagerie, upload sécurisé, stockage de fichiers et notifications, avec un parcours fonctionnel précis. Le budget de 228 $ est faible et la composante frontend/design est importante, mais le périmètre reste plus limité qu’une application complète."
+    },
+    {
+      "id": "freelancer:/projects/ai-agents/autonomous-back-office-agentics-agent",
+      "source": "freelancer",
+      "title": "Autonomous Back-Office AI agentics Agent",
+      "url": "https://www.freelancer.com/projects/ai-agents/autonomous-back-office-agentics-agent",
+      "budget": "$108",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Accounting",
+        "AI Agents",
+        "AI Automation",
+        "Intuit QuickBooks",
+        "LangChain",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 58,
+      "reason": "Le projet correspond très bien au développement Python/LLM, aux intégrations API et à l’automatisation métier, avec un brief solide. En revanche, le périmètre couvre trois fonctions d’entreprise et de nombreuses intégrations pour seulement 108 $, ce qui est totalement disproportionné."
+    },
+    {
+      "id": "freelancer:/projects/ai-automation/automation-for-small-business",
+      "source": "freelancer",
+      "title": "AI Automation for Small Business",
+      "url": "https://www.freelancer.com/projects/ai-automation/automation-for-small-business",
+      "budget": "$523",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Development",
+        "AI Workflow Automation",
+        "Data Entry",
+        "Data Management",
+        "Excel",
+        "Google Sheets"
+      ],
+      "score": 55,
+      "reason": "La mission concerne bien l’automatisation IA et l’intégration d’outils existants comme Sheets et Tally Prime. Le brief est toutefois peu détaillé et le budget de 523 $ paraît faible pour plusieurs workflows métier et intégrations."
+    },
+    {
+      "id": "freelancer:/projects/c-programming/astra-crypto-trading-agent-initial",
+      "source": "freelancer",
+      "title": "ASTRA AI Crypto Trading Agent – Initial Stage Development",
+      "url": "https://www.freelancer.com/projects/c-programming/astra-crypto-trading-agent-initial",
+      "budget": "$484",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "Graphic Design",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 55,
+      "reason": "La mission est centrée sur Python, les API, l’architecture logicielle et l’automatisation, avec un besoin technique assez explicite. Le périmètre inclut toutefois une fondation complète de trading crypto pour seulement 484 $, ce qui est très sous-évalué et risqué."
+    },
+    {
+      "id": "freelancer:/projects/web-application/custom-business-management-web",
+      "source": "freelancer",
+      "title": "Custom Business Management Web Application",
+      "url": "https://www.freelancer.com/projects/web-application/custom-business-management-web",
+      "budget": "$440",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Business Management",
+        "Database Development",
+        "Express JS",
+        "Node.js",
+        "React.js",
+        "Software Architecture",
+        "Tailwind CSS",
+        "Web Application",
+        "Website Design"
+      ],
+      "score": 50,
+      "reason": "La construction d’une application métier Node.js/React avec API et base de données correspond au développement logiciel recherché. Le brief reste très succinct et le budget de 440 $ est trop faible pour les fonctions de planning, suivi du personnel, paiements et reporting."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/criclive-web-mobile-platform-upgrade",
+      "source": "freelancer",
+      "title": "Criclive.in Web & Mobile Platform Upgrade",
+      "url": "https://www.freelancer.com/projects/full-stack-development/criclive-web-mobile-platform-upgrade",
+      "budget": "$14813",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "Backend Development",
+        "Frontend Development",
+        "Full Stack Development",
+        "iOS Development",
+        "Mobile App Development",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 48,
+      "reason": "La mission comprend du backend, des API, de l’optimisation et du développement logiciel, avec un budget conséquent. Elle reste cependant très vaste, peu détaillée et principalement orientée refonte web/mobile plutôt que les spécialités prioritaires de l’utilisateur."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/criclive-android-ios-apps",
+      "source": "freelancer",
+      "title": "Criclive.in Android & iOS Apps",
+      "url": "https://www.freelancer.com/projects/android-app-development/criclive-android-ios-apps",
+      "budget": "$7113",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "API Integration",
+        "Artificial Intelligence",
+        "Backend Development",
+        "iOS Development",
+        "iPhone",
+        "Mobile App Development",
+        "Mobile App Testing",
+        "PHP"
+      ],
+      "score": 45,
+      "reason": "Le projet implique du backend, des API et des mises à jour temps réel, mais il est principalement orienté développement mobile Android/iOS, moins aligné avec la recherche. Le budget est élevé, mais le périmètre reste très large et dépend d’un site existant à auditer."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/fix-razorpay-integration-replit",
+      "source": "freelancer",
+      "title": "Fix Razorpay Integration on Replit",
+      "url": "https://www.freelancer.com/projects/api-developmet/fix-razorpay-integration-replit",
+      "budget": "$15",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backend Development",
+        "Debugging",
+        "Express JS",
+        "JavaScript",
+        "Node.js",
+        "Payment Gateway Integration",
+        "Replit",
+        "Software Architecture",
+        "Web Development"
+      ],
+      "score": 45,
+      "reason": "Il s’agit d’un correctif backend/API concret sur une intégration de paiement existante, donc techniquement pertinent. Le budget de 15 $ et la formulation d’un paiement à convenir après discussion sont des signaux économiques très défavorables pour une intervention de production."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/criclive-android-app-development-40832850",
+      "source": "freelancer",
+      "title": "Criclive.in Android App Development",
+      "url": "https://www.freelancer.com/projects/android-app-development/criclive-android-app-development-40832850",
+      "budget": "$13324",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "Android SDK",
+        "Android Studio",
+        "API Integration",
+        "Mobile App Development",
+        "PHP",
+        "UI / User Interface",
+        "UX / User Experience",
+        "Website Design"
+      ],
+      "score": 42,
+      "reason": "Le développement Android avec intégration d’API et de données temps réel constitue un travail applicatif réel, mais il reste éloigné des priorités backend, Python et automatisation. Le budget est élevé, bien que le brief soit surtout fonctionnel et centré sur une copie mobile du site existant."
+    }
+  ]
+}
