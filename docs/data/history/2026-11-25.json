@@ -1,0 +1,423 @@
+{
+  "generated_at": "2026-11-25T15:13:49.214708+00:00",
+  "new_listings_scanned": 347,
+  "missions": [
+    {
+      "id": "freelancer:/projects/backend-development/build-sales-call-automation-platform",
+      "source": "freelancer",
+      "title": "Build AI Sales Call Automation Platform",
+      "url": "https://www.freelancer.com/projects/backend-development/build-sales-call-automation-platform",
+      "budget": "$2652",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "API Integration",
+        "Artificial Intelligence",
+        "Backend Development",
+        "SIP",
+        "Speech Recognition",
+        "Twilio",
+        "VoIP"
+      ],
+      "score": 92,
+      "reason": "Mission très pertinente, avec un brief exceptionnellement détaillé sur un système backend de téléphonie programmable, intégrations API, transcription et scoring IA. Le budget annoncé est cohérent pour un proof of concept, même si probablement insuffisant pour l’intégralité du produit."
+    },
+    {
+      "id": "freelancer:/projects/database-management/saudi-local-commerce-platform",
+      "source": "freelancer",
+      "title": "Saudi Local Commerce Platform Development -- 2",
+      "url": "https://www.freelancer.com/projects/database-management/saudi-local-commerce-platform",
+      "budget": "$3415",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Business Analysis",
+        "Cloud Computing",
+        "Content Management System (CMS)",
+        "Database Management",
+        "PHP",
+        "Project Management",
+        "Technical Support"
+      ],
+      "score": 81,
+      "reason": "Projet de développement logiciel complet avec plusieurs applications, APIs, paiements, rôles, catalogue central, géolocalisation et intégrations métier, avec des exigences de propriété et d’exploitation bien définies. Le budget de 3 415 $ reste probablement faible au regard de l’ampleur, mais la pertinence technique est élevée."
+    },
+    {
+      "id": "freelancer:/projects/data-analysis/operations-team-dashboard",
+      "source": "freelancer",
+      "title": "Operations Team Dashboard -- 2",
+      "url": "https://www.freelancer.com/projects/data-analysis/operations-team-dashboard",
+      "budget": "$2040",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Data Analysis",
+        "Data Processing",
+        "Data Visualization",
+        "Excel",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "PostgreSQL",
+        "Visual Basic for Apps",
+        "Web Development"
+      ],
+      "score": 79,
+      "reason": "Mission solide de développement d’un dashboard métier avec intégrations ERPNext/Zendesk, gestion des rôles, KPIs et génération de présentations PowerPoint. Le budget de 2 040 $ est plus cohérent que la plupart des annonces, même si la description détaille davantage le produit que les modalités techniques de réalisation."
+    },
+    {
+      "id": "freelancer:/projects/firmware-development/firmware-destop-app-for-air",
+      "source": "freelancer",
+      "title": "Firmware & Destop App for Air Monitor",
+      "url": "https://www.freelancer.com/projects/firmware-development/firmware-destop-app-for-air",
+      "budget": "$1233",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Arduino",
+        "C Programming",
+        "C++ Programming",
+        "Electronics",
+        "Firmware Development",
+        "Microcontroller",
+        "MQTT",
+        "PCB Layout"
+      ],
+      "score": 77,
+      "reason": "Mission de développement substantiel mêlant firmware C/C++, MQTT, NB-IoT, calibration de capteurs et application de supervision, avec un cahier des charges technique précis. Le budget de 1 233 $ est bas pour ce niveau de complexité et le profil requis est plus embarqué que backend/API."
+    },
+    {
+      "id": "freelancer:/projects/ai-hw-sw/build-amazon-walmart-product-research",
+      "source": "freelancer",
+      "title": "Build AI Amazon or Walmart Product Research MVP - Ai Agent",
+      "url": "https://www.freelancer.com/projects/ai-hw-sw/build-amazon-walmart-product-research",
+      "budget": "$348",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI (Artificial Intelligence) HW/SW",
+        "Amazon Web Services",
+        "Data Analysis",
+        "Data Integration",
+        "Docker",
+        "Python",
+        "Software Architecture",
+        "Web Scraping"
+      ],
+      "score": 75,
+      "reason": "Mission très technique et bien spécifiée autour d’un agent Python, d’APIs de données, du calcul de rentabilité et d’un déploiement Docker. Elle mélange aussi une part importante d’administration VPS et le budget de 348 $ est nettement disproportionné pour dix jours de travail."
+    },
+    {
+      "id": "freelancer:/projects/python/firstcry-hot-wheels-stock-alert",
+      "source": "freelancer",
+      "title": "FirstCry Hot Wheels Stock Alert Bot",
+      "url": "https://www.freelancer.com/projects/python/firstcry-hot-wheels-stock-alert",
+      "budget": "$63",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Automation",
+        "C++ Programming",
+        "JSON",
+        "Python",
+        "Telegram API",
+        "Web Scraping"
+      ],
+      "score": 72,
+      "reason": "Petite mission technique bien cadrée, directement orientée Python, scraping et automatisation Telegram, avec des critères d’acceptation précis. Le budget est très faible et la surveillance continue du site peut poser des problèmes de robustesse ou de maintenance."
+    },
+    {
+      "id": "freelancer:/projects/ai-integration/referral-ecommerce-website-build-est",
+      "source": "freelancer",
+      "title": "AI Referral Ecommerce Website Build - 24/11/2026 22:58 EST",
+      "url": "https://www.freelancer.com/projects/ai-integration/referral-ecommerce-website-build-est",
+      "budget": "$1145",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Integration",
+        "AI Model Development",
+        "eCommerce",
+        "Full Stack Development",
+        "HTML",
+        "PHP",
+        "Tensorflow",
+        "Website Design"
+      ],
+      "score": 70,
+      "reason": "Le projet combine développement full-stack, paiements, webhooks, logique de commissions et recommandations IA, avec des livrables correctement décrits. Le périmètre est néanmoins très large pour 1 145 $, et la partie e-commerce/CMS dépasse une simple mission d’intégration."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/website-order-handling-claude-chatbot",
+      "source": "freelancer",
+      "title": "Website Order-Handling Claude Chatbot",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/website-order-handling-claude-chatbot",
+      "budget": "$459",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "AI Integration",
+        "API Integration",
+        "Chatbot Development",
+        "Claude (Anthropic)",
+        "JavaScript",
+        "Node.js"
+      ],
+      "score": 68,
+      "reason": "Le projet correspond bien au développement d’un chatbot Claude avec middleware API, widget frontend et automatisation métier clairement spécifiée. Le budget de 459 $ est toutefois très faible pour une intégration complète de bout en bout."
+    },
+    {
+      "id": "freelancer:/projects/image-recognition/photo-based-product-matching-feature",
+      "source": "freelancer",
+      "title": "AI Photo-Based Product Matching Feature",
+      "url": "https://www.freelancer.com/projects/image-recognition/photo-based-product-matching-feature",
+      "budget": "$250",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Image Recognition",
+        "Java",
+        "MySQL",
+        "OpenCV",
+        "PHP",
+        "Pytorch",
+        "Software Architecture",
+        "Tensorflow"
+      ],
+      "score": 65,
+      "reason": "Le développement d’un pipeline de vision par ordinateur et de recherche de produits est pertinent et techniquement intéressant. Le budget de 250 $ paraît cependant trop bas pour atteindre une précision de 80 % et intégrer proprement la fonctionnalité en production."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/build-bilingual-borrowing-marketplace",
+      "source": "freelancer",
+      "title": "Build Bilingual Borrowing Marketplace App",
+      "url": "https://www.freelancer.com/projects/full-stack-development/build-bilingual-borrowing-marketplace",
+      "budget": "$459",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Management",
+        "Full Stack Development",
+        "HTML",
+        "JavaScript",
+        "Mobile App Development",
+        "MySQL",
+        "PHP"
+      ],
+      "score": 64,
+      "reason": "Le projet comprend un backend réel, des APIs, une base de données, des réservations, des permissions et un dashboard, avec des exigences de propriété clairement formulées. Le périmètre d’une application marketplace complète est toutefois très important pour seulement 459 $, ce qui rend le budget peu cohérent."
+    },
+    {
+      "id": "freelancer:/projects/web-development/staff-management-dashboard-development",
+      "source": "freelancer",
+      "title": "Staff Management Dashboard Development ASAP",
+      "url": "https://www.freelancer.com/projects/web-development/staff-management-dashboard-development",
+      "budget": "$557",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Backend Development",
+        "Database Management",
+        "Django",
+        "Full Stack Development",
+        "Node.js",
+        "Python",
+        "React.js",
+        "Web Application",
+        "Web Development"
+      ],
+      "score": 63,
+      "reason": "Il s’agit d’une vraie application web avec backend, base de données, rôles, reporting et éventuellement notifications, en cohérence avec le développement logiciel recherché. Le brief est assez clair, mais le budget de 557 $ est faible pour un MVP complet frontend/backend."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/shiprocket-api-integration-laravel-40835073",
+      "source": "freelancer",
+      "title": "Shiprocket API Integration Laravel -- 2",
+      "url": "https://www.freelancer.com/projects/api-integration/shiprocket-api-integration-laravel-40835073",
+      "budget": "$80",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Laravel",
+        "MySQL",
+        "PHP",
+        "RESTful",
+        "Software Architecture",
+        "Software Development",
+        "Web Development"
+      ],
+      "score": 61,
+      "reason": "Intégration API Laravel bien cadrée avec authentification, synchronisation de commandes, webhooks et suivi en temps réel. La mission est pertinente mais le budget de 80 $ est très bas, et elle porte sur PHP/Laravel plutôt que sur les technologies privilégiées."
+    },
+    {
+      "id": "freelancer:/projects/frontend-development/urgent-frontend-bug-fix",
+      "source": "freelancer",
+      "title": "Urgent Frontend Bug Fix",
+      "url": "https://www.freelancer.com/projects/frontend-development/urgent-frontend-bug-fix",
+      "budget": "$350",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "CSS",
+        "Debugging",
+        "Frontend Development",
+        "HTML",
+        "JavaScript",
+        "PHP",
+        "Tailwind CSS",
+        "Vite"
+      ],
+      "score": 57,
+      "reason": "Le débogage React/Vite est une mission technique claire et bien délimitée, avec dépôt, staging et critères de validation précis. Elle est toutefois principalement frontend et le budget de 350 $ limite son intérêt par rapport aux missions backend ou IA recherchées."
+    },
+    {
+      "id": "freelancer:/projects/tradingview/automate-forex-strategy-tradingview",
+      "source": "freelancer",
+      "title": "Automate Forex Strategy on TradingView",
+      "url": "https://www.freelancer.com/projects/tradingview/automate-forex-strategy-tradingview",
+      "budget": "$541",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Algorithmic Trading",
+        "Automation",
+        "Financial Analysis",
+        "Financial Consulting",
+        "Financial Software Development",
+        "Forex Trading",
+        "Pine Script",
+        "TradingView"
+      ],
+      "score": 56,
+      "reason": "L’automatisation d’une stratégie en Pine Script est une mission de programmation relativement claire et le budget est plus crédible que pour plusieurs autres annonces. Elle est cependant éloignée des technologies privilégiées et le brief ne fournit aucun détail sur la stratégie à implémenter."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot-development/open-source-funnel-automation",
+      "source": "freelancer",
+      "title": "Open-Source AI Funnel Automation",
+      "url": "https://www.freelancer.com/projects/ai-chatbot-development/open-source-funnel-automation",
+      "budget": "$86",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Agents",
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Integration",
+        "AI Model Development",
+        "API Development",
+        "Automation",
+        "Chatbot",
+        "NLP",
+        "Python"
+      ],
+      "score": 54,
+      "reason": "Le sujet est fortement aligné avec les agents IA, Python, l’automatisation et les intégrations multicanales. Cependant, le périmètre est extrêmement vaste et peu réaliste au regard du budget de 86 $, ce qui rend la mission peu attractive."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/enhanced-visual-portfolio-site",
+      "source": "freelancer",
+      "title": "AI-Enhanced Visual Portfolio Site",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/enhanced-visual-portfolio-site",
+      "budget": "$228",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Chatbot",
+        "Graphic Design",
+        "HTML",
+        "PHP",
+        "SEO",
+        "UI / User Interface",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 52,
+      "reason": "La présence d’un assistant IA avec recherche sémantique apporte une composante technique intéressante, mais le projet est principalement la création d’un site portfolio orienté design et CMS. Le budget de 228 $ est très faible pour satisfaire les exigences de site, SEO, performance et chatbot."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/company-canteen-app-development",
+      "source": "freelancer",
+      "title": "Company Canteen App Development",
+      "url": "https://www.freelancer.com/projects/api-developmet/company-canteen-app-development",
+      "budget": "$278",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Database Design",
+        "Flutter",
+        "Inventory Management",
+        "Mobile App Development",
+        "Payment Gateway Integration",
+        "React Native",
+        "Web Development"
+      ],
+      "score": 48,
+      "reason": "Le projet implique une application mobile, un dashboard, une base de données et des mises à jour temps réel, donc il contient du vrai développement applicatif. Le périmètre Android/iOS/web est très large pour 278 $ et les exigences fonctionnelles restent encore assez générales."
+    },
+    {
+      "id": "freelancer:/projects/database-management/crm-reports-dashboard-error-fix",
+      "source": "freelancer",
+      "title": "CRM Reports Dashboard Error Fix",
+      "url": "https://www.freelancer.com/projects/database-management/crm-reports-dashboard-error-fix",
+      "budget": "$11",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "CRM",
+        "Database Management",
+        "Debugging",
+        "Landing Pages",
+        "RESTful",
+        "Shell Script",
+        "Software Development",
+        "User Interface / IA",
+        "UX / User Experience"
+      ],
+      "score": 47,
+      "reason": "Le diagnostic d’un module de reporting peut constituer une tâche de développement et de débogage utile, avec des critères d’acceptation explicites. Toutefois, le budget de 11 $ est rédhibitoire et la mission risque de se limiter à une intervention ponctuelle difficile à estimer."
+    },
+    {
+      "id": "freelancer:/projects/content-management-system/fix-joomla-application-loading-issue-40835292",
+      "source": "freelancer",
+      "title": "Fix Joomla Application Loading Issue - 25/11/2026 08:18 EST",
+      "url": "https://www.freelancer.com/projects/content-management-system/fix-joomla-application-loading-issue-40835292",
+      "budget": "$459",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Content Management System (CMS)",
+        "CSS",
+        "MySQL",
+        "PHP",
+        "Software Development",
+        "Troubleshooting",
+        "Web Development"
+      ],
+      "score": 44,
+      "reason": "Il s’agit d’un dépannage PHP/Joomla concret, mais davantage orienté maintenance d’un CMS que développement applicatif ou automatisation. Le brief est court et le travail peut impliquer une mise à jour ou une configuration difficile à estimer."
+    },
+    {
+      "id": "freelancer:/projects/api-integration/whatsapp-meta-api-integration",
+      "source": "freelancer",
+      "title": "WhatsApp <> Meta API Integration",
+      "url": "https://www.freelancer.com/projects/api-integration/whatsapp-meta-api-integration",
+      "budget": "$11",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Facebook API"
+      ],
+      "score": 43,
+      "reason": "L’intégration Meta/WhatsApp est techniquement pertinente, mais la demande est présentée comme une intervention de quelques minutes sur un compte en production, avec très peu de marge d’investigation. Le budget de 11 $ est incompatible avec le niveau d’expertise et de responsabilité demandé."
+    }
+  ]
+}
