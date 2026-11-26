@@ -1,0 +1,432 @@
+{
+  "generated_at": "2026-11-26T14:39:33.955411+00:00",
+  "new_listings_scanned": 307,
+  "missions": [
+    {
+      "id": "freelancer:/projects/api/multi-channel-bulk-order-confirmations",
+      "source": "freelancer",
+      "title": "Multi-Channel Bulk Order Confirmations",
+      "url": "https://www.freelancer.com/projects/api/multi-channel-bulk-order-confirmations",
+      "budget": "$378",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API",
+        "Automation",
+        "Django",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Software Architecture",
+        "Twilio"
+      ],
+      "score": 75,
+      "reason": "Très bon match pour une intégration backend légère en Node.js ou Python avec webhook, Twilio, WhatsApp et email. Les critères d'acceptation sont précis et le périmètre est raisonnable, mais le budget de 378 $ est plutôt faible pour trois canaux et la journalisation."
+    },
+    {
+      "id": "freelancer:/projects/full-stack-development/chip-server",
+      "source": "freelancer",
+      "title": "My Chip Server",
+      "url": "https://www.freelancer.com/projects/full-stack-development/chip-server",
+      "budget": "$6793",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Front-end Design",
+        "Full Stack Development",
+        "Node.js",
+        "Payment Gateway Integration",
+        "React.js",
+        "Regression Testing",
+        "RESTful API",
+        "SEO",
+        "Web Security"
+      ],
+      "score": 72,
+      "reason": "Excellent alignement avec le développement logiciel recherché : SaaS existant, API, Node.js/React, paiements, tests, sécurité applicative et intégrations. Le brief est clair, mais le périmètre des priorités 1 à 3 est très large au regard du budget d'environ 6 800 $."
+    },
+    {
+      "id": "freelancer:/projects/ai-workflow-automation/workflow-setup",
+      "source": "freelancer",
+      "title": "AI Workflow Setup in n8n -- 2",
+      "url": "https://www.freelancer.com/projects/ai-workflow-automation/workflow-setup",
+      "budget": "$238",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Development",
+        "AI Integration",
+        "AI Model Integration",
+        "AI Workflow Automation",
+        "n8n",
+        "OpenAI"
+      ],
+      "score": 72,
+      "reason": "Mission directement centrée sur une automatisation LLM dans n8n, avec gestion des erreurs, documentation et démonstration. Le scope est relativement limité et clair, même si le budget de 238 $ reste bas."
+    },
+    {
+      "id": "freelancer:/projects/supabase/weweb-supabase-developer-for-api",
+      "source": "freelancer",
+      "title": "WeWeb + Supabase developer for API connectors and dashboards",
+      "url": "https://www.freelancer.com/projects/supabase/weweb-supabase-developer-for-api",
+      "budget": "$247",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Integration",
+        "Artificial Intelligence",
+        "Data Management",
+        "Data Visualization",
+        "PostgreSQL",
+        "Software Architecture",
+        "Supabase"
+      ],
+      "score": 65,
+      "reason": "Mission pertinente d'intégration d'API, synchronisation de données, Supabase/PostgreSQL et tableaux de bord. Le brief est concret et prévoit un essai payé, mais le budget initial de 247 $ est faible et le travail repose largement sur des plateformes low-code plutôt que sur du développement classique."
+    },
+    {
+      "id": "freelancer:/projects/ai-chatbot/whatsapp-assistant-for-sales-customer",
+      "source": "freelancer",
+      "title": "AI WhatsApp Assistant for Sales and Customer Support",
+      "url": "https://www.freelancer.com/projects/ai-chatbot/whatsapp-assistant-for-sales-customer",
+      "budget": "$337",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Automation",
+        "AI Chatbot",
+        "AI Workflow Automation",
+        "API Integration",
+        "Artificial Intelligence",
+        "Chatbot Integration",
+        "Customer Support",
+        "Google Sheets"
+      ],
+      "score": 62,
+      "reason": "Très bonne adéquation avec l'IA, l'intégration d'API, l'automatisation et le traitement d'images ou de reçus via WhatsApp. Le besoin est assez clair, mais 337 $ semble faible pour couvrir l'assistant conversationnel, les commandes, l'extraction de données et les transferts humains."
+    },
+    {
+      "id": "freelancer:/projects/nodejs/build-secure-multi-firm-client",
+      "source": "freelancer",
+      "title": "Build a Secure Multi-Firm Client Portal for Law Firms (Azure + React + PostgreSQL)",
+      "url": "https://www.freelancer.com/projects/nodejs/build-secure-multi-firm-client",
+      "budget": "$6120",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Microsoft Azure",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "SaaS"
+      ],
+      "score": 55,
+      "reason": "Mission très pertinente techniquement (SaaS multi-tenant, Node.js/TypeScript, API, PostgreSQL, traitement PDF et intégrations), avec un brief exceptionnellement détaillé. Toutefois, le périmètre est énorme, le délai très serré et le budget de 5 500 à 6 500 $ paraît nettement insuffisant, avec une retenue de paiement conditionnée à l'audit de sécurité."
+    },
+    {
+      "id": "freelancer:/projects/ai-model-development/astrology-vastu-fine-tuning",
+      "source": "freelancer",
+      "title": "Astrology and Vastu AI Fine-Tuning",
+      "url": "https://www.freelancer.com/projects/ai-model-development/astrology-vastu-fine-tuning",
+      "budget": "$266",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Content Creation",
+        "AI Model Development",
+        "AI Training Data",
+        "Data Annotation",
+        "Data Collection",
+        "Data Integration",
+        "Deep Learning",
+        "English Translation",
+        "Large Language Models (LLMs)",
+        "Natural Language Processing"
+      ],
+      "score": 55,
+      "reason": "Bonne correspondance avec les LLM, le fine-tuning et l'exploitation de données en anglais et hindi. Toutefois, le besoin ne précise ni le volume ou la qualité des données, ni la méthode d'évaluation, et le budget de 266 $ est probablement insuffisant pour un fine-tuning sérieux."
+    },
+    {
+      "id": "freelancer:/projects/project-management/marketplace-project-tracking-enhancement",
+      "source": "freelancer",
+      "title": "Marketplace Project Tracking Enhancement",
+      "url": "https://www.freelancer.com/projects/project-management/marketplace-project-tracking-enhancement",
+      "budget": "$464",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Project Management",
+        "UI / User Interface",
+        "Web Development"
+      ],
+      "score": 52,
+      "reason": "Bonne mission de développement applicatif avec modèle de données, composants métier, rappels, tests et intégration à une plateforme existante. Elle est toutefois centrée sur PHP/MySQL plutôt que sur les préférences principales, et le budget de 464 $ est faible."
+    },
+    {
+      "id": "freelancer:/projects/project-management/marketplace-project-tracking-enhancement-40836649",
+      "source": "freelancer",
+      "title": "Marketplace Project Tracking Enhancement -- 2",
+      "url": "https://www.freelancer.com/projects/project-management/marketplace-project-tracking-enhancement-40836649",
+      "budget": "$450",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Management",
+        "HTML",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "Project Management",
+        "UI / User Interface",
+        "Web Development"
+      ],
+      "score": 52,
+      "reason": "Bonne mission de développement applicatif avec modèle de données, composants métier, rappels, tests et intégration à une plateforme existante. Elle est toutefois centrée sur PHP/MySQL plutôt que sur les préférences principales, et le budget de 450 $ est faible."
+    },
+    {
+      "id": "freelancer:/projects/ai-workflow-automation/automate-routine-business-tasks",
+      "source": "freelancer",
+      "title": "Automate Routine Business Tasks",
+      "url": "https://www.freelancer.com/projects/ai-workflow-automation/automate-routine-business-tasks",
+      "budget": "$78",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI Workflow Automation",
+        "API Integration",
+        "Automation",
+        "Data Integration",
+        "Google Sheets",
+        "Python",
+        "Workflow Consulting",
+        "Zapier"
+      ],
+      "score": 50,
+      "reason": "Bonne correspondance avec l'automatisation Python, Google Sheets, Gmail et Drive, et les livrables sont compréhensibles. Le budget de 78 $ est très insuffisant pour une solution fiable et documentée, tandis que le périmètre reste assez générique."
+    },
+    {
+      "id": "freelancer:/projects/web-development/real-estate-marketplace-build",
+      "source": "freelancer",
+      "title": "Real Estate Marketplace Build",
+      "url": "https://www.freelancer.com/projects/web-development/real-estate-marketplace-build",
+      "budget": "$6585",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Django",
+        "Full Stack Development",
+        "Marketplace Development",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PHP",
+        "Vue.js",
+        "Web Application",
+        "Web Development"
+      ],
+      "score": 50,
+      "reason": "Projet de développement logiciel complet avec backend, API, rôles, recherche et marketplace, compatible avec Node.js ou Django. Le cahier des charges reste très haut niveau et le budget d'environ 6 600 $ paraît insuffisant pour une plateforme multi-vendeur complète."
+    },
+    {
+      "id": "freelancer:/projects/web-development/real-estate-marketplace-build",
+      "source": "freelancer",
+      "title": "Real Estate Marketplace Build",
+      "url": "https://www.freelancer.com/projects/web-development/real-estate-marketplace-build",
+      "budget": "$6579",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Django",
+        "Full Stack Development",
+        "Marketplace Development",
+        "Node.js",
+        "NoSQL Couch & Mongo",
+        "PHP",
+        "Vue.js",
+        "Web Application",
+        "Web Development"
+      ],
+      "score": 50,
+      "reason": "Projet de développement logiciel complet avec backend, API, rôles, recherche et marketplace, compatible avec Node.js ou Django. Le cahier des charges reste très haut niveau et le budget d'environ 6 600 $ paraît insuffisant pour une plateforme multi-vendeur complète."
+    },
+    {
+      "id": "freelancer:/projects/api-developmet/build-autonomous-kalshi-trading-bot",
+      "source": "freelancer",
+      "title": "Build Autonomous Kalshi Trading Bot",
+      "url": "https://www.freelancer.com/projects/api-developmet/build-autonomous-kalshi-trading-bot",
+      "budget": "$205",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "API Development",
+        "Backtesting",
+        "C Programming",
+        "Database Management",
+        "Financial Analysis",
+        "PHP",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 45,
+      "reason": "Le projet correspond bien à Python, aux API et à l'automatisation temps réel, avec un brief technique détaillé. Cependant, 205 $ est totalement disproportionné pour un bot de trading réel, un dashboard, la gestion du risque, la résilience 24/7 et la sécurité des credentials."
+    },
+    {
+      "id": "freelancer:/projects/android-app-development/criclive-android-ios-apps-40836361",
+      "source": "freelancer",
+      "title": "Criclive.in Android & iOS Apps",
+      "url": "https://www.freelancer.com/projects/android-app-development/criclive-android-ios-apps-40836361",
+      "budget": "$7514",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Android App Development",
+        "API Integration",
+        "App Store Optimization",
+        "Backend Development",
+        "iPhone",
+        "Mobile App Development",
+        "PHP",
+        "SEO",
+        "User Experience Research"
+      ],
+      "score": 45,
+      "reason": "Projet de développement mobile et d'intégration d'API avec données temps réel, notifications et synchronisation backend, donc techniquement pertinent. Le brief ne précise pas assez les APIs et le budget de 7 514 $ peut être insuffisant pour deux applications complètes et leur déploiement."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-appointment-booking-business",
+      "source": "freelancer",
+      "title": "Build Appointment Booking Business Website",
+      "url": "https://www.freelancer.com/projects/web-development/build-appointment-booking-business",
+      "budget": "$255",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Graphic Design",
+        "HTML",
+        "Laravel",
+        "Payment Processing",
+        "PHP",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 45,
+      "reason": "Mission applicative identifiable avec réservation, paiement, disponibilité, espace d'administration et notifications, donc plus intéressante qu'une simple vitrine. Le recours possible à WordPress/plugin et le budget de 255 $ limitent toutefois l'intérêt pour un développeur backend, et le budget reste faible."
+    },
+    {
+      "id": "freelancer:/projects/web-development/build-website-for-second-videos",
+      "source": "freelancer",
+      "title": "Build a Website for 59-Second AI Videos With Buy Buttons",
+      "url": "https://www.freelancer.com/projects/web-development/build-website-for-second-videos",
+      "budget": "$541",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "AI App Development",
+        "AI Automation",
+        "AI Chatbot Development",
+        "AI Content Creation",
+        "API",
+        "HTML",
+        "PHP",
+        "Social Media Marketing",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 40,
+      "reason": "Le projet comporte des éléments intéressants d'IA, d'intégrations sociales, de génération vidéo et d'automatisation. Mais le périmètre est extrêmement vaste, certaines contraintes de boutons d'achat peuvent dépendre des plateformes, et 541 $ est très loin d'un budget cohérent."
+    },
+    {
+      "id": "freelancer:/projects/microsoft-365/automated-hod-outlook-analysis",
+      "source": "freelancer",
+      "title": "Automated HOD Outlook Analysis",
+      "url": "https://www.freelancer.com/projects/microsoft-365/automated-hod-outlook-analysis",
+      "budget": "$16",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Automation",
+        "Data Analysis",
+        "Excel",
+        "Microsoft 365",
+        "Microsoft Outlook",
+        "Power Automate",
+        "Python",
+        "Software Architecture"
+      ],
+      "score": 35,
+      "reason": "Le besoin est une vraie automatisation applicative intéressante avec Graph API, LLM potentiel, Python et génération de rapports. Le budget annoncé de 16 $ est toutefois manifestement irréaliste, ce qui rend la mission peu exploitable."
+    },
+    {
+      "id": "freelancer:/projects/web-development/reddit-style-stock-forum-build",
+      "source": "freelancer",
+      "title": "Reddit-Style Stock Forum Build",
+      "url": "https://www.freelancer.com/projects/web-development/reddit-style-stock-forum-build",
+      "budget": "$181",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Database Design",
+        "HTML",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Vue.js",
+        "Web Development",
+        "Website Design"
+      ],
+      "score": 35,
+      "reason": "Le besoin comporte du backend, des rôles, une base scalable et du temps réel, donc il ne s'agit pas d'un simple site vitrine. Néanmoins, le budget de 181 $ est beaucoup trop bas pour un forum complet avec votes, réputation, modération et WebSockets."
+    },
+    {
+      "id": "freelancer:/projects/flutter/build-paid-voice-video-calling",
+      "source": "freelancer",
+      "title": "Build Paid Voice Video Calling MVP",
+      "url": "https://www.freelancer.com/projects/flutter/build-paid-voice-video-calling",
+      "budget": "$689",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "Android",
+        "Flutter",
+        "Google Cloud Platform",
+        "iPhone",
+        "Mobile App Development",
+        "MongoDB",
+        "PHP",
+        "React.js"
+      ],
+      "score": 30,
+      "reason": "Le projet contient du développement applicatif intéressant : Flutter, backend, paiements, temps réel, appels vidéo et dashboard. Mais le périmètre est celui d'une plateforme complète avec wallet et facturation à la durée, alors que 689 $ est très insuffisant."
+    },
+    {
+      "id": "freelancer:/projects/python/decrypt-xml-build-rotating-pin",
+      "source": "freelancer",
+      "title": "Decrypt XML, Build Rotating PIN",
+      "url": "https://www.freelancer.com/projects/python/decrypt-xml-build-rotating-pin",
+      "budget": "$373",
+      "offers": null,
+      "views": null,
+      "tags": [
+        "C Programming",
+        "C# Programming",
+        "C++ Programming",
+        "Powershell",
+        "Python",
+        "Scripting",
+        "Software Development",
+        "XML"
+      ],
+      "score": 28,
+      "reason": "La partie script XML/Python est claire et de taille limitée, mais la demande de déchiffrer un hash d'accès est potentiellement sensible et peut relever du contournement de sécurité. Le budget est faible et la légitimité de l'opération n'est pas suffisamment établie."
+    }
+  ]
+}
